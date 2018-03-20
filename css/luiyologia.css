@@ -1,0 +1,60 @@
+/* Custom styles for the blog
+-------------------------------------------------- */
+#content p{
+  text-align: justify;
+}
+
+blockquote{
+  background: transparent url(../img/blog/mouth_quote.png) no-repeat left top;
+  margin: 10px 20px 10px 0px;
+  padding: 5px 0px 0px 80px;
+  font-style: italic;
+  text-align:justify;
+}
+
+.excerpt {
+  background: transparent url(../img/blog/book_bg.jpg) no-repeat left top;
+  margin: 10px 0px;
+  padding: 20px 25px;
+  font-style: italic;
+  color: #555555;
+  text-align:justify;
+}
+
+.image {
+  margin-bottom: 20px;
+}
+
+.image.central {
+  display: inherit;
+}
+
+.image.central img {
+  margin: auto;
+}
+
+.image.lateral {
+  max-width:40%;
+  margin-left: 30px;
+  float:right;
+}
+
+.image.lateral img {
+  margin-bottom: 10px;
+}
+
+.spacious li {
+  margin: 0 0 1rem 0;
+}
+
+.caption {
+  font-size: 80%;
+  text-align: center;
+  color: #646464;
+}
+
+article.post h2,
+article.post h3,
+article.post h4 {
+    color: #646464;
+}

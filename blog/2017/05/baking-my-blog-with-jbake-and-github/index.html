@@ -1,0 +1,1275 @@
+<!DOCTYPE HTML>
+
+<html>
+    <head>
+        
+            
+                <title>Baking my Blog with JBake and GitHub</title>
+            
+        
+
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="generator" content="Hugo 0.37.1" />
+        
+  
+    
+  
+
+  
+
+  <link rel="apple-touch-icon-precomposed" href='/favicon/apple-touch-icon-precomposed.png'>
+  <link rel="icon" href='/favicon/favicon.png'>
+  
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content='/favicon/mstile.png'>
+  <meta name="application-name" content="Luiyología">
+  <meta name="msapplication-tooltip" content="The Science that studies my interests and concerns">
+  <meta name="msapplication-config" content='/favicon/ieconfig.xml'>
+
+
+
+        
+            <meta name="author" content="LuisGC">
+        
+        
+            
+                <meta name="description" content="The Science that studies my interests and concerns">
+            
+        
+
+        <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Baking my Blog with JBake and GitHub"/>
+<meta name="twitter:description" content="Almost since I created my personal blog in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My lazyness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.
+Anyhow, I was determined to migrate my blog outside of any blogging platform. I wanted to have complete control over my content, but without wasting lots of time in maintenance."/>
+<meta name="twitter:site" content="@luiyo"/>
+
+        <meta property="og:title" content="Baking my Blog with JBake and GitHub" />
+<meta property="og:description" content="Almost since I created my personal blog in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My lazyness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.
+Anyhow, I was determined to migrate my blog outside of any blogging platform. I wanted to have complete control over my content, but without wasting lots of time in maintenance." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/blog/2017/05/baking-my-blog-with-jbake-and-github/" />
+
+
+
+<meta property="article:published_time" content="2017-05-19T00:00:00&#43;00:00"/>
+
+<meta property="article:modified_time" content="2017-05-19T00:00:00&#43;00:00"/>
+
+
+
+
+
+
+
+
+
+
+
+        <meta property="og:image" content="//images/logo.png">
+        <meta property="og:image:type" content="image/png">
+        <meta property="og:image:width" content="512">
+        <meta property="og:image:height" content="512">
+        
+<meta itemprop="name" content="Baking my Blog with JBake and GitHub">
+<meta itemprop="description" content="Almost since I created my personal blog in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My lazyness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.
+Anyhow, I was determined to migrate my blog outside of any blogging platform. I wanted to have complete control over my content, but without wasting lots of time in maintenance.">
+
+
+<meta itemprop="datePublished" content="2017-05-19T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2017-05-19T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="896">
+
+
+
+<meta itemprop="keywords" content="" />
+
+        
+
+        
+            
+        
+
+        
+        
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/atom-one-light.min.css">
+            <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway:400,800,900|Source+Sans+Pro:400,700">
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.css">
+            <link rel="stylesheet" href="/css/main.css">
+            <link rel="stylesheet" href="/css/add-on.css">
+            <link rel="stylesheet" href="/css/academicons.min.css">
+        
+
+        
+            
+                
+            
+                
+                    <link rel="stylesheet" href="/css/luiyologia.css">
+                
+            
+        
+
+
+  
+    
+    <link href='//cdn.bootcss.com/highlight.js/9.11.0/styles/github.min.css' rel='stylesheet' type='text/css' />
+  
+
+
+      
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-555064-1', 'auto');
+ga('send', 'pageview');
+</script>
+
+    </head>
+    <body>
+
+      
+      <div id="wrapper">
+
+    
+    
+<header id="header">
+    
+      <h1><a href="/">blog</a></h1>
+    
+
+    <nav class="links">
+        <ul>
+            
+                <li>
+                    <a href="http://luiyo.net/">
+                            <i class="fa fa-home">&nbsp;</i>Home
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/about/">
+                            <i class="fa fa-id-card-o">&nbsp;</i>About
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/blog/">
+                            <i class="fa fa-newspaper-o">&nbsp;</i>Blog
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/categories/">
+                            <i class="fa fa-sitemap">&nbsp;</i>Categories
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="/blog/feed.xml">
+                            <i class="fa fa-rss">&nbsp;</i>RSS
+                    </a>
+                </li>
+            
+        </ul>
+    </nav>
+    <nav class="main">
+        <ul>
+            
+            <li id="share-nav" class="share-menu" style="display:none;">
+                <a class="fa-share-alt" href="#share-menu">Share</a>
+            </li>
+            
+            <li class="search">
+                <a class="fa-search" href="#search">Search</a>
+                <form id="search" method="get" action="//google.com/search">
+                    <input type="text" name="q" placeholder="Search" />
+                    <input type="hidden" name="as_sitesearch" value="/">
+                </form>
+            </li>
+            <li class="menu">
+                <a class="fa-bars" href="#menu">Menu</a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+
+<section id="menu">
+
+    
+        <section>
+            <form class="search" method="get" action="//google.com/search">
+                <input type="text" name="q" placeholder="Search" />
+                <input type="hidden" name="as_sitesearch" value="/">
+            </form>
+        </section>
+
+    
+        <section>
+            <ul class="links">
+                
+                    <li>
+                        <a href="http://luiyo.net/">
+                            <h3>
+                                <i class="fa fa-home">&nbsp;</i>Home
+                            </h3>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/about/">
+                            <h3>
+                                <i class="fa fa-id-card-o">&nbsp;</i>About
+                            </h3>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/blog/">
+                            <h3>
+                                <i class="fa fa-newspaper-o">&nbsp;</i>Blog
+                            </h3>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/categories/">
+                            <h3>
+                                <i class="fa fa-sitemap">&nbsp;</i>Categories
+                            </h3>
+                        </a>
+                    </li>
+                
+                    <li>
+                        <a href="/blog/feed.xml">
+                            <h3>
+                                <i class="fa fa-rss">&nbsp;</i>RSS
+                            </h3>
+                        </a>
+                    </li>
+                
+            </ul>
+        </section>
+
+    
+        <section class="recent-posts">
+            <div class="mini-posts">
+                <header>
+                    <h3>Recent Posts</h3>
+                </header>
+                
+
+                
+                    
+                
+
+                
+                        <article class="mini-post">
+                            <header>
+                                <h3><a href="/blog/2018/03/greach-2018/">Greach 2018</a></h3>
+                                
+                                <time class="published" datetime=
+                                    '2018-03-20'>
+                                    March 20, 2018</time>
+                            </header>
+                            
+
+                        </article>
+                
+                        <article class="mini-post">
+                            <header>
+                                <h3><a href="/blog/2018/02/travels-with-charley-by-john-steinbeck/">Travels With Charley: In Search of America, by John Steinbeck</a></h3>
+                                
+                                <time class="published" datetime=
+                                    '2018-02-17'>
+                                    February 17, 2018</time>
+                            </header>
+                            
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+  
+
+
+        
+        
+        
+
+        <a href="/blog/2018/02/travels-with-charley-by-john-steinbeck/" class="image featured">
+            <img src="/img/2018/02/travels_charley_map.jpg" alt="">
+        </a>
+    
+
+
+                        </article>
+                
+                        <article class="mini-post">
+                            <header>
+                                <h3><a href="/blog/2018/02/fosdem-2018-sunday/">FOSDEM 2018: Sunday</a></h3>
+                                
+                                <time class="published" datetime=
+                                    '2018-02-08'>
+                                    February 8, 2018</time>
+                            </header>
+                            
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+  
+
+
+        
+        
+        
+
+        <a href="/blog/2018/02/fosdem-2018-sunday/" class="image featured">
+            <img src="/img/2018/02/fosdem-2018-food.jpg" alt="">
+        </a>
+    
+
+
+                        </article>
+                
+                        <article class="mini-post">
+                            <header>
+                                <h3><a href="/blog/2018/02/fosdem-2018-saturday/">FOSDEM 2018: Saturday</a></h3>
+                                
+                                <time class="published" datetime=
+                                    '2018-02-06'>
+                                    February 6, 2018</time>
+                            </header>
+                            
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+  
+
+
+        
+        
+        
+
+        <a href="/blog/2018/02/fosdem-2018-saturday/" class="image featured">
+            <img src="/img/2018/02/fosdem-2018-OSI.jpg" alt="">
+        </a>
+    
+
+
+                        </article>
+                
+                        <article class="mini-post">
+                            <header>
+                                <h3><a href="/blog/2018/01/things-that-java-developers-really-need-to-know/">Some things that Java developers really need to know in 2018</a></h3>
+                                
+                                <time class="published" datetime=
+                                    '2018-01-23'>
+                                    January 23, 2018</time>
+                            </header>
+                            
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+  
+
+
+        
+        
+        
+
+        <a href="/blog/2018/01/things-that-java-developers-really-need-to-know/" class="image featured">
+            <img src="/img/2018/01/Java9_Jigsaw.jpg" alt="">
+        </a>
+    
+
+
+                        </article>
+                
+
+                
+                    <a href=
+                        
+                            /blog/
+                        
+                        class="button">View more posts</a>
+                
+            </div>
+        </section>
+
+    
+        
+</section>
+
+    <section id="share-menu">
+    <section id="social-share-nav">
+        <ul class="links">
+            <header>
+                <h3>Share this post <i class="fa fa-smile-o"></i></h3>
+            </header>
+            
+
+
+
+<li>
+  <a href="//twitter.com/share?url=%2fblog%2f2017%2f05%2fbaking-my-blog-with-jbake-and-github%2f&amp;text=Baking%20my%20Blog%20with%20JBake%20and%20GitHub&amp;via=luiyo" target="_blank" class="share-btn twitter">
+    <i class="fa fa-twitter"></i>
+    <p>Twitter</p>
+    </a>
+</li>
+
+
+
+
+<li>
+  <a href="//plus.google.com/share?url=%2fblog%2f2017%2f05%2fbaking-my-blog-with-jbake-and-github%2f" target="_blank" class="share-btn google-plus">
+    <i class="fa fa-google-plus"></i>
+    <p>Google+</p>
+  </a>
+</li>
+
+
+
+
+
+<li>
+  <a href="//www.facebook.com/sharer/sharer.php?u=%2fblog%2f2017%2f05%2fbaking-my-blog-with-jbake-and-github%2f" target="_blank" class="share-btn facebook">
+    <i class="fa fa-facebook"></i>
+    <p>Facebook</p>
+    </a>
+</li>
+
+
+
+
+<li>
+  <a href="//reddit.com/submit?url=%2fblog%2f2017%2f05%2fbaking-my-blog-with-jbake-and-github%2f&amp;title=Baking%20my%20Blog%20with%20JBake%20and%20GitHub" target="_blank" class="share-btn reddit">
+    <i class="fa fa-reddit-alien"></i>
+    <p>Reddit</p>
+  </a>
+</li>
+
+
+
+
+<li>
+  <a href="//www.linkedin.com/shareArticle?url=%2fblog%2f2017%2f05%2fbaking-my-blog-with-jbake-and-github%2f&amp;title=Baking%20my%20Blog%20with%20JBake%20and%20GitHub" target="_blank" class="share-btn linkedin">
+      <i class="fa fa-linkedin"></i>
+      <p>LinkedIn</p>
+    </a>
+</li>
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="mailto:?subject=Check out this post by LuisGC&amp;body=%2fblog%2f2017%2f05%2fbaking-my-blog-with-jbake-and-github%2f" target="_blank" class="share-btn email">
+    <i class="fa fa-envelope"></i>
+    <p>Email</p>
+  </a>
+</li>
+
+
+        </ul>
+    </section>
+</section>
+
+    
+    <div id="main">
+        
+        
+        <article class="post">
+  <header>
+    <div class="title">
+        
+            <h1><a href="/blog/2017/05/baking-my-blog-with-jbake-and-github/">Baking my Blog with JBake and GitHub</a></h1>
+            
+        
+        
+    </div>
+    <div class="meta">
+        
+
+        <time class="published"
+            datetime='2017-05-19'>
+            May 19, 2017</time>
+        <span class="author">LuisGC</span>
+        
+            <p>5 minute read</p>
+        
+        
+    </div>
+</header>
+
+
+  
+
+  <div id="content">
+    
+
+<p>Almost since <a href="/blog/2003/10/arranca-luiyologia.html">I created my personal blog</a> in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My lazyness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.</p>
+
+<p>Anyhow, I was determined to migrate my blog outside of any blogging platform. I wanted to have complete control over my content, but without wasting lots of time in maintenance. All I needed was a way to do it seamlessly, quickly, and as automated as possible.</p>
+
+<p>The static site/blog generators appeared a long time ago but now they are multiplying and flourishing. I watched them and the surrounding tools for a long time&hellip; and recently my atheist prayers were heard!</p>
+
+<p>I will describe briefly what I did <strong>to move my blog from blogger to Github Pages in a few hours</strong>. The most time consuming task was to decide among a large number of excellent static site generators.</p>
+
+<h2 id="step-1-choose-your-weapon">Step 1 - Choose your weapon</h2>
+
+<p>The reference here is <a href="https://www.staticgen.com/">StaticGen</a>, a ranking with all the open source static site generators. The site itself is open source, and static generated (of course) using <a href="http://middlemanapp.com/">Middleman</a>.</p>
+
+<p>In <em>StaticGen</em> you will need some time, filtering by programming language, sorting the options by stars, forks, &hellip; Eventually you&rsquo;ll chose one that covers your needs mainly in terms of language, templating technology or license.</p>
+
+<p>I was tempted to use <a href="http://gohugo.io/">Hugo</a> but I selected <a href="http://jbake.org/"><strong>JBake</strong></a> (created in 2013 by <a href="http://jonathanbullock.com/">Jonathan Bullock</a>) instead of other much more popular options. The main reasons for me were:</p>
+
+<ul>
+<li>It&rsquo;s <strong>Open Source</strong> (<a href="https://opensource.org/licenses/MIT">MIT License</a>). This is always the first element in my checklist</li>
+<li>It&rsquo;s <strong>cross platform</strong>, one of the main benefits to choose a product running in the JVM, right?</li>
+<li>Supports a good amount of <strong>content formats</strong>: plain HTML, <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, <a href="http://asciidoctor.org/">AsciiDoc</a>, &hellip; this is great now that I write even my personal notes in markdown format</li>
+<li>Interesting <strong>template support</strong>: <a href="http://freemarker.org/">Freemarker</a>, <a href="http://www.thymeleaf.org/">Thymeleaf</a>, <a href="https://github.com/neuland/jade4j">Jade</a> or <a href="http://www.groovy-lang.org/">Groovy template framework</a></li>
+<li><strong>Blog-ready</strong> out of the box: RSS feed, tag support, archive, index pagination, &hellip;</li>
+<li>Easy to integrate with <strong>CSS frameworks</strong> as <a href="http://getbootstrap.com/">Bootstrap</a></li>
+<li><strong>Custom metadata</strong> in the contents, even exposed to the templates. This is winner by itself</li>
+</ul>
+
+<p>The <a href="http://jbake.org/docs/">documentation of JBake</a> could be improved, but it&rsquo;s good enough.</p>
+
+<p>To install JBake, you can execute <a href="http://jbake.org/download.html">the last binary distribution</a> but I recommend that you simply use <a href="http://sdkman.io/"><strong>SDKMAN</strong></a>. If you don&rsquo;t know what SDKMAN is, you are missing something special. After you have SDKMAN installed, enter the following command:</p>
+
+<pre><code class="language-shell">&gt;&gt; sdk install jbake
+</code></pre>
+
+<p><strong>Thanks Jonathan !!</strong></p>
+
+<h2 id="step-2-choose-your-theme-style">Step 2 - Choose your theme/style</h2>
+
+<p>Some static generators support themes better than others, that&rsquo;s for sure. This was important to me, and I checked that in <em>JBake</em> the code responsible of the presentation is isolated enough from the content, so it&rsquo;s more or less simple to change entirely the theme or style of your site.</p>
+
+<p>In fact, I didn&rsquo;t start the personalization of my blog from the default theme and style. I cloned the <a href="https://github.com/manikmagar/jbake-future-imperfect-template"><strong>JBake Future Imperfect Template</strong></a> by <a href="https://twitter.com/manikmagar">Manik Magar</a> and for the moment I&rsquo;ve only needed minor touches to make it better suited for me.</p>
+
+<p>As simple as this:</p>
+
+<pre><code class="language-shell">&gt;&gt; mkdir awesome-jbake
+
+&gt;&gt; git clone https://github.com/manikmagar/jbake-future-imperfect-template.git awesome-jbake
+
+&gt;&gt; cd awesome-jbake &amp;&amp; ls -ltr
+</code></pre>
+
+<p>Most of the changes were related to custom css styles that I was already using in Blogger, the <em>JBake Future Imperfect Template</em> is fantastic.</p>
+
+<p><strong>Thanks Manik !!</strong></p>
+
+<h2 id="step-3-migrate-your-content-from-your-old-blog-site-if-needed">Step 3 - Migrate your content from your old blog/site (if needed)</h2>
+
+<p>You&rsquo;ll only need this if you are migrating something, skip this point if you are creating something from scratch.</p>
+
+<p>For this magic trick, my first intent was to implement it myself, only to code for a while. Finally I discovered a repo in github with a promising name: <a href="https://github.com/cloudtu/blogger-to-jbake"><strong>blogger-to-jbake</strong></a>. I checked the code and the author (<a href="http://cloudtu.github.io/">Cloud Tu</a>) had developed more or less what I meant to do.</p>
+
+<p>With a little help from an <em>difficult-even-for-google-translate</em> <code>README</code> file in Chinese, I could run the program and export all my blog only with minor problems regarding the download of certain images that were not hosted in blogger.</p>
+
+<p>The steps are very simple:</p>
+
+<ol>
+<li>Modify the <code>src/main/resources/application.properties</code> to set the Blogger atom file path, the output path and your current URL in Blogger</li>
+<li>Execute <code>gradlew run</code> in the console</li>
+<li><strong>Profit!</strong></li>
+</ol>
+
+<p>I made some improvements (from my humble point of view) in the code, and I&rsquo;ll send the corresponding pull request. They could be valuable for anyone else.</p>
+
+<p><strong>Thanks Cloud Tu !!</strong></p>
+
+<h2 id="step-4-deploy-your-blog">Step 4 - Deploy your blog</h2>
+
+<p>Well, thanks to Github and specifically to <a href="https://pages.github.com/">Github Pages</a>, the only thing that I needed was to change the configuration of JBake so the output directory for the <em>baked</em> content is called <code>docs</code> instead of the name by default (<code>output</code>).</p>
+
+<p>After <a href="https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/">enabling it for the first time</a>, Github automatically deploys in Github Pages whatever you put in the <code>docs</code> directory of your repo.</p>
+
+<p>I&rsquo;m suffering the misbehaviour of Github Pages with relative paths, but for the moment I&rsquo;m solving it with a sed command before pushing the baked content.</p>
+
+<p><strong>Thanks Github Pages !!</strong></p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>I&rsquo;m happier than ever with my blog, and I&rsquo;ll try to write more often now that I can make it with my editor in Markdown or AsciiDoc.</p>
+
+<p>It&rsquo;s also possible that I&rsquo;ll write a more technical post about how JBake works, but in the meantime ask me in the comments anything that you want to know.</p>
+
+  </div>
+
+  <footer>
+    <ul class="stats">
+  <li class="categories">
+    <ul>
+        
+            
+            
+                <i class="fa fa-folder"></i>
+                
+                
+                <li><a class="article-category-link" href="/categories/blog">blog</a></li>
+                
+                
+                <li><a class="article-category-link" href="/categories/technology">technology</a></li>
+                
+                
+                <li><a class="article-category-link" href="/categories/design">design</a></li>
+                
+                
+                <li><a class="article-category-link" href="/categories/programming">programming</a></li>
+                
+            
+        
+    </ul>
+  </li>
+  <li class="tags">
+    <ul>
+        
+    </ul>
+  </li>
+</ul>
+
+  </footer>
+
+  
+    <section id="social-share">
+      <ul class="icons">
+        
+
+
+
+<li>
+  <a href="//twitter.com/share?url=%2fblog%2f2017%2f05%2fbaking-my-blog-with-jbake-and-github%2f&amp;text=Baking%20my%20Blog%20with%20JBake%20and%20GitHub&amp;via=luiyo" target="_blank" class="share-btn twitter">
+    <i class="fa fa-twitter"></i>
+    <p>Twitter</p>
+    </a>
+</li>
+
+
+
+
+<li>
+  <a href="//plus.google.com/share?url=%2fblog%2f2017%2f05%2fbaking-my-blog-with-jbake-and-github%2f" target="_blank" class="share-btn google-plus">
+    <i class="fa fa-google-plus"></i>
+    <p>Google+</p>
+  </a>
+</li>
+
+
+
+
+
+<li>
+  <a href="//www.facebook.com/sharer/sharer.php?u=%2fblog%2f2017%2f05%2fbaking-my-blog-with-jbake-and-github%2f" target="_blank" class="share-btn facebook">
+    <i class="fa fa-facebook"></i>
+    <p>Facebook</p>
+    </a>
+</li>
+
+
+
+
+<li>
+  <a href="//reddit.com/submit?url=%2fblog%2f2017%2f05%2fbaking-my-blog-with-jbake-and-github%2f&amp;title=Baking%20my%20Blog%20with%20JBake%20and%20GitHub" target="_blank" class="share-btn reddit">
+    <i class="fa fa-reddit-alien"></i>
+    <p>Reddit</p>
+  </a>
+</li>
+
+
+
+
+<li>
+  <a href="//www.linkedin.com/shareArticle?url=%2fblog%2f2017%2f05%2fbaking-my-blog-with-jbake-and-github%2f&amp;title=Baking%20my%20Blog%20with%20JBake%20and%20GitHub" target="_blank" class="share-btn linkedin">
+      <i class="fa fa-linkedin"></i>
+      <p>LinkedIn</p>
+    </a>
+</li>
+
+
+
+
+
+
+
+
+
+
+<li>
+  <a href="mailto:?subject=Check out this post by LuisGC&amp;body=%2fblog%2f2017%2f05%2fbaking-my-blog-with-jbake-and-github%2f" target="_blank" class="share-btn email">
+    <i class="fa fa-envelope"></i>
+    <p>Email</p>
+  </a>
+</li>
+
+
+      </ul>
+    </section>
+  
+
+</article>
+
+    <article class="post">
+        <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "luiyologia" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </article>
+
+
+<ul class="actions pagination">
+    
+        <li><a href="/blog/2017/04/greach-2017-groovy-spanish-conference/"
+                class="button big previous">Greach 2017, the Groovy Spanish Conference</a></li>
+    
+
+    
+        <li><a href="/blog/2017/05/romantikstrasse-the-romantic-road_1/"
+                class="button big next">Romantikstraße, the Romantic Road (1 of 5)</a></li>
+    
+</ul>
+
+
+    </div>
+    
+<section id="sidebar">
+
+  
+  <section id="intro">
+    
+    
+      
+        <a href='/'><img src="/img/main/Luiyologia-twitterlogo.png" width="300" alt="Luiyología" /></a>
+      
+    
+    
+      <header>
+        <h2></h2>
+        <p>The Science that studies my interests and concerns</p>
+      </header>
+    
+    
+      <ul class="icons">
+        
+        
+  <li><a href="//github.com/luisgc" target="_blank" title="GitHub" class="fa fa-github"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="//flickr.com/photos/luiyo" target="_blank" title="Flickr" class="fa fa-flickr"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="//linkedin.com/in/luisgc" target="_blank" title="LinkedIn" class="fa fa-linkedin"></a></li>
+
+
+
+
+
+
+
+
+
+  <li><a href="//slideshare.com/LuisGarcaCastro" target="_blank" title="SlideShare" class="fa fa-slideshare"></a></li>
+
+
+
+
+
+  <li><a href="//plus.google.com/+LuisGarc&amp;iacute;aCastro" target="_blank" title="Google+" class="fa fa-google-plus"></a></li>
+
+
+
+  <li><a href="//reddit.com/user/Luiyo" target="_blank" title="Reddit" class="fa fa-reddit"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="//twitter.com/luiyo" target="_blank" title="Twitter" class="fa fa-twitter"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="mailto:luiyologia@gmail.com" title="Email" class="fa fa-envelope"></a></li>
+
+
+      </ul>
+    
+  </section>
+
+  
+  <section class="recent-posts">
+    <div class="mini-posts">
+      <header>
+        <h3>Recent Posts</h3>
+      </header>
+      <div class="posts-container">
+        
+
+        
+          
+        
+
+        
+          <article class="mini-post">
+            <header>
+              <h3>
+                <a href="/blog/2018/03/greach-2018/">Greach 2018</a>
+              </h3>
+              
+              <time class="published" datetime='2018-03-20'>
+                March 20, 2018
+              </time>
+            </header>
+            
+
+          </article>
+        
+          <article class="mini-post">
+            <header>
+              <h3>
+                <a href="/blog/2018/02/travels-with-charley-by-john-steinbeck/">Travels With Charley: In Search of America, by John Steinbeck</a>
+              </h3>
+              
+              <time class="published" datetime='2018-02-17'>
+                February 17, 2018
+              </time>
+            </header>
+            
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+  
+
+
+        
+        
+        
+
+        <a href="/blog/2018/02/travels-with-charley-by-john-steinbeck/" class="image featured">
+            <img src="/img/2018/02/travels_charley_map.jpg" alt="">
+        </a>
+    
+
+
+          </article>
+        
+          <article class="mini-post">
+            <header>
+              <h3>
+                <a href="/blog/2018/02/fosdem-2018-sunday/">FOSDEM 2018: Sunday</a>
+              </h3>
+              
+              <time class="published" datetime='2018-02-08'>
+                February 8, 2018
+              </time>
+            </header>
+            
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+  
+
+
+        
+        
+        
+
+        <a href="/blog/2018/02/fosdem-2018-sunday/" class="image featured">
+            <img src="/img/2018/02/fosdem-2018-food.jpg" alt="">
+        </a>
+    
+
+
+          </article>
+        
+          <article class="mini-post">
+            <header>
+              <h3>
+                <a href="/blog/2018/02/fosdem-2018-saturday/">FOSDEM 2018: Saturday</a>
+              </h3>
+              
+              <time class="published" datetime='2018-02-06'>
+                February 6, 2018
+              </time>
+            </header>
+            
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+  
+
+
+        
+        
+        
+
+        <a href="/blog/2018/02/fosdem-2018-saturday/" class="image featured">
+            <img src="/img/2018/02/fosdem-2018-OSI.jpg" alt="">
+        </a>
+    
+
+
+          </article>
+        
+          <article class="mini-post">
+            <header>
+              <h3>
+                <a href="/blog/2018/01/things-that-java-developers-really-need-to-know/">Some things that Java developers really need to know in 2018</a>
+              </h3>
+              
+              <time class="published" datetime='2018-01-23'>
+                January 23, 2018
+              </time>
+            </header>
+            
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+  
+
+
+        
+        
+        
+
+        <a href="/blog/2018/01/things-that-java-developers-really-need-to-know/" class="image featured">
+            <img src="/img/2018/01/Java9_Jigsaw.jpg" alt="">
+        </a>
+    
+
+
+          </article>
+        
+      </div>
+
+      
+        <a href=
+          
+            /blog/
+          
+        class="button">View more posts</a>
+      
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+  
+    <section id="mini-bio">
+      <h3>About</h3>
+      <p>Ludopath, technopath, cinephile, skeptic and, by every definition, early adopter</p>
+      <a href="/about/" class="button">Learn More</a>
+    </section>
+  
+
+  
+  <section id="footer">
+    
+      <ul class="icons">
+        
+        
+  <li><a href="//github.com/luisgc" target="_blank" title="GitHub" class="fa fa-github"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="//flickr.com/photos/luiyo" target="_blank" title="Flickr" class="fa fa-flickr"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="//linkedin.com/in/luisgc" target="_blank" title="LinkedIn" class="fa fa-linkedin"></a></li>
+
+
+
+
+
+
+
+
+
+  <li><a href="//slideshare.com/LuisGarcaCastro" target="_blank" title="SlideShare" class="fa fa-slideshare"></a></li>
+
+
+
+
+
+  <li><a href="//plus.google.com/+LuisGarc&amp;iacute;aCastro" target="_blank" title="Google+" class="fa fa-google-plus"></a></li>
+
+
+
+  <li><a href="//reddit.com/user/Luiyo" target="_blank" title="Reddit" class="fa fa-reddit"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="//twitter.com/luiyo" target="_blank" title="Twitter" class="fa fa-twitter"></a></li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <li><a href="mailto:luiyologia@gmail.com" title="Email" class="fa fa-envelope"></a></li>
+
+
+      </ul>
+    
+    <p class="copyright">
+      
+        &copy; 2018
+        
+          Luiyología
+        
+      .
+      Powered by <a href="//gohugo.io" target="_blank">Hugo</a>
+    </p>
+  </section>
+</section>
+
+    </div>
+    <a id="back-to-top" href="#" class="fa fa-arrow-up fa-border fa-2x"></a>
+    
+
+    
+      
+    
+
+    
+      
+      
+      
+        <script src="//cdn.bootcss.com/highlight.js/9.11.0/highlight.min.js"></script>
+        
+        
+        
+        <script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/r.min.js"></script>
+        <script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/yaml.min.js"></script>
+        <script src="//cdn.bootcss.com/highlight.js/9.11.0/languages/css.min.js"></script>
+        <script>hljs.configure({languages: []}); hljs.initHighlightingOnLoad();</script>
+      
+    
+    
+    
+      <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/skel/3.0.1/skel.min.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.1.25/jquery.fancybox.min.js"></script>
+      <script src="/js/util.js"></script>
+      <script src="/js/main.js"></script>
+      <script src="/js/backToTop.js"></script>
+    
+
+    
+      
+        
+      
+    
+
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+  </body>
+</html>
+
