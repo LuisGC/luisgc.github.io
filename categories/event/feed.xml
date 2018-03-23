@@ -6,10 +6,20 @@
     <description>Recent content in Event on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/event/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Greach 2018</title>
+      <link>/blog/2018/03/greach-2018/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018/03/greach-2018/</guid>
+      <description>Greach 2018   Some days ago I attended as usual to the fantastic Greach Conference, an international conference about the Apache Groovy language and ecosystem: Groovy, Grails, Gradle and a lot other things. Greach is held each year in Madrid but everything is in English, and nowadays it&amp;rsquo;s surely one of the Top worldwide events about this technologies.
+Greach is a non-profitable event organized by Iván López (@ilopar) and Alberto Vilches (@albertovilches), with some help from colleagues and a lot of sponsors.</description>
+    </item>
     
     <item>
       <title>FOSDEM 2018: Sunday</title>
