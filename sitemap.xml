@@ -1278,12 +1278,6 @@
   </url>
   
   <url>
-    <loc>/categories/-maps/</loc>
-    <lastmod>2006-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/art/</loc>
     <lastmod>2012-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -1309,7 +1303,7 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2006-02-26T00:00:00+00:00</lastmod>
+    <lastmod>2012-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1430,6 +1424,12 @@
   <url>
     <loc>/categories/magic/</loc>
     <lastmod>2013-01-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/maps/</loc>
+    <lastmod>2006-02-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
