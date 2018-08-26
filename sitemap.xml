@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/2018/08/travel-curriculum-vitae/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/travel-cv/</loc>
+    <lastmod>2018-08-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2018/05/scotland-a-brief-opinionated-guide/</loc>
     <lastmod>2018-05-27T00:00:00+00:00</lastmod>
   </url>
@@ -1198,11 +1208,6 @@
   </url>
   
   <url>
-    <loc>/blog/2004/10/mi-nueva-suse-ya-esta-en-casa/</loc>
-    <lastmod>2004-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/2004/09/isla-pitcairn/</loc>
     <lastmod>2004-09-30T00:00:00+00:00</lastmod>
   </url>
@@ -1258,11 +1263,6 @@
   </url>
   
   <url>
-    <loc>/blog/2004/02/conferencia-internacional-de-software/</loc>
-    <lastmod>2004-02-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
     <lastmod>2003-10-07T00:00:00+00:00</lastmod>
   </url>
@@ -1285,7 +1285,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1381,13 +1381,13 @@
   
   <url>
     <loc>/categories/history/</loc>
-    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/holidays/</loc>
-    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1417,7 +1417,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1459,7 +1459,7 @@
   
   <url>
     <loc>/categories/personal/</loc>
-    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1578,7 +1578,7 @@
   
   <url>
     <loc>/categories/tourism/</loc>
-    <lastmod>2018-05-27T00:00:00+00:00</lastmod>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,55 @@
+@media screen and (max-width: 600px) {
+  #map {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
+
+h2 {
+  font: 400 40px/1.5 "Raleway", Helvetica, sans-serif;
+  margin: 0.5em 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0 !important;
+  padding: 0;
+}
+
+li {
+  font: 200 20px/1.5 "Raleway", Helvetica, sans-serif;
+  border-bottom: 1px solid #ccc;
+}
+
+li:last-child {
+  border: none;
+}
+
+li:hover {
+  background: #f6f6f6;
+}
+
+li span {
+  font-style: italic;
+  position: absolute;
+}
+
+li p {
+  padding-left: 90px;
+  margin: 0 !important;
+}
+
+ul li ul {
+  margin: 0 !important;
+  padding-left: 90px;
+}
+
+ul li ul li {
+  font: 200 15px/1.5 "Raleway", Helvetica, sans-serif;
+  padding-left: initial;
+}
