@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Luiyología</title>
+    <title>news on Luiyología</title>
     <link>/categories/news/</link>
-    <description>Recent content in News on Luiyología</description>
+    <description>Recent content in news on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 10 Dec 2013 00:00:00 +0000</lastBuildDate>
@@ -140,8 +140,7 @@ La gente se está organizando, uniendo sus fuerzas. Se han creado bastantes pág
       <guid>/blog/2004/12/los-10-mayores-avances-cientficos-del/</guid>
       <description>Leo en Slashdot que la revista Science ha publicado su lista con los 10 Mayores Avances Científicos del 2004 que ya termina.
 Revista Science  La lista la encabezan los robots de la NASA que descubrieron evidencias de la presencia de agua en Marte. Se jugó el primer puesto con el hallazgo de restos hobbiticos en Indonesia.
-Os acerco la lista completa, para los perezosos que no quieren navegar:
-  Winner: Water on Mars.</description>
+Os acerco la lista completa, para los perezosos que no quieren navegar:</description>
     </item>
     
     <item>

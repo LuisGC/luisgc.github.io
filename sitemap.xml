@@ -1278,14 +1278,30 @@
   </url>
   
   <url>
-    <loc>/categories/art/</loc>
-    <lastmod>2012-11-05T00:00:00+00:00</lastmod>
+    <loc>/blog/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
     <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/art/</loc>
+    <lastmod>2012-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1298,12 +1314,6 @@
   <url>
     <loc>/categories/cars/</loc>
     <lastmod>2007-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2012-11-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1412,12 +1422,6 @@
   <url>
     <loc>/categories/literature/</loc>
     <lastmod>2018-02-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -1544,11 +1548,6 @@
   <url>
     <loc>/categories/star-trek/</loc>
     <lastmod>2011-03-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technology on Luiyología</title>
+    <title>technology on Luiyología</title>
     <link>/categories/technology/</link>
-    <description>Recent content in Technology on Luiyología</description>
+    <description>Recent content in technology on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Mar 2018 00:00:00 +0000</lastBuildDate>
@@ -146,8 +146,7 @@ FOSDEM 2016: Friday FOSDEM 2016: Saturday  As a retrospective, I attended a lot 
       
       <guid>/blog/2016/03/fosdem-2016-saturday/</guid>
       <description>Disclaimer: I attended FOSDEM in Brussels last January. I should have written this weeks ago but better late than ever, right?
-FOSDEM 2016   After an interesting Friday (as I told you yesterday) our FOSDEM Saturday started early. I attended a couple of talks in the Free Java DevRoom, another couple about Open Source Design but surprisingly most of them were in the Legal and Policy Issues track.
-This doesn&#39;t mean that this is what matters most to me now (and it matters, a lot), but surely there are other events to listen about containers, virtualisation, Java or Python.</description>
+FOSDEM 2016   After an interesting Friday (as I told you yesterday) our FOSDEM Saturday started early. I attended a couple of talks in the Free Java DevRoom, another couple about Open Source Design but surprisingly most of them were in the Legal and Policy Issues track.</description>
     </item>
     
     <item>
@@ -242,7 +241,7 @@ Tuve la gran suerte de asistir a NECSS 2012. Allí pude conocer a gente fantást
       
       <guid>/blog/2012/06/sagan-series-part-9-humans/</guid>
       <description>El creador de mi admirada serie de clips en homenaje a Carl Sagan, Reid Gower, partició en 2011 en un evento TEDx en Vancouver. La charla es breve pero más que correcta, y me sirve de excusa para compartir el último episodio, del que aún no había dado cuenta en el blog.
-El noveno capítulo, The Humans, abunda en un tema habitual, el impacto del ser humano en el planeta. Tras miles de años con vida sobre la superficie, en estos últimos decenios la huella del hombre llega a todos los rincones del planeta, Y los exploradores carecen de los recursos necesarios para nuevos desafíos.</description>
+El noveno capítulo, The Humans, abunda en un tema habitual, el impacto del ser humano en el planeta.</description>
     </item>
     
     <item>
@@ -323,7 +322,7 @@ Si has llegado aquí sin saber qué es un SkeptiCamp, primero te conviene leer l
       <pubDate>Mon, 19 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>/blog/2012/03/spring-io-2012/</guid>
-      <description>Por fin saco un rato, con un mes de retraso, para hablar del evento Spring I/O 2012. A estas alturas lo fácil habría sido dejarlo estar, pero en mi empresa me han recordado que por algo me &#34;designaron&#34; como representante y autorizaron mi asistencia. Como primer paso para compartir lo vivido con mis compañeros (en forma de presentación si sacase tiempo), dejaré aquí un resumen de las notas que tomé. Omitiré en el blog las anotaciones más técnicas.</description>
+      <description>Por fin saco un rato, con un mes de retraso, para hablar del evento Spring I/O 2012. A estas alturas lo fácil habría sido dejarlo estar, pero en mi empresa me han recordado que por algo me &#34;designaron&#34; como representante y autorizaron mi asistencia. Como primer paso para compartir lo vivido con mis compañeros (en forma de presentación si sacase tiempo), dejaré aquí un resumen de las notas que tomé.</description>
     </item>
     
     <item>
@@ -432,7 +431,7 @@ Dicho esto, acabo de ver que Technology Review —publicación del M.I.T.— tie
       <pubDate>Sat, 28 May 2011 00:00:00 +0000</pubDate>
       
       <guid>/blog/2011/05/lo-que-la-camara-de-un-astronauta-ve/</guid>
-      <description>He encontrado en Reddit una auténtica maravilla. Se trata de un vídeo con imágenes grabadas desde el espacio comentado por Justin Wilkinson, ingeniero de la Crew Earth Observations en el Johnson Space Center de la NASA en Houston.
+      <description> He encontrado en Reddit una auténtica maravilla. Se trata de un vídeo con imágenes grabadas desde el espacio comentado por Justin Wilkinson, ingeniero de la Crew Earth Observations en el Johnson Space Center de la NASA en Houston.
 En el vídeo el Sr. Wilkinson describe los diferentes paisajes que se pueden ver (y distinguir) perfectamente desde la Estación Espacial Internacional. Disfruten, mejor si es en Alta Definición:
    </description>
     </item>
@@ -515,8 +514,7 @@ Hace unas semanas que participo en una iniciativa parecida. Esta vez se trata de
       <guid>/blog/2004/12/los-10-mayores-avances-cientficos-del/</guid>
       <description>Leo en Slashdot que la revista Science ha publicado su lista con los 10 Mayores Avances Científicos del 2004 que ya termina.
 Revista Science  La lista la encabezan los robots de la NASA que descubrieron evidencias de la presencia de agua en Marte. Se jugó el primer puesto con el hallazgo de restos hobbiticos en Indonesia.
-Os acerco la lista completa, para los perezosos que no quieren navegar:
-  Winner: Water on Mars.</description>
+Os acerco la lista completa, para los perezosos que no quieren navegar:</description>
     </item>
     
     <item>
@@ -548,7 +546,7 @@ After we agree on the text for the message, Stallman or Moglen will record it in
       
       <guid>/blog/2004/12/puertas-logicas-con-lego/</guid>
       <description>Veo en Slashdot y en BoingBoing que un tipo ha conseguido hacerse puertas lógicas mecánicas usando piezas de Lego.
- I have now designed working NOT, OR, NOR, AND, and NAND gates. Using two NAND gates I have produced a NAND gate latch or Flip-FLop. The natural follow on from these is clocked logic, full-adders and ultimately a genuine &#34;computer&#34; device. At the moment all these gates essentially just demonstrators. They work, but because of the limitations that arise through gear slippage, the real practicable use is probably not that great</description>
+ I have now designed working NOT, OR, NOR, AND, and NAND gates. Using two NAND gates I have produced a NAND gate latch or Flip-FLop. The natural follow on from these is clocked logic, full-adders and ultimately a genuine &#34;computer&#34; device. At the moment all these gates essentially just demonstrators.</description>
     </item>
     
     <item>

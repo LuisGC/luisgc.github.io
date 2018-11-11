@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Computer-science on Luiyología</title>
+    <title>computer-science on Luiyología</title>
     <link>/categories/computer-science/</link>
-    <description>Recent content in Computer-science on Luiyología</description>
+    <description>Recent content in computer-science on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Mar 2018 00:00:00 +0000</lastBuildDate>
@@ -125,8 +125,7 @@ FOSDEM 2016: Friday FOSDEM 2016: Saturday  As a retrospective, I attended a lot 
       
       <guid>/blog/2016/03/fosdem-2016-saturday/</guid>
       <description>Disclaimer: I attended FOSDEM in Brussels last January. I should have written this weeks ago but better late than ever, right?
-FOSDEM 2016   After an interesting Friday (as I told you yesterday) our FOSDEM Saturday started early. I attended a couple of talks in the Free Java DevRoom, another couple about Open Source Design but surprisingly most of them were in the Legal and Policy Issues track.
-This doesn&#39;t mean that this is what matters most to me now (and it matters, a lot), but surely there are other events to listen about containers, virtualisation, Java or Python.</description>
+FOSDEM 2016   After an interesting Friday (as I told you yesterday) our FOSDEM Saturday started early. I attended a couple of talks in the Free Java DevRoom, another couple about Open Source Design but surprisingly most of them were in the Legal and Policy Issues track.</description>
     </item>
     
     <item>
@@ -173,7 +172,7 @@ Tras una introducción para despistados (muy despistados) entraré al propósito
       <pubDate>Mon, 19 Mar 2012 00:00:00 +0000</pubDate>
       
       <guid>/blog/2012/03/spring-io-2012/</guid>
-      <description>Por fin saco un rato, con un mes de retraso, para hablar del evento Spring I/O 2012. A estas alturas lo fácil habría sido dejarlo estar, pero en mi empresa me han recordado que por algo me &#34;designaron&#34; como representante y autorizaron mi asistencia. Como primer paso para compartir lo vivido con mis compañeros (en forma de presentación si sacase tiempo), dejaré aquí un resumen de las notas que tomé. Omitiré en el blog las anotaciones más técnicas.</description>
+      <description>Por fin saco un rato, con un mes de retraso, para hablar del evento Spring I/O 2012. A estas alturas lo fácil habría sido dejarlo estar, pero en mi empresa me han recordado que por algo me &#34;designaron&#34; como representante y autorizaron mi asistencia. Como primer paso para compartir lo vivido con mis compañeros (en forma de presentación si sacase tiempo), dejaré aquí un resumen de las notas que tomé.</description>
     </item>
     
     <item>

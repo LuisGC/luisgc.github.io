@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Games on Luiyología</title>
+    <title>games on Luiyología</title>
     <link>/categories/games/</link>
-    <description>Recent content in Games on Luiyología</description>
+    <description>Recent content in games on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Jan 2018 00:00:00 +0000</lastBuildDate>
@@ -78,7 +78,7 @@ Me he acostumbrado perfectamente a registrar en Board Game Geek todas las partid
       
       <guid>/blog/2012/12/retrospectiva-de-2012/</guid>
       <description>Se termina 2012. Consumo las últimas horas y creo que puedo decir que he agotado al máximo el año. Para lo bueno y para lo malo.
-He tenido a menudo la intención (imposible de cumplir) de escribir una larga entrada con cada cosa relevante que hice durante el año. En lugar de eso tengo unas pocas entradas con convocatorias y breves reseñas. Muchos me lo echáis en cara (con razón). No poder escribir en el blog es la punta del iceberg, y quiero hacer algo al respecto, desde luego algo más que esta sencilla nube de tags de mi 2012:</description>
+He tenido a menudo la intención (imposible de cumplir) de escribir una larga entrada con cada cosa relevante que hice durante el año. En lugar de eso tengo unas pocas entradas con convocatorias y breves reseñas. Muchos me lo echáis en cara (con razón).</description>
     </item>
     
     <item>
@@ -109,8 +109,7 @@ Source: My own pictures - CC BY-NC-SA  Paso directamente al resumen de las cifra
       
       <guid>/blog/2011/11/boardgamegeek-2011-secret-santa/</guid>
       <description>(De ahora en adelante escribiré algunas de mis entradas en inglés, como simple entrenamiento y entretenimiento. A nadie le debería sorprender. Por favor, comuniquen cualquier error o incorrección)
-One of the main (and marvellous) things about BoardGameGeek (BGG) is its Community. The entire website is built upon them, thanks to them. That&#39;s why I&#39;m part of it, I love it, help it grow, and cheerfully support it each year.
-For those who doesn&#39;t know BGG yet, it is the biggest and most valuable games database and social network.</description>
+One of the main (and marvellous) things about BoardGameGeek (BGG) is its Community. The entire website is built upon them, thanks to them. That&#39;s why I&#39;m part of it, I love it, help it grow, and cheerfully support it each year.</description>
     </item>
     
     <item>
@@ -140,7 +139,7 @@ Portada de Guillotine  Ficha básica:   Título:   Guillotine   Autor:   Paul Pe
       
       <guid>/blog/2004/12/puertas-logicas-con-lego/</guid>
       <description>Veo en Slashdot y en BoingBoing que un tipo ha conseguido hacerse puertas lógicas mecánicas usando piezas de Lego.
- I have now designed working NOT, OR, NOR, AND, and NAND gates. Using two NAND gates I have produced a NAND gate latch or Flip-FLop. The natural follow on from these is clocked logic, full-adders and ultimately a genuine &#34;computer&#34; device. At the moment all these gates essentially just demonstrators. They work, but because of the limitations that arise through gear slippage, the real practicable use is probably not that great</description>
+ I have now designed working NOT, OR, NOR, AND, and NAND gates. Using two NAND gates I have produced a NAND gate latch or Flip-FLop. The natural follow on from these is clocked logic, full-adders and ultimately a genuine &#34;computer&#34; device. At the moment all these gates essentially just demonstrators.</description>
     </item>
     
   </channel>
