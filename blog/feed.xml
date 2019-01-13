@@ -6,10 +6,20 @@
     <description>Recent content in Blog on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Year 2018 in Games</title>
+      <link>/blog/2019/01/my-year-2018-in-games/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/01/my-year-2018-in-games/</guid>
+      <description>Welcome again to this yearly post, where I try to analyze my gaming behavior during the previous year. I have been doing this since 2011 in Spanish, but this time I will do it in English as with the rest of my posts. You can read about my previous years (in Spanish):
+ 2017 2016 2015 2014 2013 2012 2011  Evolution of my game plays over the last years   2018 2017 2016 2015 2014 2013 2012 Total since 2006   Total amount of plays 101 84 98 84 81 117 161 952   Different games played 61 72 55 71 52 81 80 356   Games with 2 or more plays (in the year) 14 9 15 13 14 19 40 161   Amount of gaming sessions 43 36 35 30 44 41 36 322   Games played per year until the end of 2018  Analysis  In this yearly post I used to include a graph with the games played by month, but it turned more or less complex and meaningless as the trend was clear year by year.</description>
+    </item>
     
     <item>
       <title>My Year 2018 in Books</title>
