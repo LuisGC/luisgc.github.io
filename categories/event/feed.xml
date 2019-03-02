@@ -6,10 +6,21 @@
     <description>Recent content in event on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/event/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FOSDEM 2019: Sunday</title>
+      <link>/blog/2019/02/fosdem-2019-sunday/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/02/fosdem-2019-sunday/</guid>
+      <description>My Saturday finished having a great dinner with friends and lots of laughs in one of our favorite restaurants in Brussels.
+FOSDEM 2019 poster  As usual, my Sunday at FOSDEM started again very early. Lot&amp;rsquo;s of things to see in a complete set of new devrooms/tracks. This year I focused my second day in the Community and Geospatial devrooms.
+Before continuing, if you want to read my summary of the previous day you can follow this link: FOSDEM 2019: Saturday.</description>
+    </item>
     
     <item>
       <title>FOSDEM 2019: Saturday</title>
