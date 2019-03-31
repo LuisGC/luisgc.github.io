@@ -6,10 +6,20 @@
     <description>Recent content in computer-science on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/computer-science/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Greach 2019</title>
+      <link>/blog/2019/03/greach-2019/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2019/03/greach-2019/</guid>
+      <description>Greach 2019  This week I could attend another fantastic Greach Conference, an international conference that in previous years was focused on the Apache Groovy language and ecosystem (Grails, Gradle, etc.) but this year has expanded the scope to other technologies related to the JVM like Micronaut, GraalVM, Spring Boot, Kotlin, Android, &amp;hellip;
+Greach is a non-profitable event held in Madrid since 2011 (I think I&amp;rsquo;ve missed only one edition).</description>
+    </item>
     
     <item>
       <title>FOSDEM 2019: Sunday</title>
@@ -37,7 +47,7 @@ Before continuing, if you want to read my summary of the previous day you can fo
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/blog/2018/03/greach-2018/</guid>
-      <description>Greach 2018   Some days ago I attended as usual to the fantastic Greach Conference, an international conference about the Apache Groovy language and ecosystem: Groovy, Grails, Gradle and a lot other things. Greach is held each year in Madrid but everything is in English, and nowadays it&amp;rsquo;s surely one of the Top worldwide events about this technologies.
+      <description>Greach 2018  Some days ago I attended as usual to the fantastic Greach Conference, an international conference about the Apache Groovy language and ecosystem: Groovy, Grails, Gradle and a lot other things. Greach is held each year in Madrid but everything is in English, and nowadays it&amp;rsquo;s surely one of the Top worldwide events about this technologies.
 Greach is a non-profitable event organized by Iván López (@ilopar) and Alberto Vilches (@albertovilches), with some help from colleagues and a lot of sponsors.</description>
     </item>
     
