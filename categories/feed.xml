@@ -6,54 +6,10 @@
     <description>Recent content in Categories on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 30 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/feed.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>art</title>
-      <link>/categories/art/</link>
-      <pubDate>Mon, 05 Nov 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/art/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>blog</title>
-      <link>/categories/blog/</link>
-      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cars</title>
-      <link>/categories/cars/</link>
-      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/cars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cinema</title>
-      <link>/categories/cinema/</link>
-      <pubDate>Mon, 19 Mar 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/cinema/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>comics</title>
-      <link>/categories/comics/</link>
-      <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/comics/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>computer-science</title>
@@ -61,51 +17,6 @@
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/computer-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>culture</title>
-      <link>/categories/culture/</link>
-      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/culture/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>curious</title>
-      <link>/categories/curious/</link>
-      <pubDate>Fri, 11 Nov 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/curious/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>/categories/design/</link>
-      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>economics</title>
-      <link>/categories/economics/</link>
-      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/economics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>english</title>
-      <link>/categories/english/</link>
-      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/english/</guid>
       <description></description>
     </item>
     
@@ -119,11 +30,74 @@
     </item>
     
     <item>
-      <title>gadget</title>
-      <link>/categories/gadget/</link>
-      <pubDate>Tue, 03 Jan 2012 00:00:00 +0000</pubDate>
+      <title>internet</title>
+      <link>/categories/internet/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/gadget/</guid>
+      <guid>/categories/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link>/categories/open-source/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>/categories/programming/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>/categories/technology/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/technology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>culture</title>
+      <link>/categories/culture/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>english</title>
+      <link>/categories/english/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>/categories/linux/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>/categories/personal/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/personal/</guid>
       <description></description>
     </item>
     
@@ -137,11 +111,29 @@
     </item>
     
     <item>
-      <title>health</title>
-      <link>/categories/health/</link>
-      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      <title>retrospective</title>
+      <link>/categories/retrospective/</link>
+      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/health/</guid>
+      <guid>/categories/retrospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>literature</title>
+      <link>/categories/literature/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/literature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>/categories/review/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/review/</guid>
       <description></description>
     </item>
     
@@ -164,83 +156,11 @@
     </item>
     
     <item>
-      <title>humour</title>
-      <link>/categories/humour/</link>
-      <pubDate>Thu, 09 Feb 2012 00:00:00 +0000</pubDate>
+      <title>tourism</title>
+      <link>/categories/tourism/</link>
+      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/humour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>internet</title>
-      <link>/categories/internet/</link>
-      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/internet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>/categories/linux/</link>
-      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>literature</title>
-      <link>/categories/literature/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/literature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>magic</title>
-      <link>/categories/magic/</link>
-      <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/magic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>maps</title>
-      <link>/categories/maps/</link>
-      <pubDate>Sun, 26 Feb 2006 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/maps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>music</title>
-      <link>/categories/music/</link>
-      <pubDate>Mon, 16 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>news</title>
-      <link>/categories/news/</link>
-      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/news/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open-source</title>
-      <link>/categories/open-source/</link>
-      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/open-source/</guid>
+      <guid>/categories/tourism/</guid>
       <description></description>
     </item>
     
@@ -254,92 +174,11 @@
     </item>
     
     <item>
-      <title>personal</title>
-      <link>/categories/personal/</link>
-      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>philosophy</title>
-      <link>/categories/philosophy/</link>
-      <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>podcast</title>
-      <link>/categories/podcast/</link>
-      <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/podcast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>politics</title>
-      <link>/categories/politics/</link>
-      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/politics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>press</title>
-      <link>/categories/press/</link>
-      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/press/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>/categories/programming/</link>
-      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>retrospective</title>
-      <link>/categories/retrospective/</link>
-      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/retrospective/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>review</title>
-      <link>/categories/review/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>science</title>
       <link>/categories/science/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>/categories/science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>skepticamp</title>
-      <link>/categories/skepticamp/</link>
-      <pubDate>Sat, 26 May 2012 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/skepticamp/</guid>
       <description></description>
     </item>
     
@@ -362,6 +201,69 @@
     </item>
     
     <item>
+      <title>politics</title>
+      <link>/categories/politics/</link>
+      <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>/categories/blog/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>design</title>
+      <link>/categories/design/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>economics</title>
+      <link>/categories/economics/</link>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>press</title>
+      <link>/categories/press/</link>
+      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/press/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>/categories/health/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news</title>
+      <link>/categories/news/</link>
+      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>solidarity</title>
       <link>/categories/solidarity/</link>
       <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
@@ -371,29 +273,11 @@
     </item>
     
     <item>
-      <title>sport</title>
-      <link>/categories/sport/</link>
-      <pubDate>Sun, 10 Oct 2010 00:00:00 +0000</pubDate>
+      <title>philosophy</title>
+      <link>/categories/philosophy/</link>
+      <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/sport/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>star-trek</title>
-      <link>/categories/star-trek/</link>
-      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/star-trek/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>/categories/technology/</link>
-      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/technology/</guid>
+      <guid>/categories/philosophy/</guid>
       <description></description>
     </item>
     
@@ -407,29 +291,29 @@
     </item>
     
     <item>
-      <title>theater</title>
-      <link>/categories/theater/</link>
-      <pubDate>Sat, 14 May 2011 00:00:00 +0000</pubDate>
+      <title>magic</title>
+      <link>/categories/magic/</link>
+      <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/theater/</guid>
+      <guid>/categories/magic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tolkien</title>
-      <link>/categories/tolkien/</link>
-      <pubDate>Sat, 25 Feb 2006 00:00:00 +0000</pubDate>
+      <title>podcast</title>
+      <link>/categories/podcast/</link>
+      <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/tolkien/</guid>
+      <guid>/categories/podcast/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tourism</title>
-      <link>/categories/tourism/</link>
-      <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
+      <title>art</title>
+      <link>/categories/art/</link>
+      <pubDate>Mon, 05 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>/categories/tourism/</guid>
+      <guid>/categories/art/</guid>
       <description></description>
     </item>
     
@@ -439,6 +323,123 @@
       <pubDate>Thu, 28 Jun 2012 00:00:00 +0000</pubDate>
       
       <guid>/categories/video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>skepticamp</title>
+      <link>/categories/skepticamp/</link>
+      <pubDate>Sat, 26 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/skepticamp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>/categories/music/</link>
+      <pubDate>Mon, 16 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>comics</title>
+      <link>/categories/comics/</link>
+      <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/comics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cinema</title>
+      <link>/categories/cinema/</link>
+      <pubDate>Mon, 19 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cinema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>humour</title>
+      <link>/categories/humour/</link>
+      <pubDate>Thu, 09 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/humour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gadget</title>
+      <link>/categories/gadget/</link>
+      <pubDate>Tue, 03 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/gadget/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>curious</title>
+      <link>/categories/curious/</link>
+      <pubDate>Fri, 11 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/curious/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theater</title>
+      <link>/categories/theater/</link>
+      <pubDate>Sat, 14 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/theater/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>star-trek</title>
+      <link>/categories/star-trek/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/star-trek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sport</title>
+      <link>/categories/sport/</link>
+      <pubDate>Sun, 10 Oct 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/sport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cars</title>
+      <link>/categories/cars/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/cars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>maps</title>
+      <link>/categories/maps/</link>
+      <pubDate>Sun, 26 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/maps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tolkien</title>
+      <link>/categories/tolkien/</link>
+      <pubDate>Sat, 25 Feb 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/tolkien/</guid>
       <description></description>
     </item>
     
