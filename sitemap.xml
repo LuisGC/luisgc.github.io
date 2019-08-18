@@ -3,15 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/art/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/culture/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/event/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/literature/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/personal/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/tolkien/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/2019/08/tolkien-2019-in-birmingham/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/computer-science/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -20,45 +63,28 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/computer-science/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/event/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/internet/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/open-source/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/programming/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/technology/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/english/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -67,27 +93,8 @@
   </url>
   
   <url>
-    <loc>/categories/culture/</loc>
-    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/english/</loc>
-    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/linux/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/personal/</loc>
-    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -96,20 +103,18 @@
   </url>
   
   <url>
+    <loc>/categories/games/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2019/01/my-year-2018-in-games/</loc>
     <lastmod>2019-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/games/</loc>
-    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/retrospective/</loc>
     <lastmod>2019-01-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -118,15 +123,18 @@
   </url>
   
   <url>
-    <loc>/categories/literature/</loc>
+    <loc>/categories/review/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/review/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/categories/history/</loc>
+    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/holidays/</loc>
+    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -135,21 +143,8 @@
   </url>
   
   <url>
-    <loc>/categories/history/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/holidays/</loc>
-    <lastmod>2018-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/tourism/</loc>
     <lastmod>2018-12-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -218,43 +213,38 @@
   </url>
   
   <url>
-    <loc>/blog/2017/09/susan-gerbic-in-skeptics-in-the-pub-madrid/</loc>
-    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/outreach/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/science/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/skepticism/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/skeptics-in-the-pub/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blog/2017/07/romantikstrasse-the-romantic-road_5/</loc>
-    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+    <loc>/blog/2017/09/susan-gerbic-in-skeptics-in-the-pub-madrid/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/politics/</loc>
     <lastmod>2017-07-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2017/07/romantikstrasse-the-romantic-road_5/</loc>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -290,13 +280,11 @@
   <url>
     <loc>/categories/blog/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/design/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -365,20 +353,18 @@
   </url>
   
   <url>
+    <loc>/categories/economics/</loc>
+    <lastmod>2014-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2014/12/escepticos-en-el-pub-madrid-enero-2015/</loc>
     <lastmod>2014-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/economics/</loc>
-    <lastmod>2014-12-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/press/</loc>
     <lastmod>2014-12-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -399,30 +385,26 @@
   <url>
     <loc>/categories/health/</loc>
     <lastmod>2013-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/news/</loc>
     <lastmod>2013-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/solidarity/</loc>
     <lastmod>2013-12-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/blog/2013/12/the-demon-haunted-world-de-carl-sagan/</loc>
-    <lastmod>2013-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/philosophy/</loc>
     <lastmod>2013-12-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/2013/12/the-demon-haunted-world-de-carl-sagan/</loc>
+    <lastmod>2013-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -458,7 +440,6 @@
   <url>
     <loc>/categories/television/</loc>
     <lastmod>2013-04-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -492,20 +473,18 @@
   </url>
   
   <url>
+    <loc>/categories/magic/</loc>
+    <lastmod>2013-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2013/01/necss-2013/</loc>
     <lastmod>2013-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/magic/</loc>
-    <lastmod>2013-01-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/podcast/</loc>
     <lastmod>2013-01-20T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -534,12 +513,6 @@
   </url>
   
   <url>
-    <loc>/categories/art/</loc>
-    <lastmod>2012-11-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/blog/2012/10/escepticos-en-el-pub-madrid-especial/</loc>
     <lastmod>2012-10-26T00:00:00+00:00</lastmod>
   </url>
@@ -557,7 +530,6 @@
   <url>
     <loc>/categories/video/</loc>
     <lastmod>2012-06-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -571,14 +543,13 @@
   </url>
   
   <url>
-    <loc>/blog/2012/05/skepticamp-alicante-2012-todas-las/</loc>
+    <loc>/categories/skepticamp/</loc>
     <lastmod>2012-05-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/skepticamp/</loc>
+    <loc>/blog/2012/05/skepticamp-alicante-2012-todas-las/</loc>
     <lastmod>2012-05-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -637,25 +608,23 @@
   </url>
   
   <url>
+    <loc>/categories/music/</loc>
+    <lastmod>2012-04-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2012/04/necss-2012-northeast-conference-on/</loc>
     <lastmod>2012-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/music/</loc>
-    <lastmod>2012-04-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/categories/comics/</loc>
+    <lastmod>2012-04-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/blog/2012/04/skepticamp-alicante-2012-tercera-charla/</loc>
     <lastmod>2012-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/comics/</loc>
-    <lastmod>2012-04-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -669,6 +638,11 @@
   </url>
   
   <url>
+    <loc>/categories/cinema/</loc>
+    <lastmod>2012-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2012/03/james-randi-un-mentiroso-honesto/</loc>
     <lastmod>2012-03-19T00:00:00+00:00</lastmod>
   </url>
@@ -676,12 +650,6 @@
   <url>
     <loc>/blog/2012/03/spring-io-2012/</loc>
     <lastmod>2012-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/cinema/</loc>
-    <lastmod>2012-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -717,7 +685,6 @@
   <url>
     <loc>/categories/humour/</loc>
     <lastmod>2012-02-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -746,6 +713,11 @@
   </url>
   
   <url>
+    <loc>/categories/gadget/</loc>
+    <lastmod>2012-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/2012/01/partidas-jugadas-en-2011/</loc>
     <lastmod>2012-01-03T00:00:00+00:00</lastmod>
   </url>
@@ -753,12 +725,6 @@
   <url>
     <loc>/blog/2012/01/un-ano-de-ediciones-en-openstreetmap/</loc>
     <lastmod>2012-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/gadget/</loc>
-    <lastmod>2012-01-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -787,14 +753,13 @@
   </url>
   
   <url>
-    <loc>/blog/2011/11/desfase-en-la-isla-de-pitcairn/</loc>
+    <loc>/categories/curious/</loc>
     <lastmod>2011-11-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/curious/</loc>
+    <loc>/blog/2011/11/desfase-en-la-isla-de-pitcairn/</loc>
     <lastmod>2011-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -900,7 +865,6 @@
   <url>
     <loc>/categories/theater/</loc>
     <lastmod>2011-05-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -934,14 +898,13 @@
   </url>
   
   <url>
-    <loc>/blog/2011/03/william-shatner-despierta-la/</loc>
+    <loc>/categories/star-trek/</loc>
     <lastmod>2011-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/star-trek/</loc>
+    <loc>/blog/2011/03/william-shatner-despierta-la/</loc>
     <lastmod>2011-03-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1025,14 +988,13 @@
   </url>
   
   <url>
-    <loc>/blog/2010/10/world-bike-tour-madrid-2010/</loc>
+    <loc>/categories/sport/</loc>
     <lastmod>2010-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/sport/</loc>
+    <loc>/blog/2010/10/world-bike-tour-madrid-2010/</loc>
     <lastmod>2010-10-10T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1113,7 +1075,6 @@
   <url>
     <loc>/categories/cars/</loc>
     <lastmod>2007-03-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1179,18 +1140,11 @@
   <url>
     <loc>/categories/maps/</loc>
     <lastmod>2006-02-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>/blog/2006/02/bolson-cerrado-en-miniatura/</loc>
     <lastmod>2006-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/tolkien/</loc>
-    <lastmod>2006-02-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1615,7 +1569,6 @@
   
   <url>
     <loc>/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
