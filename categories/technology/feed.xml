@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>technology on Luiyología</title>
-    <link>/categories/technology/</link>
+    <link>https://luiyo.net/categories/technology/</link>
     <description>Recent content in technology on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 30 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/technology/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luiyo.net/categories/technology/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Greach 2019</title>
-      <link>/blog/2019/03/greach-2019/</link>
+      <link>https://luiyo.net/blog/2019/03/greach-2019/</link>
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/03/greach-2019/</guid>
+      <guid>https://luiyo.net/blog/2019/03/greach-2019/</guid>
       <description>Greach 2019  This week I could attend another fantastic Greach Conference, an international conference that in previous years was focused on the Apache Groovy language and ecosystem (Grails, Gradle, etc.) but this year has expanded the scope to other technologies related to the JVM like Micronaut, GraalVM, Spring Boot, Kotlin, Android, &amp;hellip;
 Greach is a non-profitable event held in Madrid since 2011 (I think I&amp;rsquo;ve missed only one edition).</description>
     </item>
     
     <item>
       <title>FOSDEM 2019: Sunday</title>
-      <link>/blog/2019/02/fosdem-2019-sunday/</link>
+      <link>https://luiyo.net/blog/2019/02/fosdem-2019-sunday/</link>
       <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/02/fosdem-2019-sunday/</guid>
+      <guid>https://luiyo.net/blog/2019/02/fosdem-2019-sunday/</guid>
       <description>My Saturday finished having a great dinner with friends and lots of laughs in one of our favorite restaurants in Brussels.
 FOSDEM 2019 poster  As usual, my Sunday at FOSDEM started again very early. Lot&amp;rsquo;s of things to see in a complete set of new devrooms/tracks. This year I focused my second day in the Community and Geospatial devrooms.
 Before continuing, if you want to read my summary of the previous day you can follow this link: FOSDEM 2019: Saturday.</description>
@@ -34,78 +34,78 @@ Before continuing, if you want to read my summary of the previous day you can fo
     
     <item>
       <title>FOSDEM 2019: Saturday</title>
-      <link>/blog/2019/02/fosdem-2019-saturday/</link>
+      <link>https://luiyo.net/blog/2019/02/fosdem-2019-saturday/</link>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019/02/fosdem-2019-saturday/</guid>
+      <guid>https://luiyo.net/blog/2019/02/fosdem-2019-saturday/</guid>
       <description>It has been a week since I returned from another intense and thought-provoking weekend in Brussels, although it still feels like it was just yesterday. This year, apart from attending FOSDEM (as I intend to do every year) I took a very early flight on Friday to visit new (for me) places in the city. In just one day I visited the European Parliament Hemicycle, the House of European History, the Parlamentarium and the Museum of Natural Sciences.</description>
     </item>
     
     <item>
       <title>Greach 2018</title>
-      <link>/blog/2018/03/greach-2018/</link>
+      <link>https://luiyo.net/blog/2018/03/greach-2018/</link>
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/03/greach-2018/</guid>
+      <guid>https://luiyo.net/blog/2018/03/greach-2018/</guid>
       <description>Greach 2018  Some days ago I attended as usual to the fantastic Greach Conference, an international conference about the Apache Groovy language and ecosystem: Groovy, Grails, Gradle and a lot other things. Greach is held each year in Madrid but everything is in English, and nowadays it&amp;rsquo;s surely one of the Top worldwide events about this technologies.
 Greach is a non-profitable event organized by Iván López (@ilopar) and Alberto Vilches (@albertovilches), with some help from colleagues and a lot of sponsors.</description>
     </item>
     
     <item>
       <title>FOSDEM 2018: Sunday</title>
-      <link>/blog/2018/02/fosdem-2018-sunday/</link>
+      <link>https://luiyo.net/blog/2018/02/fosdem-2018-sunday/</link>
       <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/02/fosdem-2018-sunday/</guid>
+      <guid>https://luiyo.net/blog/2018/02/fosdem-2018-sunday/</guid>
       <description>After an interesting Saturday, finished with a great dinner with some friends in one of our favorite restaurants in Brussels, my Sunday at FOSDEM started again very early.
 FOSDEM 2018  My choices for the Sunday were again diverse and (in most cases) successful. Apart from the closing keynotes, I spent some time in the Legal and Policy Issues devroom, a couple of talks in the HPC, Big Data, and Data Science devroom and half the afternoon in the Geospatial devroom.</description>
     </item>
     
     <item>
       <title>FOSDEM 2018: Saturday</title>
-      <link>/blog/2018/02/fosdem-2018-saturday/</link>
+      <link>https://luiyo.net/blog/2018/02/fosdem-2018-saturday/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/02/fosdem-2018-saturday/</guid>
+      <guid>https://luiyo.net/blog/2018/02/fosdem-2018-saturday/</guid>
       <description>After an uncertain landing a few hours ago (the airport in Madrid was barely working due to a snowy morning), I&amp;rsquo;ve just arrived home but instead of having some rest after an intense and though-provoking FOSDEM I felt the urge to start writing about my weekend in Brussels.
 I&amp;rsquo;ve been there not only to enjoy this wonderful city with its trappist beers and great food, but specially to attend FOSDEM as I intend to do every year.</description>
     </item>
     
     <item>
       <title>Some things that Java developers really need to know in 2018</title>
-      <link>/blog/2018/01/things-that-java-developers-really-need-to-know/</link>
+      <link>https://luiyo.net/blog/2018/01/things-that-java-developers-really-need-to-know/</link>
       <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2018/01/things-that-java-developers-really-need-to-know/</guid>
+      <guid>https://luiyo.net/blog/2018/01/things-that-java-developers-really-need-to-know/</guid>
       <description>A couple of days ago DZone published an article called 9 Things Java Programmers Should Learn in 2018. I liked the idea and I even recommended the article to a couple of colleagues who are trying to reorient their professional career. After the advice I added some personal disclaimers about the content, to the point that one of my friends wisely told me:
  if you don&#39;t agree with these recommendations, why don&#39;t you write your own article?</description>
     </item>
     
     <item>
       <title>Big Data Spain 2017</title>
-      <link>/blog/2017/11/big-data-spain-2017/</link>
+      <link>https://luiyo.net/blog/2017/11/big-data-spain-2017/</link>
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2017/11/big-data-spain-2017/</guid>
+      <guid>https://luiyo.net/blog/2017/11/big-data-spain-2017/</guid>
       <description>Last week I attended Big Data Spain (BDS), a renowned event focused particularly on Big Data, Artificial Intelligence and Machine Learning. It&amp;rsquo;s a reference event about Big Data, not only in Spain but across Europe. The event is almost entirely held in English and attracts top level speakers and public.
 I couldn&amp;rsquo;t take a lot of notes, but I&amp;rsquo;ll summarize the talks that deserve your attention (among those that I heard):</description>
     </item>
     
     <item>
       <title>On being a Senior Software Engineer</title>
-      <link>/blog/2017/09/on-being-a-senior-software-engineer/</link>
+      <link>https://luiyo.net/blog/2017/09/on-being-a-senior-software-engineer/</link>
       <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2017/09/on-being-a-senior-software-engineer/</guid>
+      <guid>https://luiyo.net/blog/2017/09/on-being-a-senior-software-engineer/</guid>
       <description>For many different reasons I have had to discuss quite a lot recently about the professionalism of some people, technical and non-technical. Sometimes, because a person feels that she (I will use the feminine as neutral gender) is not being treated fairly with respect of her category, or because her performance is disappointing for others, sometimes after unfair comparisons between colleagues, &amp;hellip; As a common element, a diabolical concept was almost always being misused in these situations: Seniority.</description>
     </item>
     
     <item>
       <title>Susan Gerbic in Skeptics in the Pub Madrid</title>
-      <link>/blog/2017/09/susan-gerbic-in-skeptics-in-the-pub-madrid/</link>
+      <link>https://luiyo.net/blog/2017/09/susan-gerbic-in-skeptics-in-the-pub-madrid/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2017/09/susan-gerbic-in-skeptics-in-the-pub-madrid/</guid>
+      <guid>https://luiyo.net/blog/2017/09/susan-gerbic-in-skeptics-in-the-pub-madrid/</guid>
       <description>This entry is also published in Spanish in the website of ARP-SAPC
 As you probably know, we are celebrating the XXX Anniversary of ARP-SAPC with a special event this next Saturday (Sep 30th) with Alfonso López Borgoñoz (@lopezborgonoz). As an addition to this celebration, a week later we&amp;rsquo;ll be honoured to host a Skeptics in the Pub Madrid special event with Susan Gerbic.
 Affectionately called the Wikipediatrician, Susan Gerbic is the cofounder of Monterey County Skeptics and a self-proclaimed skeptical junkie.</description>
@@ -113,57 +113,57 @@ Affectionately called the Wikipediatrician, Susan Gerbic is the cofounder of Mon
     
     <item>
       <title>ING Security Summer Camp 2017</title>
-      <link>/blog/2017/07/ing-security-summer-camp-2017/</link>
+      <link>https://luiyo.net/blog/2017/07/ing-security-summer-camp-2017/</link>
       <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2017/07/ing-security-summer-camp-2017/</guid>
+      <guid>https://luiyo.net/blog/2017/07/ing-security-summer-camp-2017/</guid>
       <description>Last week I had the huge pleasure to participate in a week-long Security Summer Camp organized by the Information Security department of ING Spain. The agenda was very promising and implied some theory and lots of practice, ending with an Escape the Room game and a 2,5 days long Capture The Flag hacking competition. Several speakers from the Infosec Squad prepared talks and workshops about different topics, focusing on Ethical Hacking, secure development, server hardening or OSINT.</description>
     </item>
     
     <item>
       <title>Baking my Blog with JBake and GitHub</title>
-      <link>/blog/2017/05/baking-my-blog-with-jbake-and-github/</link>
+      <link>https://luiyo.net/blog/2017/05/baking-my-blog-with-jbake-and-github/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2017/05/baking-my-blog-with-jbake-and-github/</guid>
+      <guid>https://luiyo.net/blog/2017/05/baking-my-blog-with-jbake-and-github/</guid>
       <description>Almost since I created my personal blog in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My lazyness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.
 Anyhow, I was determined to migrate my blog outside of any blogging platform. I wanted to have complete control over my content, but without wasting lots of time in maintenance.</description>
     </item>
     
     <item>
       <title>Greach 2017, the Groovy Spanish Conference</title>
-      <link>/blog/2017/04/greach-2017-groovy-spanish-conference/</link>
+      <link>https://luiyo.net/blog/2017/04/greach-2017-groovy-spanish-conference/</link>
       <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2017/04/greach-2017-groovy-spanish-conference/</guid>
+      <guid>https://luiyo.net/blog/2017/04/greach-2017-groovy-spanish-conference/</guid>
       <description>I&#39;ll keep my intent to summarize all the important events that I&#39;m attending, and I&#39;ll do it again in English as the audience is international. Please, point me any mistake you may find  
 Greach 2017   This week I attended, as usual since I don&#39;t remember when, to Greach 2017, an international conference about the Apache Groovy language and ecosystem. Greach is held each year in Madrid but everything is in English, and nowadays it&#39;s probably one of the Top3 worldwide events about this technology.</description>
     </item>
     
     <item>
       <title>Codemotion 2016</title>
-      <link>/blog/2016/11/codemotion-2016/</link>
+      <link>https://luiyo.net/blog/2016/11/codemotion-2016/</link>
       <pubDate>Tue, 22 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2016/11/codemotion-2016/</guid>
+      <guid>https://luiyo.net/blog/2016/11/codemotion-2016/</guid>
       <description>Para mantener la buena costumbre (ya, lo sé, no siempre cumplo), voy a relatar brevemente mi experiencia durante Codemotion 2016, uno de los eventos sobre informática y programación más importantes del país. No hay números oficiales definitivos pero en la clausura la organización comentó que hubo más de 2.000 asistentes y más de 150 charlas/talleres. Suelo asistir todos los años, hay otros eventos más potentes e interesantes para tecnologías concretas pero como evento generalista donde puedes ver y oír de todo creo que Codemotion hoy en día no tiene rival (al menos en España).</description>
     </item>
     
     <item>
       <title>Greach 2016, the Groovy Spanish conference</title>
-      <link>/blog/2016/04/greach-2016-groovy-spanish-conference/</link>
+      <link>https://luiyo.net/blog/2016/04/greach-2016-groovy-spanish-conference/</link>
       <pubDate>Fri, 15 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2016/04/greach-2016-groovy-spanish-conference/</guid>
+      <guid>https://luiyo.net/blog/2016/04/greach-2016-groovy-spanish-conference/</guid>
       <description>I&#39;ll keep my intent to summarize all the important events that I&#39;m attending, and I&#39;ll do it again in English as the audience is international. Please, point me any mistake you may find  This last weekend I had the opportunity to attend Greach 2016. Greach is an international conference about the Groovy language and ecosystem, it&#39;s hosted here in Madrid but the conference is 100% in English to successfully attract top speakers and attendees.</description>
     </item>
     
     <item>
       <title>FOSDEM 2016: Sunday</title>
-      <link>/blog/2016/03/fosdem-2016-sunday/</link>
+      <link>https://luiyo.net/blog/2016/03/fosdem-2016-sunday/</link>
       <pubDate>Thu, 03 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2016/03/fosdem-2016-sunday/</guid>
+      <guid>https://luiyo.net/blog/2016/03/fosdem-2016-sunday/</guid>
       <description>Disclaimer: I attended FOSDEM in Brussels last January. I should have written this weeks ago but better late than ever, right?
 FOSDEM 2016   You can read about the rest of my FOSDEM here:
 FOSDEM 2016: Friday FOSDEM 2016: Saturday  As a retrospective, I attended a lot of talks and almost all of them were very interesting, but looking back now I realize that I should&#39;ve spent more time in the stands and aisles.</description>
@@ -171,115 +171,115 @@ FOSDEM 2016: Friday FOSDEM 2016: Saturday  As a retrospective, I attended a lot 
     
     <item>
       <title>FOSDEM 2016: Saturday</title>
-      <link>/blog/2016/03/fosdem-2016-saturday/</link>
+      <link>https://luiyo.net/blog/2016/03/fosdem-2016-saturday/</link>
       <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2016/03/fosdem-2016-saturday/</guid>
+      <guid>https://luiyo.net/blog/2016/03/fosdem-2016-saturday/</guid>
       <description>Disclaimer: I attended FOSDEM in Brussels last January. I should have written this weeks ago but better late than ever, right?
 FOSDEM 2016   After an interesting Friday (as I told you yesterday) our FOSDEM Saturday started early. I attended a couple of talks in the Free Java DevRoom, another couple about Open Source Design but surprisingly most of them were in the Legal and Policy Issues track.</description>
     </item>
     
     <item>
       <title>FOSDEM 2016: Friday</title>
-      <link>/blog/2016/03/fosdem-2016-friday/</link>
+      <link>https://luiyo.net/blog/2016/03/fosdem-2016-friday/</link>
       <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2016/03/fosdem-2016-friday/</guid>
+      <guid>https://luiyo.net/blog/2016/03/fosdem-2016-friday/</guid>
       <description>Disclaimer: I attended FOSDEM in Brussels last January. I should have written this weeks ago but better late than ever, right?
 FOSDEM 2016   As you may know if you are reading this, FOSDEM is a not to be missed event about Free and Open Source Software (FOSS). By far, it is the most important gathering about FOSS in the planet. It&#39;s an unbeatable opportunity to attend great talks and workshops, but also to hang around with amazing people and top professionals.</description>
     </item>
     
     <item>
       <title>Escépticos en el Pub Madrid - Junio 2015</title>
-      <link>/blog/2015/05/escepticos-en-el-pub-madrid-junio-2015/</link>
+      <link>https://luiyo.net/blog/2015/05/escepticos-en-el-pub-madrid-junio-2015/</link>
       <pubDate>Wed, 27 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2015/05/escepticos-en-el-pub-madrid-junio-2015/</guid>
+      <guid>https://luiyo.net/blog/2015/05/escepticos-en-el-pub-madrid-junio-2015/</guid>
       <description>Cerramos la temporada con un evento potente: vendrá el divulgador José Manuel López Nicolás y nos hablará sobre los trucos de la industria cosmética. Creemos que el tema es muy interesante y estamos seguros de que os gustará. El ponente ya ha pasado por nuestro Pub y no hemos podido resistirnos a traerle de vuelta. Por la acumulación de eventos deportivos y sociales hemos tenido que poner la charla un viernes, concretamente el próximo viernes 12 de Junio.</description>
     </item>
     
     <item>
       <title>Escépticos en el Pub Madrid - Enero 2015</title>
-      <link>/blog/2014/12/escepticos-en-el-pub-madrid-enero-2015/</link>
+      <link>https://luiyo.net/blog/2014/12/escepticos-en-el-pub-madrid-enero-2015/</link>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2014/12/escepticos-en-el-pub-madrid-enero-2015/</guid>
+      <guid>https://luiyo.net/blog/2014/12/escepticos-en-el-pub-madrid-enero-2015/</guid>
       <description>(mientras pienso si retomo la costumbre de publicar aquí también las convocatorias de EeeP Madrid, les dejo una que no deben perderse)  Arrancaremos el nuevo año en Escépticos en el Pub Madrid con un evento que esperamos os resulte tan interesante como a nosotros sobre periodismo de datos y la necesidad ciudadana de contrastar críticamente la información que recibe. Para ello, el Sábado 10 de Enero de 2015 nos visitan David Cabo y Eva Belmonte con una charla titulada Periodismo para gente incrédula.</description>
     </item>
     
     <item>
       <title>Cita con Rama de Arthur C. Clarke</title>
-      <link>/blog/2013/07/cita-con-rama-de-arthur-c-clarke/</link>
+      <link>https://luiyo.net/blog/2013/07/cita-con-rama-de-arthur-c-clarke/</link>
       <pubDate>Fri, 12 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2013/07/cita-con-rama-de-arthur-c-clarke/</guid>
+      <guid>https://luiyo.net/blog/2013/07/cita-con-rama-de-arthur-c-clarke/</guid>
       <description>El hecho de querer valorar justamente en Goodreads los grandes clásicos que leí de pequeño me está obligando a releer deliciosas obras maestras.
 En esta ocasión ha sido Cita con Rama, de Arthur C. Clarke. Pocas obras han tenido su impacto, fue devorado por el público y siempre viajó acompañada de grandes críticas. Ganó tras su publicación en 1973 múltiples premios, destacando el Premio Nébula, el Premio Hugo y el Premio Locus.</description>
     </item>
     
     <item>
       <title>Crónica de una visita guiada al CERN</title>
-      <link>/blog/2013/02/cronica-de-una-visita-guiada-al-cern/</link>
+      <link>https://luiyo.net/blog/2013/02/cronica-de-una-visita-guiada-al-cern/</link>
       <pubDate>Thu, 28 Feb 2013 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2013/02/cronica-de-una-visita-guiada-al-cern/</guid>
+      <guid>https://luiyo.net/blog/2013/02/cronica-de-una-visita-guiada-al-cern/</guid>
       <description>(Entrada publicada también en el blog de la Asociación Española de Comunicación Científica)  Hace unos días publiqué una Guía para visitar el CERN que tuvo bastante éxito y mucha gente me ha solicitado más información sobre la visita. Para completar en lo posible, aunque sin entrar a valorar aquello que puede encontrarse fácilmente en Google sobre el CERN, voy a relatar mi visita añadiendo toda la información de tipo práctico que crea útil.</description>
     </item>
     
     <item>
       <title>Guía para visitar el CERN</title>
-      <link>/blog/2013/01/guia-para-visitar-el-cern/</link>
+      <link>https://luiyo.net/blog/2013/01/guia-para-visitar-el-cern/</link>
       <pubDate>Sun, 27 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2013/01/guia-para-visitar-el-cern/</guid>
+      <guid>https://luiyo.net/blog/2013/01/guia-para-visitar-el-cern/</guid>
       <description>(Entrada publicada también en el blog de la Asociación Española de Comunicación Científica)  Dentro de tres días, el próximo Miércoles 30 de Enero, estaré en Ginebra para una visita que llevo mucho tiempo planeando: la Organización Europea para la Investigación Nuclear que todos conocemos por sus siglas en francés CERN (Conseil Européen pour la Recherche Nucléaire).
 Tras una introducción para despistados (muy despistados) entraré al propósito de esta entrada, una guía rápida y fácil para visitar el CERN, dado que es mucho más sencillo y asequible de lo que la gente cree.</description>
     </item>
     
     <item>
       <title>Tu tasa de paro</title>
-      <link>/blog/2013/01/tu-tasa-de-paro/</link>
+      <link>https://luiyo.net/blog/2013/01/tu-tasa-de-paro/</link>
       <pubDate>Thu, 24 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2013/01/tu-tasa-de-paro/</guid>
+      <guid>https://luiyo.net/blog/2013/01/tu-tasa-de-paro/</guid>
       <description>Algunos recordaréis (y los que no, ya lo sabéis) que en Julio del pasado año tuve el placer de participar en la PiWeek (Personal Innovation Week), una iniciativa muy interesante por parte de Kaleidos (una empresa madrileña orientada al software libre con la que tengo únótimë lazos). Esta iniciativa consiste en permitir cada seis meses que durante una semana completa todos los empleados de la empresa organicen y participen en proyectos totalmente personales (suyos o de otro compañero).</description>
     </item>
     
     <item>
       <title>NECSS 2013</title>
-      <link>/blog/2013/01/necss-2013/</link>
+      <link>https://luiyo.net/blog/2013/01/necss-2013/</link>
       <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2013/01/necss-2013/</guid>
+      <guid>https://luiyo.net/blog/2013/01/necss-2013/</guid>
       <description>En Diciembre se abrió el registro para la edición 2013 de la Northeast Conference on Science &amp;amp; Skepticism (@NECSS), que este año se llevará a cabo del 5 al 7 de Abril en la magnífica ciudad de Nueva York. No quería dejar pasar la oportunidad de recordarlo, no quedarán muchas entradas disponibles pero siguen quedando.
 Tuve la gran suerte de asistir a NECSS 2012. Allí pude conocer a gente fantástica y escuchar charlas muy interesantes e inspiradoras.</description>
     </item>
     
     <item>
       <title>III Congreso El Ser Creativo</title>
-      <link>/blog/2012/11/iii-congreso-el-ser-creativo/</link>
+      <link>https://luiyo.net/blog/2012/11/iii-congreso-el-ser-creativo/</link>
       <pubDate>Mon, 05 Nov 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/11/iii-congreso-el-ser-creativo/</guid>
+      <guid>https://luiyo.net/blog/2012/11/iii-congreso-el-ser-creativo/</guid>
       <description>Al igual que el pasado año, esta semana voy a tener el privilegio de asistir como invitado a El Ser Creativo, III Congreso de Mentes Brillantes, que se celebrará el 6 y 7 de Noviembre en Madrid. De nuevo tendré la misión de cubrir el evento a través de @escepticos, el Twitter de ARP-SAPC (Sociedad para el Avance del Pensamiento Crítico), haré muchas fotos y posteriormente ayudaré a redactar la crónica para la revista El Escéptico de ARP.</description>
     </item>
     
     <item>
       <title>The Sagan Series Part 9 The Humans</title>
-      <link>/blog/2012/06/sagan-series-part-9-humans/</link>
+      <link>https://luiyo.net/blog/2012/06/sagan-series-part-9-humans/</link>
       <pubDate>Thu, 28 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/06/sagan-series-part-9-humans/</guid>
+      <guid>https://luiyo.net/blog/2012/06/sagan-series-part-9-humans/</guid>
       <description>El creador de mi admirada serie de clips en homenaje a Carl Sagan, Reid Gower, partició en 2011 en un evento TEDx en Vancouver. La charla es breve pero más que correcta, y me sirve de excusa para compartir el último episodio, del que aún no había dado cuenta en el blog.
 El noveno capítulo, The Humans, abunda en un tema habitual, el impacto del ser humano en el planeta.</description>
     </item>
     
     <item>
       <title>Conferencia sobre el MSL en el MDSCC</title>
-      <link>/blog/2012/05/conferencia-sobre-el-msl-en-el-mdscc/</link>
+      <link>https://luiyo.net/blog/2012/05/conferencia-sobre-el-msl-en-el-mdscc/</link>
       <pubDate>Thu, 31 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/05/conferencia-sobre-el-msl-en-el-mdscc/</guid>
+      <guid>https://luiyo.net/blog/2012/05/conferencia-sobre-el-msl-en-el-mdscc/</guid>
       <description>Esta tarde me han invitado a asistir a una conferencia en el Centro de Visitantes del MDSCC (Madrid Deep Space Communications Complex) que el INTA (Instituto Nacional de Técnica Aeroespacial) y la NASA (National Aeronautics and Space Administration) tienen a medias en Robledo de Chavela, a pocos kilómetros de Madrid capital.
 Mars Science Laboratory mission logo
 Source: NASA/JPL @ Wikimedia Commons - Public Domain   El MDSCC es un centro de Comunicaciones que comenzó a construir la NASA en los sesenta para formar parte de una red mundial para el seguimiento de vehículos y sondas espaciales.</description>
@@ -287,30 +287,30 @@ Source: NASA/JPL @ Wikimedia Commons - Public Domain   El MDSCC es un centro de 
     
     <item>
       <title>Escépticos en el Pub Madrid - Junio 2012</title>
-      <link>/blog/2012/05/escepticos-en-el-pub-madrid-junio-2012/</link>
+      <link>https://luiyo.net/blog/2012/05/escepticos-en-el-pub-madrid-junio-2012/</link>
       <pubDate>Tue, 29 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/05/escepticos-en-el-pub-madrid-junio-2012/</guid>
+      <guid>https://luiyo.net/blog/2012/05/escepticos-en-el-pub-madrid-junio-2012/</guid>
       <description>Tras un tremendo mes de Mayo con tres ponentes estelares: José Manuel López Nicolás (@ScientiaJMLN), James Randi (@JREF) y D.J. Grothe (@DJGrothe), en Junio cerramos la temporada con otra charla de gran nivel y expectación.
 La persona elegida para el cierre es Patricia Fernández de Lis (@pflis), periodista especializada en Ciencia y Tecnología, fue Redactora Jefe de la magnífica sección de Ciencias del Diario Público desde su fundación hasta su defunción (labor por la que recibió el premio Mario Bohoslavsky que concede ARP-SAPC por la contribución de Público a la lucha contra las pseudociencias) y actualmente es Directora de la web de noticias de Ciencia y Tecnología Materia, que acaba de echar a rodar.</description>
     </item>
     
     <item>
       <title>SkeptiCamp Alicante 2012 - Todas las charlas en audio</title>
-      <link>/blog/2012/05/skepticamp-alicante-2012-todas-las/</link>
+      <link>https://luiyo.net/blog/2012/05/skepticamp-alicante-2012-todas-las/</link>
       <pubDate>Sat, 26 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/05/skepticamp-alicante-2012-todas-las/</guid>
+      <guid>https://luiyo.net/blog/2012/05/skepticamp-alicante-2012-todas-las/</guid>
       <description>Hace unos días se publicaron en la web de Radio Podcastellano los audios de las charlas de SkeptiCamp Alicante 2012. Gracias a ellos podéis disfrutar de nuevo (o por primera vez) de todas las charlas.
 Lamentablemente no han encontrado chicha suficiente ni en la Bienvenida ni en la Clausura para un episodio propio, pero pueden escucharme en casi cualquiera de los cortes ejerciendo mis labores de humilde presentador y moderador.</description>
     </item>
     
     <item>
       <title>SkeptiCamp Alicante - Horario Definitivo</title>
-      <link>/blog/2012/05/skepticamp-alicante-horario-definitivo/</link>
+      <link>https://luiyo.net/blog/2012/05/skepticamp-alicante-horario-definitivo/</link>
       <pubDate>Fri, 04 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/05/skepticamp-alicante-horario-definitivo/</guid>
+      <guid>https://luiyo.net/blog/2012/05/skepticamp-alicante-horario-definitivo/</guid>
       <description>(Esta entrada se publicó originalmente en el blog de Street Alicante Science)  Quedan unas horas para SkeptiCamp Alicante 2012, el evento abierto de divulgación que celebraremos este Sábado 5 de Mayo durante Street Alicante Science.
 Aunque habitualmente el horario se debe anunciar la misma mañana del evento, dada la expectación generada paso a detallarles lo que tendremos el gusto de escuchar mañana:
   Hora Ponente/s Título   10:00 - 10:30 Luis García Presentación y Bienvenida   10:30 - 11:00 Nahum Méndez Chazarra Al fin y al cabo, tampoco fuimos tan distintos   11:00 - 11:30 José Francisco García Martínez El tiempo es una droga   11:30 - 12:00 Pausa para desayunar    12:00 - 12:30 Alicia Frías González Alicia en el país de los escépticos   12:30 - 13:00 Fernando Frías Sánchez Escepticismo desde el suelo   13:00 - 13:30 Shaila Villar García “Soy criminóloga… no CSI”   13:30 - 14:00 Aarón Pedreño Sala La Entomología Forense como herramienta contra el crimen   14:00 - 15:30 Comida    15:30 - 16:00 Mario Vera Méndez Algunas curiosidades debajo del mar   16:00 - 16:30 Héctor Castro Gómez Neurología, la ciencia de vanguardia   16:30 - 17:00 José Carlos Vaqué Alcázar El cáncer: mitos y verdades   17:00 - 17:30 Darío Pescador Personas cualificadas, mitos y promesas   17:30 - 18:00 Pausa para merendar    18:00 - 18:30 Antonio Pérez Verde Horóscopos y otras formas de perder el tiempo   18:30 - 19:00 José Ángel Carrión Rodrigo Exoplanetas: Guía del Autoestopista Galáctico   19:00 - 19:30 Meritxell Farre Serra Harry Houdini, Cazador de mediums   19:30 - 20:00 Ángel V.</description>
@@ -318,10 +318,10 @@ Aunque habitualmente el horario se debe anunciar la misma mañana del evento, da
     
     <item>
       <title>Lo último en tecnología en SkeptiCamp Alicante</title>
-      <link>/blog/2012/04/lo-ultimo-en-tecnologia-en-skepticamp/</link>
+      <link>https://luiyo.net/blog/2012/04/lo-ultimo-en-tecnologia-en-skepticamp/</link>
       <pubDate>Sat, 28 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/04/lo-ultimo-en-tecnologia-en-skepticamp/</guid>
+      <guid>https://luiyo.net/blog/2012/04/lo-ultimo-en-tecnologia-en-skepticamp/</guid>
       <description>(Esta entrada se publicó originalmente en el blog de Street Alicante Science)  Queda una semana para SkeptiCamp Alicante 2012, el evento abierto de divulgación que celebraremos el Sábado 5 de Mayo durante Street Alicante Science.
 Si has llegado aquí sin saber qué es un SkeptiCamp, primero te conviene leer:
  La wiki oficial de SkeptiCamp la entrada de presentación de SkeptiCamp Alicante 2012 El anuncio de las dos primeras charlas, sobre cáncer y exoplanetas En SkeptiCamp Alicante habrá superhéroes En SkeptiCamp Alicante hablaremos de Criminología En SkeptiCamp Alicante no faltará la Magia SkeptiCamp Alicante tendrá la ponente más joven de cualquier SkeptiCamp En SkeptiCamp Alicante miraremos al cielo  En el penúltimo bloque de presentaciones tenemos dos charlas relacionadas con tecnología, para muy diferentes usos pero en cualquier caso aparatos impensables hace unos cuantos años.</description>
@@ -329,97 +329,97 @@ Si has llegado aquí sin saber qué es un SkeptiCamp, primero te conviene leer:
     
     <item>
       <title>NECSS 2012 - Northeast Conference on Science and Skepticism</title>
-      <link>/blog/2012/04/necss-2012-northeast-conference-on/</link>
+      <link>https://luiyo.net/blog/2012/04/necss-2012-northeast-conference-on/</link>
       <pubDate>Mon, 16 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/04/necss-2012-northeast-conference-on/</guid>
+      <guid>https://luiyo.net/blog/2012/04/necss-2012-northeast-conference-on/</guid>
       <description>Programé esta entrada hace algo menos de una semana desde Madrid. En estos momentos estoy en un tren camino de Washington a Nueva York, probablemente leyendo o durmiendo, pero la magia de la informática me permite contaros qué tengo pensado hacer este próximo fin de semana. La excusa para este viaje de 10 días por los Estados Unidos es que tengo la intención de participar en la próxima NECSS 2012 (Northeast Conference on Science and Skepticism), que se celebra aquí en la Gran Manzana el 21 y 22 de Abril.</description>
     </item>
     
     <item>
       <title>SkeptiCamp Alicante 2012 - Primeras charlas confirmadas</title>
-      <link>/blog/2012/03/skepticamp-alicante-2012-primeras/</link>
+      <link>https://luiyo.net/blog/2012/03/skepticamp-alicante-2012-primeras/</link>
       <pubDate>Sat, 31 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/03/skepticamp-alicante-2012-primeras/</guid>
+      <guid>https://luiyo.net/blog/2012/03/skepticamp-alicante-2012-primeras/</guid>
       <description>(Esta entrada se publicó hace 24 horas en el blog de Street Alicante Science)  Queda poco más de un mes para que celebremos nuestro evento abierto de divulgación, SkeptiCamp Alicante 2012, concretamente será el Sábado 5 de Mayo, siendo posible que se prolongue el evento también al Viernes 4 si fuera necesario por la cantidad de actividades (y esperamos que lo sea).
 Si has llegado aquí sin saber qué es un SkeptiCamp, primero te conviene leer la entrada de presentación e incluso te recomiendo darte un paseo por la wiki oficial.</description>
     </item>
     
     <item>
       <title>Spring I/O 2012</title>
-      <link>/blog/2012/03/spring-io-2012/</link>
+      <link>https://luiyo.net/blog/2012/03/spring-io-2012/</link>
       <pubDate>Mon, 19 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/03/spring-io-2012/</guid>
+      <guid>https://luiyo.net/blog/2012/03/spring-io-2012/</guid>
       <description>Por fin saco un rato, con un mes de retraso, para hablar del evento Spring I/O 2012. A estas alturas lo fácil habría sido dejarlo estar, pero en mi empresa me han recordado que por algo me &#34;designaron&#34; como representante y autorizaron mi asistencia. Como primer paso para compartir lo vivido con mis compañeros (en forma de presentación si sacase tiempo), dejaré aquí un resumen de las notas que tomé.</description>
     </item>
     
     <item>
       <title>QED 2012 - Question Explore Discover</title>
-      <link>/blog/2012/03/qed-2012-question-explore-discover/</link>
+      <link>https://luiyo.net/blog/2012/03/qed-2012-question-explore-discover/</link>
       <pubDate>Fri, 09 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/03/qed-2012-question-explore-discover/</guid>
+      <guid>https://luiyo.net/blog/2012/03/qed-2012-question-explore-discover/</guid>
       <description>Este fin de semana estaré en Manchester, Reino Unido, disfrutando como un enano en uno de los principales eventos a nivel mundial sobre pensamiento crítico y divulgación científica. Siento no haber sacado tiempo (a nadie le sorprenderá) para una entrada más elaborada, lo cierto es que tengo comprada la entrada, el vuelo y la habitación de hotel desde hace varios meses.
 QED (Question-Explore-Discover) es un maravilloso evento organizado por Greater Manchester Skeptics Society y Merseyside Skeptics Society.</description>
     </item>
     
     <item>
       <title>Escépticos en el Pub Madrid - Marzo 2012</title>
-      <link>/blog/2012/03/escepticos-en-el-pub-madrid-marzo-2012/</link>
+      <link>https://luiyo.net/blog/2012/03/escepticos-en-el-pub-madrid-marzo-2012/</link>
       <pubDate>Sun, 04 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/03/escepticos-en-el-pub-madrid-marzo-2012/</guid>
+      <guid>https://luiyo.net/blog/2012/03/escepticos-en-el-pub-madrid-marzo-2012/</guid>
       <description>En Febrero hicimos doblete y tuvimos dos ediciones épicas de Escépticos en el Pub Madrid. Como la segunda de ellas fue este pasado fin de semana, en Marzo retrasamos el evento del habitual primer sábado al segundo.
 Javier de la Cueva, abogado especialista en propiedad intelectual y autor del blog Derecho de Internet, nos hablará de su especialidad haciendo un amplio (y muy necesario) repaso al asunto. En sus propias palabras:</description>
     </item>
     
     <item>
       <title>Divulgación 2.0, de todos y para todos</title>
-      <link>/blog/2012/02/divulgacion-20-de-todos-y-para-todos/</link>
+      <link>https://luiyo.net/blog/2012/02/divulgacion-20-de-todos-y-para-todos/</link>
       <pubDate>Fri, 17 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/02/divulgacion-20-de-todos-y-para-todos/</guid>
+      <guid>https://luiyo.net/blog/2012/02/divulgacion-20-de-todos-y-para-todos/</guid>
       <description>(Esta entrada se publicó hace 24 horas en el blog de Street Alicante Science)
 Hasta hace poco la divulgación en este país se hacia para unos pocos y habitualmente también se originaba en unos pocos. Gracias al imparable desarrollo de Internet y la sociedad de la información, esto afortunadamente también se ha democratizado y vemos como día a día sigue en un crecimiento imparable hasta ahora e inimaginable hace unos años.</description>
     </item>
     
     <item>
       <title>SkeptiCamp, eventos abiertos de divulgación</title>
-      <link>/blog/2012/02/skepticamp-eventos-abiertos-de/</link>
+      <link>https://luiyo.net/blog/2012/02/skepticamp-eventos-abiertos-de/</link>
       <pubDate>Sun, 05 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/02/skepticamp-eventos-abiertos-de/</guid>
+      <guid>https://luiyo.net/blog/2012/02/skepticamp-eventos-abiertos-de/</guid>
       <description>(Entrada publicada originalmente en el blog de la Asociación Española de Comunicación Científica, asociación a la cual tengo el gusto y el honor de haber sido invitado a pertenecer)  Como algunos sin duda ya sabréis el pasado fin de semana se celebró SkeptiCamp Madrid 2012, por primera vez en un país de habla no inglesa, el primero por tanto en castellano y en España, cuya organización tuve el honor y el privilegio de coordinar y dirigir.</description>
     </item>
     
     <item>
       <title>SkeptiCamp Madrid 2012</title>
-      <link>/blog/2012/01/skepticamp-madrid-2012/</link>
+      <link>https://luiyo.net/blog/2012/01/skepticamp-madrid-2012/</link>
       <pubDate>Thu, 26 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/01/skepticamp-madrid-2012/</guid>
+      <guid>https://luiyo.net/blog/2012/01/skepticamp-madrid-2012/</guid>
       <description>Por algún extraño motivo no he hablado hasta ahora de uno de los proyectos a los que más tiempo de ocio (ocio puro) he dedicado en los últimos meses: la promoción en castellano a nivel global del modelo SkeptiCamp (lo que llamamos ESkeptiCamp) y en concreto la organización de SkeptiCamp Madrid 2012, que se llevará a cabo este próximo Sábado 28 de Enero en Madrid. Vayamos por partes.
 ¿Qué es un SkeptiCamp?</description>
     </item>
     
     <item>
       <title>Un año de ediciones en OpenStreetMap</title>
-      <link>/blog/2012/01/un-ano-de-ediciones-en-openstreetmap/</link>
+      <link>https://luiyo.net/blog/2012/01/un-ano-de-ediciones-en-openstreetmap/</link>
       <pubDate>Tue, 03 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/01/un-ano-de-ediciones-en-openstreetmap/</guid>
+      <guid>https://luiyo.net/blog/2012/01/un-ano-de-ediciones-en-openstreetmap/</guid>
       <description>Hoy toca hablar de uno de los servicios en los que colaboro todo lo que puedo. Se trata de OpenStreetMap, la base de datos geográficos libre. Para que entiendan su necesidad, a pesar de que contamos con servicios gratuitos de mapas a patadas, es perfecto el párrafo de introducción a la Wiki del proyecto.
   OpenStreetMap creates and provides free geographic data such as street maps to anyone who wants them.</description>
     </item>
     
     <item>
       <title>The Sagan Series Part 7 and 8</title>
-      <link>/blog/2011/11/sagan-series-part-7-8/</link>
+      <link>https://luiyo.net/blog/2011/11/sagan-series-part-7-8/</link>
       <pubDate>Wed, 02 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2011/11/sagan-series-part-7-8/</guid>
+      <guid>https://luiyo.net/blog/2011/11/sagan-series-part-7-8/</guid>
       <description>No publiqué en su momento el séptimo episodio, lo hago ahora junto al octavo que acaba de salir del horno.
 El séptimo capítulo, The Long Astronomical Perspective, nos hace reflexionar acerca de la importancia del momento que vivimos en lo que refiere al planeta y su conservación. Como siempre es tremendamente bello e inspirador.
    La octava parte de la serie, Gift of Apollo, se centra, ahora que la NASA ha decidido abandonar el programa de transbordadores espaciales, en la importancia a nivel global de la llegada del hombre a la Luna.</description>
@@ -427,40 +427,40 @@ El séptimo capítulo, The Long Astronomical Perspective, nos hace reflexionar a
     
     <item>
       <title>El Ser Creativo</title>
-      <link>/blog/2011/10/el-ser-creativo/</link>
+      <link>https://luiyo.net/blog/2011/10/el-ser-creativo/</link>
       <pubDate>Sun, 16 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2011/10/el-ser-creativo/</guid>
+      <guid>https://luiyo.net/blog/2011/10/el-ser-creativo/</guid>
       <description>Esta próxima semana tendré el gusto, el honor y la responsabilidad de asistir al congreso El Ser Creativo, o Congreso de Mentes Brillantes como ellos mismos se llaman, que se celebrará en el Palacio de los Deportes de Madrid del 19 al 21 de Octubre.
 Será un placer por motivos evidentes, disfrutaré tremendamente de las charlas aunque alguno de los ponentes suele activar a menudo mi detector de chorradas. Además en este caso será un honor por haber sido invitado a asistir gracias a mi pertenencia a ARP Sociedad para el Avance del Pensamiento Crítico.</description>
     </item>
     
     <item>
       <title>I Congreso Escéptico 2011 &#39;Antes del fin del mundo&#39;</title>
-      <link>/blog/2011/10/i-congreso-esceptico-2011-antes-del-fin/</link>
+      <link>https://luiyo.net/blog/2011/10/i-congreso-esceptico-2011-antes-del-fin/</link>
       <pubDate>Fri, 07 Oct 2011 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2011/10/i-congreso-esceptico-2011-antes-del-fin/</guid>
+      <guid>https://luiyo.net/blog/2011/10/i-congreso-esceptico-2011-antes-del-fin/</guid>
       <description>En unas horas partiré hacia Alicante para uno de los eventos del año en España en cuanto a divulgación y escepticismo. El I Congreso Escéptico 2011 &#34;Antes del fin del mundo&#34; organizado por ARP Sociedad para el Avance del Pensamiento Crítico. Aparte del consabido networking (los corrillos de toda la vida), las principales charlas y actividades son las siguientes:
 I Congreso Escéptico 2011    Magia, mentalismo y paranormales   Por Andrés Carmona Campo.</description>
     </item>
     
     <item>
       <title>Los 10 mejores libros de ciencia ficción dura</title>
-      <link>/blog/2011/06/los-mejores-10-libros-de-ciencia/</link>
+      <link>https://luiyo.net/blog/2011/06/los-mejores-10-libros-de-ciencia/</link>
       <pubDate>Mon, 06 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2011/06/los-mejores-10-libros-de-ciencia/</guid>
+      <guid>https://luiyo.net/blog/2011/06/los-mejores-10-libros-de-ciencia/</guid>
       <description>Muchos de ustedes ya sabrán que la ciencia ficción dura es &#34;un subgénero de la ciencia ficción caracterizado por conceder una especial relevancia a los detalles científicos o técnicos de la historia&#34; (Wikipedia dixit). Uno de mis géneros favoritos, dicho sea de paso.
 Dicho esto, acabo de ver que Technology Review —publicación del M.I.T.— tiene previsto publicar a lo largo del año la colección TR:SF con relatos de ciencia ficción dura.</description>
     </item>
     
     <item>
       <title>Lo que la cámara de un astronauta ve</title>
-      <link>/blog/2011/05/lo-que-la-camara-de-un-astronauta-ve/</link>
+      <link>https://luiyo.net/blog/2011/05/lo-que-la-camara-de-un-astronauta-ve/</link>
       <pubDate>Sat, 28 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2011/05/lo-que-la-camara-de-un-astronauta-ve/</guid>
+      <guid>https://luiyo.net/blog/2011/05/lo-que-la-camara-de-un-astronauta-ve/</guid>
       <description> He encontrado en Reddit una auténtica maravilla. Se trata de un vídeo con imágenes grabadas desde el espacio comentado por Justin Wilkinson, ingeniero de la Crew Earth Observations en el Johnson Space Center de la NASA en Houston.
 En el vídeo el Sr. Wilkinson describe los diferentes paisajes que se pueden ver (y distinguir) perfectamente desde la Estación Espacial Internacional. Disfruten, mejor si es en Alta Definición:
    </description>
@@ -468,48 +468,48 @@ En el vídeo el Sr. Wilkinson describe los diferentes paisajes que se pueden ver
     
     <item>
       <title>Escépticos en el Pub Madrid - Mayo 2011</title>
-      <link>/blog/2011/05/escepticos-en-el-pub-mayo-2011/</link>
+      <link>https://luiyo.net/blog/2011/05/escepticos-en-el-pub-mayo-2011/</link>
       <pubDate>Mon, 02 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2011/05/escepticos-en-el-pub-mayo-2011/</guid>
+      <guid>https://luiyo.net/blog/2011/05/escepticos-en-el-pub-mayo-2011/</guid>
       <description>Ahora todo parece que gira en torno a Obama y especialmente Osama, hace poco era cierta boda la gran noticia, y de forma permanente siempre tenemos el fútbol, pero antes de todo esto todos nuestros pensamientos y preocupaciones estaban en Fukushima. Por ello, cuando se empezó hace unas semanas a pensar en el tema para Escépticos en el Pub Madrid de Mayo se buscó algo relacionado con el desastre nuclear de Japón.</description>
     </item>
     
     <item>
       <title>Ciencia Ficción y Fantasía en Creative Commons</title>
-      <link>/blog/2011/02/ciencia-ficcion-y-fantasia-en-creative/</link>
+      <link>https://luiyo.net/blog/2011/02/ciencia-ficcion-y-fantasia-en-creative/</link>
       <pubDate>Sun, 27 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2011/02/ciencia-ficcion-y-fantasia-en-creative/</guid>
+      <guid>https://luiyo.net/blog/2011/02/ciencia-ficcion-y-fantasia-en-creative/</guid>
       <description>Ya os he hablado de Creative Commons, como si no lo conocierais ya de antes, y puedo ir al grano sin introducciones sobre ello. Ahora que emerge con fuerza el libro electrónico, también lo hacen las tiendas de libros electrónicos. Por ahora la gente sigue siendo algo reacia a pagar, no ayuda nada los desorbitados precios de los eBooks.
 Un gran filón de este tipo de tiendas (y de los usuarios de libro electrónico) son las obras que ya han pasado a dominio público, y las obras que legalmente están disponibles de manera libre (y gratuita) en la red.</description>
     </item>
     
     <item>
       <title>Creative Commons</title>
-      <link>/blog/2011/02/creative-commons/</link>
+      <link>https://luiyo.net/blog/2011/02/creative-commons/</link>
       <pubDate>Sun, 27 Feb 2011 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2011/02/creative-commons/</guid>
+      <guid>https://luiyo.net/blog/2011/02/creative-commons/</guid>
       <description>Creative Commons es una organización sin ánimo de lucro fundada en 2001 por Lawrence Lessig, Hal Abelson y Eric Eldred. Está destinada a facilitar la compartición de la cultura (en todas sus formas) mediante una serie de licencias totalmente gratuitas que simplifican y amparan legalmente a todo aquel que quiera publicar algo sin reservar todos los derechos. El creador puede elegir de forma fácil y rápida qué licencia otorga a cada una de sus obras, según permita o no las obras derivadas, el uso comercial, etc.</description>
     </item>
     
     <item>
       <title>Llegó la Fonera</title>
-      <link>/blog/2006/09/llego-la-fonera/</link>
+      <link>https://luiyo.net/blog/2006/09/llego-la-fonera/</link>
       <pubDate>Thu, 28 Sep 2006 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2006/09/llego-la-fonera/</guid>
+      <guid>https://luiyo.net/blog/2006/09/llego-la-fonera/</guid>
       <description>La pedí hace más o menos una semana y hoy ya la tengo en mis manos. Esta noche la configuro, si tengo algún problema os lo diré.
 Más información en la web del Movimiento Fon. Puedo responder a cualquier duda que dejéis en los comentarios.</description>
     </item>
     
     <item>
       <title>Mi Próximo móvil</title>
-      <link>/blog/2005/08/mi-proximo-movil/</link>
+      <link>https://luiyo.net/blog/2005/08/mi-proximo-movil/</link>
       <pubDate>Fri, 12 Aug 2005 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2005/08/mi-proximo-movil/</guid>
+      <guid>https://luiyo.net/blog/2005/08/mi-proximo-movil/</guid>
       <description>Leo en Engadget que Sona Mobile y Viacom van a sacar al mercado un teléfono móvil simulando el Communicator de la serie Star Trek.
 Una lástima que no encuentre una foto o boceto, pero debería ser parecido a esta réplica que veis en la imagen.
 Esta vez no se tratará de una simple réplica, tanto el aspecto como el contenido irán acordes. Imagenes, temas, videos, sonidos, un juego on-line multi-jugador basado en Star Trek e incluso noticias e información para fans.</description>
@@ -517,10 +517,10 @@ Esta vez no se tratará de una simple réplica, tanto el aspecto como el conteni
     
     <item>
       <title>50º Aniversario de Baikonur</title>
-      <link>/blog/2005/06/50-aniversario-de-baikonur/</link>
+      <link>https://luiyo.net/blog/2005/06/50-aniversario-de-baikonur/</link>
       <pubDate>Thu, 02 Jun 2005 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2005/06/50-aniversario-de-baikonur/</guid>
+      <guid>https://luiyo.net/blog/2005/06/50-aniversario-de-baikonur/</guid>
       <description>Hoy se celebra el 50º Aniversario del Cosmódromo de Baikonur, lugar desde el que se lanzó el primer satélite artificial, el Sputnik en Octubre de 1957, y desde el que se puso al primer ser humano, Yuri Gagarin, en órbita el 12 de Abril de 1961.
 Hoy en día sigue siendo clave en el desarrollo espacial de la humanidad, particularmente en el mantenimiento de la Estación Espacial Internacional.
 Baikonur tiene una extensión de 6.</description>
@@ -528,20 +528,20 @@ Baikonur tiene una extensión de 6.</description>
     
     <item>
       <title>Plegando proteínas</title>
-      <link>/blog/2005/01/plegando-protenas/</link>
+      <link>https://luiyo.net/blog/2005/01/plegando-protenas/</link>
       <pubDate>Sun, 30 Jan 2005 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2005/01/plegando-protenas/</guid>
+      <guid>https://luiyo.net/blog/2005/01/plegando-protenas/</guid>
       <description>Muchos conoceréis iniciativas parecidas, como el famoso SETI@home que utiliza mediante computación distribuida ordenadores de todo el mundo para buscar inteligencia extraterrestre analizando la información recibida del espacio.
 Hace unas semanas que participo en una iniciativa parecida. Esta vez se trata de algo más realista (sin menospreciar la búsqueda de inteligencia extraterrestre). El objetivo de Folding@Home consiste en comprender el plegamiento y agregación de las proteínas, y las enfermedades relacionadas.</description>
     </item>
     
     <item>
       <title>Los 10 Mayores Avances Científicos del 2004</title>
-      <link>/blog/2004/12/los-10-mayores-avances-cientficos-del/</link>
+      <link>https://luiyo.net/blog/2004/12/los-10-mayores-avances-cientficos-del/</link>
       <pubDate>Sat, 18 Dec 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/12/los-10-mayores-avances-cientficos-del/</guid>
+      <guid>https://luiyo.net/blog/2004/12/los-10-mayores-avances-cientficos-del/</guid>
       <description>Leo en Slashdot que la revista Science ha publicado su lista con los 10 Mayores Avances Científicos del 2004 que ya termina.
 Revista Science  La lista la encabezan los robots de la NASA que descubrieron evidencias de la presencia de agua en Marte. Se jugó el primer puesto con el hallazgo de restos hobbiticos en Indonesia.
 Os acerco la lista completa, para los perezosos que no quieren navegar:</description>
@@ -549,10 +549,10 @@ Os acerco la lista completa, para los perezosos que no quieren navegar:</descrip
     
     <item>
       <title>Coche1 a Coche2</title>
-      <link>/blog/2004/12/coche1-coche2/</link>
+      <link>https://luiyo.net/blog/2004/12/coche1-coche2/</link>
       <pubDate>Fri, 17 Dec 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/12/coche1-coche2/</guid>
+      <guid>https://luiyo.net/blog/2004/12/coche1-coche2/</guid>
       <description>El Car-2-Car Communication Consortium, formado por seis constructores de coches europeos incluyendo BMW, Volkswagen, Audi, Daimler Chrysler, Fiat y Renault, andan estudiando la comununicación entre vehiculos, usando tecnología WiFi.
 Esto permitiría prevenir accidentes, o permitir a los coches conocer situaciónes de emergencia o atascos en tiempo real.
 Desde la comunicación directa entre dos coches, del tipo &#39;¡que voy!&#39;, &#39;frena&#39;, &#39;¡nos vamos a dar!!&#39; hasta verdaderas redes de comunicación, que permitirían avisar de un obstáculo en la calzada a los coches que vienen de muy atrás.</description>
@@ -560,10 +560,10 @@ Desde la comunicación directa entre dos coches, del tipo &#39;¡que voy!&#39;, 
     
     <item>
       <title>Richard Stallman al Teléfono</title>
-      <link>/blog/2004/12/richard-stallman-al-telefono/</link>
+      <link>https://luiyo.net/blog/2004/12/richard-stallman-al-telefono/</link>
       <pubDate>Fri, 17 Dec 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/12/richard-stallman-al-telefono/</guid>
+      <guid>https://luiyo.net/blog/2004/12/richard-stallman-al-telefono/</guid>
       <description>Richard Stallman  Según leo en BoingBoing, si consigues a tres personas para que hagan una donación y entren a formar parte de la Free Software Foundation, Richard Stallman (o Eben Moglen) grabaran el mensaje que tu prefieras para que lo uses en, por ejemplo, tu contestador telefónico.
  Greet your callers with a prominent voice of software freedom, and help the FSF safeguard this freedom for everyone.
 After we agree on the text for the message, Stallman or Moglen will record it in a free digital format that you can play as a whole on your preferred media, be it your voice mail, web site, blog, VOIP system, answering machine---you&#39;ll have the file, so you can move it around as you please.</description>
@@ -571,20 +571,20 @@ After we agree on the text for the message, Stallman or Moglen will record it in
     
     <item>
       <title>Puertas Lógicas con Lego</title>
-      <link>/blog/2004/12/puertas-logicas-con-lego/</link>
+      <link>https://luiyo.net/blog/2004/12/puertas-logicas-con-lego/</link>
       <pubDate>Thu, 16 Dec 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/12/puertas-logicas-con-lego/</guid>
+      <guid>https://luiyo.net/blog/2004/12/puertas-logicas-con-lego/</guid>
       <description>Veo en Slashdot y en BoingBoing que un tipo ha conseguido hacerse puertas lógicas mecánicas usando piezas de Lego.
  I have now designed working NOT, OR, NOR, AND, and NAND gates. Using two NAND gates I have produced a NAND gate latch or Flip-FLop. The natural follow on from these is clocked logic, full-adders and ultimately a genuine &#34;computer&#34; device. At the moment all these gates essentially just demonstrators.</description>
     </item>
     
     <item>
       <title>Otro Vehiculo de Mobilidad Personal</title>
-      <link>/blog/2004/12/otro-vehiculo-de-mobilidad-personal/</link>
+      <link>https://luiyo.net/blog/2004/12/otro-vehiculo-de-mobilidad-personal/</link>
       <pubDate>Wed, 08 Dec 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/12/otro-vehiculo-de-mobilidad-personal/</guid>
+      <guid>https://luiyo.net/blog/2004/12/otro-vehiculo-de-mobilidad-personal/</guid>
       <description>En Engadget lo atribuyen a Toyota (y no lo dudo) aunque también lo venden como nuevas fotos del i-unit, cuando este cacharro no se parece en mucho al que vemos en el post anterior.
 Viendo las fotos, podemos compararlos. Este se cubre totalmente, parece que también se reclina (esos carriles que lleva en la espalda podrían ser para eso), parece más pensado para carretera.
 Si siguen apareciendo estos bichos, será señal de que los japoneses le ven futuro (y dinero).</description>
@@ -592,40 +592,40 @@ Si siguen apareciendo estos bichos, será señal de que los japoneses le ven fut
     
     <item>
       <title>Nuevos Robots de Toyota</title>
-      <link>/blog/2004/12/nuevos-robots-de-toyota/</link>
+      <link>https://luiyo.net/blog/2004/12/nuevos-robots-de-toyota/</link>
       <pubDate>Fri, 03 Dec 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/12/nuevos-robots-de-toyota/</guid>
+      <guid>https://luiyo.net/blog/2004/12/nuevos-robots-de-toyota/</guid>
       <description>Nuevos Robots de Toyota  La compañia japonesa Toyota ha presentado hoy sus nuevos modelos de robot, demostrando su enorme distancia tecnológica frente al resto del planeta. Merece la pena ver las fotos que tienen en Gizmodo.
 Al de la izquierda lo han llamado i-foot, y su objetivo es ayudar a los discapacitados a desplazarse o incluso subir escaleras. Antes de que lo preguntéis, el bicho se arrodilla para que puedas montarte.</description>
     </item>
     
     <item>
       <title>Relojes de Sol... Digitales</title>
-      <link>/blog/2004/12/relojes-de-sol-digitales/</link>
+      <link>https://luiyo.net/blog/2004/12/relojes-de-sol-digitales/</link>
       <pubDate>Thu, 02 Dec 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/12/relojes-de-sol-digitales/</guid>
+      <guid>https://luiyo.net/blog/2004/12/relojes-de-sol-digitales/</guid>
       <description>Leo en Slashdot acerca de este invento reciente (patentado sólo hace diez años) que puede verse a escala grande en el Sundial Park (Genk, Bélgica), el Deutsches Museum (Munich Alemania), el Kölnisches Stadtmuseum (Colonia, Alemania), y desde hace poco en Martha&#39;s Vineyard (USA).
 Relojes de Sol Digitales  Y si no te apetece ir hasta estos museos o parques, en la página Digital Sundials International puedes comprarte uno chiquitito para ponerlo en el jardin por el módico precio de 91 euros (4,60 adicionales para el envío desde Alemania).</description>
     </item>
     
     <item>
       <title>Ascensor Espacial</title>
-      <link>/blog/2004/11/ascensor-espacial/</link>
+      <link>https://luiyo.net/blog/2004/11/ascensor-espacial/</link>
       <pubDate>Wed, 17 Nov 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/11/ascensor-espacial/</guid>
+      <guid>https://luiyo.net/blog/2004/11/ascensor-espacial/</guid>
       <description>Ascensor Espacial  Leo en Slashdot que el prototipo de Ascensor Espacial del Grupo Liftport ha conseguido escalar un edificio de casi 80 metros de altura, precisamente en el Massachusetts Institute of Technology (el famoso MIT). El grupo Liftport ha colgado fotos del experimento.
 Dicen que el futuro de los viajes espaciales puede ser subir hasta una estación en órbita, y pillar allí el vuelo que más convenga, como quien coge el metro para ir a Barajas.</description>
     </item>
     
     <item>
       <title>Linux cumple 13 años</title>
-      <link>/blog/2004/08/linux-cumple-13-anos/</link>
+      <link>https://luiyo.net/blog/2004/08/linux-cumple-13-anos/</link>
       <pubDate>Wed, 25 Aug 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/08/linux-cumple-13-anos/</guid>
+      <guid>https://luiyo.net/blog/2004/08/linux-cumple-13-anos/</guid>
       <description>Hoy se cumplen trece años del día en que Linus Torvalds anunció por primera vez que estaba desarrollando su propio sistema operativo libre. La primera versión de Linux se presentó poco más tarde, el 17 de Septiembre de 1991.
 Desde luego el Sr. Torvalds no pensaba lo lejos que llegaría su &#34;hobby&#34;. Os dejo aquí el correo en cuestión:
  From: torvalds@klaava.Helsinki.FI (Linus Benedict Torvalds)

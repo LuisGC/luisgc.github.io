@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>maps on Luiyología</title>
-    <link>/categories/maps/</link>
+    <link>https://luiyo.net/categories/maps/</link>
     <description>Recent content in maps on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Feb 2006 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/maps/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luiyo.net/categories/maps/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mapas de metro alterados</title>
-      <link>/blog/2006/02/mapas-de-metro-alterados/</link>
+      <link>https://luiyo.net/blog/2006/02/mapas-de-metro-alterados/</link>
       <pubDate>Sun, 26 Feb 2006 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2006/02/mapas-de-metro-alterados/</guid>
+      <guid>https://luiyo.net/blog/2006/02/mapas-de-metro-alterados/</guid>
       <description>Todo un éxito reciente, crear versiones del mapa del metro cambiando los nombres de las estaciones por anagramas, en BoingBoing podéis encontrarlos de varias ciudades (por ahora ninguna española): Londres, Toronto, Amsterdam, Chicago, Manhattan, Oslo, Boston, Atlanta, Viena, Washington DC, Stockholm, Los Angeles, Cleveland, San Luis, San Francisco, Singapur, Berlín, Copenhague, Baltimore, y más.
 A raiz de la noticia de que Transport for London obligó a cerrar la web (Mirror) donde se alojaba la versión Londinense (ahora se lee &#34;</description>
     </item>

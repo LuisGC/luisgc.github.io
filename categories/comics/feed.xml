@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>comics on Luiyología</title>
-    <link>/categories/comics/</link>
+    <link>https://luiyo.net/categories/comics/</link>
     <description>Recent content in comics on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Apr 2012 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/comics/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luiyo.net/categories/comics/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SkeptiCamp Alicante 2012 - Tercera charla confirmada</title>
-      <link>/blog/2012/04/skepticamp-alicante-2012-tercera-charla/</link>
+      <link>https://luiyo.net/blog/2012/04/skepticamp-alicante-2012-tercera-charla/</link>
       <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/04/skepticamp-alicante-2012-tercera-charla/</guid>
+      <guid>https://luiyo.net/blog/2012/04/skepticamp-alicante-2012-tercera-charla/</guid>
       <description>(Esta entrada se publicó hace 24 horas en el blog de Street Alicante Science)  Quedan poco más de tres semanas para SkeptiCamp Alicante 2012, el evento abierto de divulgación que celebraremos el Sábado 5 de Mayo durante StAS Alicante.
 Si has llegado aquí sin saber qué es un SkeptiCamp, primero te conviene leer:
  La wiki oficial de SkeptiCamp la entrada de presentación de SkeptiCamp Alicante 2012 El anuncio de las dos primeras charlas  Hay varias charlas con flecos aún pendientes de concretar, pero ya podemos anunciar la tercera actividad confirmada:</description>
@@ -24,19 +24,19 @@ Si has llegado aquí sin saber qué es un SkeptiCamp, primero te conviene leer:
     
     <item>
       <title>Crónica y Unboxing de un pedido a XKCD</title>
-      <link>/blog/2011/12/cronica-y-unboxing-de-un-pedido-xkcd/</link>
+      <link>https://luiyo.net/blog/2011/12/cronica-y-unboxing-de-un-pedido-xkcd/</link>
       <pubDate>Tue, 27 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2011/12/cronica-y-unboxing-de-un-pedido-xkcd/</guid>
+      <guid>https://luiyo.net/blog/2011/12/cronica-y-unboxing-de-un-pedido-xkcd/</guid>
       <description>Recupero la no siempre valorada (y escasamente frecuente en mi caso) costumbre de hacer una crónica del unboxing de un pedido. En esta ocasión se trata de narrar los hechos acontecidos desde que se realizó el pedido en el pasado mes de Julio hasta hoy. Todos ustedes deberían conocer la tira cómica de XKCD, y si no es así pulsen Alt-F4 en este momento. No me detendré en ello.</description>
     </item>
     
     <item>
       <title>El Mito de Superman</title>
-      <link>/blog/2006/05/el-mito-de-superman/</link>
+      <link>https://luiyo.net/blog/2006/05/el-mito-de-superman/</link>
       <pubDate>Wed, 24 May 2006 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2006/05/el-mito-de-superman/</guid>
+      <guid>https://luiyo.net/blog/2006/05/el-mito-de-superman/</guid>
       <description>Hay tres personajes que para mi están muy por encima del resto: Batman, Spider-Man y Superman.
 Son diferentes al resto, quizá son más cercanos al lector, aunque curiosamente son totalmente diferentes entre ellos en algo básico. Batman es un simple humano, Spidey es más que eso y Superman no lo es en absoluto :-D
 Últimamente están de moda las peliculas de super-héroes. Esperé ansioso las primeras de X-Men (como ahora espero la tercera), a DareDevil, a Hulk y a tantos otros.</description>
@@ -44,10 +44,10 @@ Son diferentes al resto, quizá son más cercanos al lector, aunque curiosamente
     
     <item>
       <title>Adiós Superman</title>
-      <link>/blog/2004/10/adios-superman/</link>
+      <link>https://luiyo.net/blog/2004/10/adios-superman/</link>
       <pubDate>Mon, 11 Oct 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/10/adios-superman/</guid>
+      <guid>https://luiyo.net/blog/2004/10/adios-superman/</guid>
       <description>Superman  Un fallo cardíaco se llevó ayer domingo a Christopher Reeve a los 52 años.
 Ni Lex Luthor ni la Kriptonita pudieron con él. Un accidente montando a caballo en 1995 le impidió separarse de una silla para el resto de sus días, pero eso no le impediría seguir volando en nuestros sueños. Dedicó su vida defender activamente investigaciones médicas como las que se realizan con células madre, creó su propia fundación para parapléjicos y viajó todo lo que pudo para dar esperanza a minusválidos de todo el mundo.</description>
     </item>

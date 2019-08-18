@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>podcast on Luiyología</title>
-    <link>/categories/podcast/</link>
+    <link>https://luiyo.net/categories/podcast/</link>
     <description>Recent content in podcast on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Jan 2013 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/podcast/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luiyo.net/categories/podcast/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>NECSS 2013</title>
-      <link>/blog/2013/01/necss-2013/</link>
+      <link>https://luiyo.net/blog/2013/01/necss-2013/</link>
       <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2013/01/necss-2013/</guid>
+      <guid>https://luiyo.net/blog/2013/01/necss-2013/</guid>
       <description>En Diciembre se abrió el registro para la edición 2013 de la Northeast Conference on Science &amp;amp; Skepticism (@NECSS), que este año se llevará a cabo del 5 al 7 de Abril en la magnífica ciudad de Nueva York. No quería dejar pasar la oportunidad de recordarlo, no quedarán muchas entradas disponibles pero siguen quedando.
 Tuve la gran suerte de asistir a NECSS 2012. Allí pude conocer a gente fantástica y escuchar charlas muy interesantes e inspiradoras.</description>
     </item>
     
     <item>
       <title>NECSS 2012 - Northeast Conference on Science and Skepticism</title>
-      <link>/blog/2012/04/necss-2012-northeast-conference-on/</link>
+      <link>https://luiyo.net/blog/2012/04/necss-2012-northeast-conference-on/</link>
       <pubDate>Mon, 16 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2012/04/necss-2012-northeast-conference-on/</guid>
+      <guid>https://luiyo.net/blog/2012/04/necss-2012-northeast-conference-on/</guid>
       <description>Programé esta entrada hace algo menos de una semana desde Madrid. En estos momentos estoy en un tren camino de Washington a Nueva York, probablemente leyendo o durmiendo, pero la magia de la informática me permite contaros qué tengo pensado hacer este próximo fin de semana. La excusa para este viaje de 10 días por los Estados Unidos es que tengo la intención de participar en la próxima NECSS 2012 (Northeast Conference on Science and Skepticism), que se celebra aquí en la Gran Manzana el 21 y 22 de Abril.</description>
     </item>
     
     <item>
       <title>Known Skeptical Podcasts in Spanish</title>
-      <link>/blog/2011/06/known-skeptical-podcasts-in-spanish/</link>
+      <link>https://luiyo.net/blog/2011/06/known-skeptical-podcasts-in-spanish/</link>
       <pubDate>Wed, 15 Jun 2011 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2011/06/known-skeptical-podcasts-in-spanish/</guid>
+      <guid>https://luiyo.net/blog/2011/06/known-skeptical-podcasts-in-spanish/</guid>
       <description>(Esta entrada se publica en inglés para facilitar su difusión en el mundo anglosajón y especialmente para Tim Farley, que me ha solicitado esta relación de podcasts escépticos en castellano. Si falta alguno ya estáis tardando en comentarlo)
 (18-06-2011: Two podcasts added to the list)
 For those who didn&#39;t know Tim Farley, he is the creator and promoter of the splendid site What&#39;s the Harm and his very useful blog Skeptical Software Tools.</description>
@@ -43,10 +43,10 @@ For those who didn&#39;t know Tim Farley, he is the creator and promoter of the 
     
     <item>
       <title>&#39;Pensando Críticamente&#39;, el nuevo podcast escéptico</title>
-      <link>/blog/2010/11/pensando-criticamente-el-nuevo-podcast/</link>
+      <link>https://luiyo.net/blog/2010/11/pensando-criticamente-el-nuevo-podcast/</link>
       <pubDate>Mon, 08 Nov 2010 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2010/11/pensando-criticamente-el-nuevo-podcast/</guid>
+      <guid>https://luiyo.net/blog/2010/11/pensando-criticamente-el-nuevo-podcast/</guid>
       <description>Pensando Críticamente  Desde hace unas horas contamos en la podcastfera con un nuevo podcast de temática escéptica (que no abundan, menos en castellano). Se trata de Pensando Críticamente, el podcast de ARP-SAPC (Sociedad para el Avance del Pensamiento Crítico).
 Uno más que se une a la larga lista de los que escucho (casi 20 actualmente), aunque esta vez es algo más especial ya que por primera vez conozco personalmente a los autores.</description>
     </item>

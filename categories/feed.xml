@@ -2,444 +2,444 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Luiyología</title>
-    <link>/categories/</link>
+    <link>https://luiyo.net/categories/</link>
     <description>Recent content in Categories on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luiyo.net/categories/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>art</title>
-      <link>/categories/art/</link>
+      <link>https://luiyo.net/categories/art/</link>
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/art/</guid>
+      <guid>https://luiyo.net/categories/art/</guid>
       <description></description>
     </item>
     
     <item>
       <title>culture</title>
-      <link>/categories/culture/</link>
+      <link>https://luiyo.net/categories/culture/</link>
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/culture/</guid>
+      <guid>https://luiyo.net/categories/culture/</guid>
       <description></description>
     </item>
     
     <item>
       <title>event</title>
-      <link>/categories/event/</link>
+      <link>https://luiyo.net/categories/event/</link>
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/event/</guid>
+      <guid>https://luiyo.net/categories/event/</guid>
       <description></description>
     </item>
     
     <item>
       <title>literature</title>
-      <link>/categories/literature/</link>
+      <link>https://luiyo.net/categories/literature/</link>
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/literature/</guid>
+      <guid>https://luiyo.net/categories/literature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>personal</title>
-      <link>/categories/personal/</link>
+      <link>https://luiyo.net/categories/personal/</link>
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/personal/</guid>
+      <guid>https://luiyo.net/categories/personal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tolkien</title>
-      <link>/categories/tolkien/</link>
+      <link>https://luiyo.net/categories/tolkien/</link>
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/tolkien/</guid>
+      <guid>https://luiyo.net/categories/tolkien/</guid>
       <description></description>
     </item>
     
     <item>
       <title>computer-science</title>
-      <link>/categories/computer-science/</link>
+      <link>https://luiyo.net/categories/computer-science/</link>
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/computer-science/</guid>
+      <guid>https://luiyo.net/categories/computer-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>internet</title>
-      <link>/categories/internet/</link>
+      <link>https://luiyo.net/categories/internet/</link>
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/internet/</guid>
+      <guid>https://luiyo.net/categories/internet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>open-source</title>
-      <link>/categories/open-source/</link>
+      <link>https://luiyo.net/categories/open-source/</link>
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/open-source/</guid>
+      <guid>https://luiyo.net/categories/open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>programming</title>
-      <link>/categories/programming/</link>
+      <link>https://luiyo.net/categories/programming/</link>
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/programming/</guid>
+      <guid>https://luiyo.net/categories/programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>technology</title>
-      <link>/categories/technology/</link>
+      <link>https://luiyo.net/categories/technology/</link>
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/technology/</guid>
+      <guid>https://luiyo.net/categories/technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>english</title>
-      <link>/categories/english/</link>
+      <link>https://luiyo.net/categories/english/</link>
       <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/english/</guid>
+      <guid>https://luiyo.net/categories/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
-      <link>/categories/linux/</link>
+      <link>https://luiyo.net/categories/linux/</link>
       <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/linux/</guid>
+      <guid>https://luiyo.net/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>games</title>
-      <link>/categories/games/</link>
+      <link>https://luiyo.net/categories/games/</link>
       <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/games/</guid>
+      <guid>https://luiyo.net/categories/games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>retrospective</title>
-      <link>/categories/retrospective/</link>
+      <link>https://luiyo.net/categories/retrospective/</link>
       <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/retrospective/</guid>
+      <guid>https://luiyo.net/categories/retrospective/</guid>
       <description></description>
     </item>
     
     <item>
       <title>review</title>
-      <link>/categories/review/</link>
+      <link>https://luiyo.net/categories/review/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/review/</guid>
+      <guid>https://luiyo.net/categories/review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>history</title>
-      <link>/categories/history/</link>
+      <link>https://luiyo.net/categories/history/</link>
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/history/</guid>
+      <guid>https://luiyo.net/categories/history/</guid>
       <description></description>
     </item>
     
     <item>
       <title>holidays</title>
-      <link>/categories/holidays/</link>
+      <link>https://luiyo.net/categories/holidays/</link>
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/holidays/</guid>
+      <guid>https://luiyo.net/categories/holidays/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tourism</title>
-      <link>/categories/tourism/</link>
+      <link>https://luiyo.net/categories/tourism/</link>
       <pubDate>Sun, 30 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/categories/tourism/</guid>
+      <guid>https://luiyo.net/categories/tourism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>outreach</title>
-      <link>/categories/outreach/</link>
+      <link>https://luiyo.net/categories/outreach/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/outreach/</guid>
+      <guid>https://luiyo.net/categories/outreach/</guid>
       <description></description>
     </item>
     
     <item>
       <title>science</title>
-      <link>/categories/science/</link>
+      <link>https://luiyo.net/categories/science/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/science/</guid>
+      <guid>https://luiyo.net/categories/science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>skepticism</title>
-      <link>/categories/skepticism/</link>
+      <link>https://luiyo.net/categories/skepticism/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/skepticism/</guid>
+      <guid>https://luiyo.net/categories/skepticism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>skeptics-in-the-pub</title>
-      <link>/categories/skeptics-in-the-pub/</link>
+      <link>https://luiyo.net/categories/skeptics-in-the-pub/</link>
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/skeptics-in-the-pub/</guid>
+      <guid>https://luiyo.net/categories/skeptics-in-the-pub/</guid>
       <description></description>
     </item>
     
     <item>
       <title>politics</title>
-      <link>/categories/politics/</link>
+      <link>https://luiyo.net/categories/politics/</link>
       <pubDate>Fri, 28 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/politics/</guid>
+      <guid>https://luiyo.net/categories/politics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>/categories/blog/</link>
+      <link>https://luiyo.net/categories/blog/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/blog/</guid>
+      <guid>https://luiyo.net/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>design</title>
-      <link>/categories/design/</link>
+      <link>https://luiyo.net/categories/design/</link>
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>/categories/design/</guid>
+      <guid>https://luiyo.net/categories/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>economics</title>
-      <link>/categories/economics/</link>
+      <link>https://luiyo.net/categories/economics/</link>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/economics/</guid>
+      <guid>https://luiyo.net/categories/economics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>press</title>
-      <link>/categories/press/</link>
+      <link>https://luiyo.net/categories/press/</link>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>/categories/press/</guid>
+      <guid>https://luiyo.net/categories/press/</guid>
       <description></description>
     </item>
     
     <item>
       <title>health</title>
-      <link>/categories/health/</link>
+      <link>https://luiyo.net/categories/health/</link>
       <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/health/</guid>
+      <guid>https://luiyo.net/categories/health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>news</title>
-      <link>/categories/news/</link>
+      <link>https://luiyo.net/categories/news/</link>
       <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/news/</guid>
+      <guid>https://luiyo.net/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>solidarity</title>
-      <link>/categories/solidarity/</link>
+      <link>https://luiyo.net/categories/solidarity/</link>
       <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/solidarity/</guid>
+      <guid>https://luiyo.net/categories/solidarity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>philosophy</title>
-      <link>/categories/philosophy/</link>
+      <link>https://luiyo.net/categories/philosophy/</link>
       <pubDate>Mon, 02 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/philosophy/</guid>
+      <guid>https://luiyo.net/categories/philosophy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>television</title>
-      <link>/categories/television/</link>
+      <link>https://luiyo.net/categories/television/</link>
       <pubDate>Fri, 26 Apr 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/television/</guid>
+      <guid>https://luiyo.net/categories/television/</guid>
       <description></description>
     </item>
     
     <item>
       <title>magic</title>
-      <link>/categories/magic/</link>
+      <link>https://luiyo.net/categories/magic/</link>
       <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/magic/</guid>
+      <guid>https://luiyo.net/categories/magic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>podcast</title>
-      <link>/categories/podcast/</link>
+      <link>https://luiyo.net/categories/podcast/</link>
       <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
       
-      <guid>/categories/podcast/</guid>
+      <guid>https://luiyo.net/categories/podcast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>video</title>
-      <link>/categories/video/</link>
+      <link>https://luiyo.net/categories/video/</link>
       <pubDate>Thu, 28 Jun 2012 00:00:00 +0000</pubDate>
       
-      <guid>/categories/video/</guid>
+      <guid>https://luiyo.net/categories/video/</guid>
       <description></description>
     </item>
     
     <item>
       <title>skepticamp</title>
-      <link>/categories/skepticamp/</link>
+      <link>https://luiyo.net/categories/skepticamp/</link>
       <pubDate>Sat, 26 May 2012 00:00:00 +0000</pubDate>
       
-      <guid>/categories/skepticamp/</guid>
+      <guid>https://luiyo.net/categories/skepticamp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>music</title>
-      <link>/categories/music/</link>
+      <link>https://luiyo.net/categories/music/</link>
       <pubDate>Mon, 16 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/categories/music/</guid>
+      <guid>https://luiyo.net/categories/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>comics</title>
-      <link>/categories/comics/</link>
+      <link>https://luiyo.net/categories/comics/</link>
       <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
       
-      <guid>/categories/comics/</guid>
+      <guid>https://luiyo.net/categories/comics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cinema</title>
-      <link>/categories/cinema/</link>
+      <link>https://luiyo.net/categories/cinema/</link>
       <pubDate>Mon, 19 Mar 2012 00:00:00 +0000</pubDate>
       
-      <guid>/categories/cinema/</guid>
+      <guid>https://luiyo.net/categories/cinema/</guid>
       <description></description>
     </item>
     
     <item>
       <title>humour</title>
-      <link>/categories/humour/</link>
+      <link>https://luiyo.net/categories/humour/</link>
       <pubDate>Thu, 09 Feb 2012 00:00:00 +0000</pubDate>
       
-      <guid>/categories/humour/</guid>
+      <guid>https://luiyo.net/categories/humour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>gadget</title>
-      <link>/categories/gadget/</link>
+      <link>https://luiyo.net/categories/gadget/</link>
       <pubDate>Tue, 03 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>/categories/gadget/</guid>
+      <guid>https://luiyo.net/categories/gadget/</guid>
       <description></description>
     </item>
     
     <item>
       <title>curious</title>
-      <link>/categories/curious/</link>
+      <link>https://luiyo.net/categories/curious/</link>
       <pubDate>Fri, 11 Nov 2011 00:00:00 +0000</pubDate>
       
-      <guid>/categories/curious/</guid>
+      <guid>https://luiyo.net/categories/curious/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theater</title>
-      <link>/categories/theater/</link>
+      <link>https://luiyo.net/categories/theater/</link>
       <pubDate>Sat, 14 May 2011 00:00:00 +0000</pubDate>
       
-      <guid>/categories/theater/</guid>
+      <guid>https://luiyo.net/categories/theater/</guid>
       <description></description>
     </item>
     
     <item>
       <title>star-trek</title>
-      <link>/categories/star-trek/</link>
+      <link>https://luiyo.net/categories/star-trek/</link>
       <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
       
-      <guid>/categories/star-trek/</guid>
+      <guid>https://luiyo.net/categories/star-trek/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sport</title>
-      <link>/categories/sport/</link>
+      <link>https://luiyo.net/categories/sport/</link>
       <pubDate>Sun, 10 Oct 2010 00:00:00 +0000</pubDate>
       
-      <guid>/categories/sport/</guid>
+      <guid>https://luiyo.net/categories/sport/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cars</title>
-      <link>/categories/cars/</link>
+      <link>https://luiyo.net/categories/cars/</link>
       <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
       
-      <guid>/categories/cars/</guid>
+      <guid>https://luiyo.net/categories/cars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>maps</title>
-      <link>/categories/maps/</link>
+      <link>https://luiyo.net/categories/maps/</link>
       <pubDate>Sun, 26 Feb 2006 00:00:00 +0000</pubDate>
       
-      <guid>/categories/maps/</guid>
+      <guid>https://luiyo.net/categories/maps/</guid>
       <description></description>
     </item>
     

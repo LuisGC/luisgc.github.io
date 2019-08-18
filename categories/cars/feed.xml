@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cars on Luiyología</title>
-    <link>/categories/cars/</link>
+    <link>https://luiyo.net/categories/cars/</link>
     <description>Recent content in cars on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Mar 2007 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/cars/feed.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luiyo.net/categories/cars/feed.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Accidente de camión</title>
-      <link>/blog/2007/03/accidente-de-camion/</link>
+      <link>https://luiyo.net/blog/2007/03/accidente-de-camion/</link>
       <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2007/03/accidente-de-camion/</guid>
+      <guid>https://luiyo.net/blog/2007/03/accidente-de-camion/</guid>
       <description>Hoy, a eso de las 19:00, ha estado a punto de caerme un camión encima. Literal. Seré breve.
 El camión-grúa venía en dirección opuesta a la mía, a bastante velocidad, y con la pluma levantada sin darse cuenta. El choque contra el puente ha sido bestial, el camión levantó el morro bastante y terminó volcando hacia su derecha (según el sentido de su marcha) derramando varios palés de ladrillos.</description>
     </item>
     
     <item>
       <title>Fallece DeLorean</title>
-      <link>/blog/2005/03/fallece-delorean/</link>
+      <link>https://luiyo.net/blog/2005/03/fallece-delorean/</link>
       <pubDate>Thu, 31 Mar 2005 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2005/03/fallece-delorean/</guid>
+      <guid>https://luiyo.net/blog/2005/03/fallece-delorean/</guid>
       <description>Hace unos días falleció a los 80 años John Z. DeLorean, aquel exitoso alto directivo de Pontiac (en los 60) y General Motors (en los 70) que se lanzó a su propia aventura con un efímero éxito antes de la total bancarrota.
 Su propósito era crear coches excitantes, en lugar de simples vehículos para transportarse.
 Antes de hundirse consiguió crear un sólo modelo de coche, el DMC-12 (Foto Interior - Twin Turbo).</description>
@@ -34,10 +34,10 @@ Antes de hundirse consiguió crear un sólo modelo de coche, el DMC-12 (Foto Int
     
     <item>
       <title>Coche1 a Coche2</title>
-      <link>/blog/2004/12/coche1-coche2/</link>
+      <link>https://luiyo.net/blog/2004/12/coche1-coche2/</link>
       <pubDate>Fri, 17 Dec 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/12/coche1-coche2/</guid>
+      <guid>https://luiyo.net/blog/2004/12/coche1-coche2/</guid>
       <description>El Car-2-Car Communication Consortium, formado por seis constructores de coches europeos incluyendo BMW, Volkswagen, Audi, Daimler Chrysler, Fiat y Renault, andan estudiando la comununicación entre vehiculos, usando tecnología WiFi.
 Esto permitiría prevenir accidentes, o permitir a los coches conocer situaciónes de emergencia o atascos en tiempo real.
 Desde la comunicación directa entre dos coches, del tipo &#39;¡que voy!&#39;, &#39;frena&#39;, &#39;¡nos vamos a dar!!&#39; hasta verdaderas redes de comunicación, que permitirían avisar de un obstáculo en la calzada a los coches que vienen de muy atrás.</description>
@@ -45,10 +45,10 @@ Desde la comunicación directa entre dos coches, del tipo &#39;¡que voy!&#39;, 
     
     <item>
       <title>Otro Vehiculo de Mobilidad Personal</title>
-      <link>/blog/2004/12/otro-vehiculo-de-mobilidad-personal/</link>
+      <link>https://luiyo.net/blog/2004/12/otro-vehiculo-de-mobilidad-personal/</link>
       <pubDate>Wed, 08 Dec 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/12/otro-vehiculo-de-mobilidad-personal/</guid>
+      <guid>https://luiyo.net/blog/2004/12/otro-vehiculo-de-mobilidad-personal/</guid>
       <description>En Engadget lo atribuyen a Toyota (y no lo dudo) aunque también lo venden como nuevas fotos del i-unit, cuando este cacharro no se parece en mucho al que vemos en el post anterior.
 Viendo las fotos, podemos compararlos. Este se cubre totalmente, parece que también se reclina (esos carriles que lleva en la espalda podrían ser para eso), parece más pensado para carretera.
 Si siguen apareciendo estos bichos, será señal de que los japoneses le ven futuro (y dinero).</description>
@@ -56,20 +56,20 @@ Si siguen apareciendo estos bichos, será señal de que los japoneses le ven fut
     
     <item>
       <title>Nuevos Robots de Toyota</title>
-      <link>/blog/2004/12/nuevos-robots-de-toyota/</link>
+      <link>https://luiyo.net/blog/2004/12/nuevos-robots-de-toyota/</link>
       <pubDate>Fri, 03 Dec 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/12/nuevos-robots-de-toyota/</guid>
+      <guid>https://luiyo.net/blog/2004/12/nuevos-robots-de-toyota/</guid>
       <description>Nuevos Robots de Toyota  La compañia japonesa Toyota ha presentado hoy sus nuevos modelos de robot, demostrando su enorme distancia tecnológica frente al resto del planeta. Merece la pena ver las fotos que tienen en Gizmodo.
 Al de la izquierda lo han llamado i-foot, y su objetivo es ayudar a los discapacitados a desplazarse o incluso subir escaleras. Antes de que lo preguntéis, el bicho se arrodilla para que puedas montarte.</description>
     </item>
     
     <item>
       <title>El Grupo PSA dejará los Rallies en 2006</title>
-      <link>/blog/2004/11/el-grupo-psa-dejar-los-rallies-en-2006/</link>
+      <link>https://luiyo.net/blog/2004/11/el-grupo-psa-dejar-los-rallies-en-2006/</link>
       <pubDate>Thu, 04 Nov 2004 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2004/11/el-grupo-psa-dejar-los-rallies-en-2006/</guid>
+      <guid>https://luiyo.net/blog/2004/11/el-grupo-psa-dejar-los-rallies-en-2006/</guid>
       <description>Según un comunicado del grupo automovilistico PSA, sus marcas punteras (Peugeot y Citroën) dejarán de competir en el Mundial de Rallies al final de la próxima temporada.
 La crisis que afecta al sector, que está obligando a realizar despidos masivos para recortar gastos a todas las marcas. Menos, curiosamente, a las francesas (El Grupo PSA Y Renault) debido al éxito de sus últimos modelos comerciales. Parece ser que esto de los Rallies para PSA no es más que un gasto, asumible cómo publicidad y para fortalecer la imagen de marca, pero al fin y al cabo sólo eso, un gasto más.</description>
     </item>
