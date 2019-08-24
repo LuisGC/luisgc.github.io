@@ -17,7 +17,7 @@
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2019/08/tolkien-2019-in-birmingham/</guid>
-      <description>Showing off my double nationality  If you are reading this you probably know already that I am a big fan of J.R.R. Tolkien, to the point that I joined the Spanish Tolkien Society (Sociedad Tolkien Española) almost 20 years ago and I usually don&amp;rsquo;t miss any of their events.
+      <description>Showing off my double nationality   If you are reading this you probably know already that I am a big fan of J.R.R. Tolkien, to the point that I joined the Spanish Tolkien Society (Sociedad Tolkien Española) almost 20 years ago and I usually don&amp;rsquo;t miss any of their events.
 Since recently I also belong to the Tolkien Society, and after having missed for probably important (but now forgotten) reasons Tolkien 2005 and Tolkien 2012, the last major events that they organized, I was not going to miss Tolkien 2019.</description>
     </item>
     
@@ -27,7 +27,7 @@ Since recently I also belong to the Tolkien Society, and after having missed for
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2019/03/greach-2019/</guid>
-      <description>Greach 2019  This week I could attend another fantastic Greach Conference, an international conference that in previous years was focused on the Apache Groovy language and ecosystem (Grails, Gradle, etc.) but this year has expanded the scope to other technologies related to the JVM like Micronaut, GraalVM, Spring Boot, Kotlin, Android, &amp;hellip;
+      <description>Greach 2019   This week I could attend another fantastic Greach Conference, an international conference that in previous years was focused on the Apache Groovy language and ecosystem (Grails, Gradle, etc.) but this year has expanded the scope to other technologies related to the JVM like Micronaut, GraalVM, Spring Boot, Kotlin, Android, &amp;hellip;
 Greach is a non-profitable event held in Madrid since 2011 (I think I&amp;rsquo;ve missed only one edition).</description>
     </item>
     
@@ -38,7 +38,7 @@ Greach is a non-profitable event held in Madrid since 2011 (I think I&amp;rsquo;
       
       <guid>https://luiyo.net/blog/2019/02/fosdem-2019-sunday/</guid>
       <description>My Saturday finished having a great dinner with friends and lots of laughs in one of our favorite restaurants in Brussels.
-FOSDEM 2019 poster  As usual, my Sunday at FOSDEM started again very early. Lot&amp;rsquo;s of things to see in a complete set of new devrooms/tracks. This year I focused my second day in the Community and Geospatial devrooms.
+ FOSDEM 2019 poster   As usual, my Sunday at FOSDEM started again very early. Lot&amp;rsquo;s of things to see in a complete set of new devrooms/tracks. This year I focused my second day in the Community and Geospatial devrooms.
 Before continuing, if you want to read my summary of the previous day you can follow this link: FOSDEM 2019: Saturday.</description>
     </item>
     
@@ -58,7 +58,7 @@ Before continuing, if you want to read my summary of the previous day you can fo
       
       <guid>https://luiyo.net/blog/2019/01/my-year-2018-in-games/</guid>
       <description>Welcome again to this yearly post, where I try to analyze my gaming behavior during the previous year. I have been doing this since 2011 in Spanish, but this time I will do it in English as with the rest of my posts. You can read about my previous years (in Spanish):
- 2017 2016 2015 2014 2013 2012 2011  Evolution of my game plays over the last years   2018 2017 2016 2015 2014 2013 2012 Total since 2006   Total amount of plays 101 84 98 84 81 117 161 952   Different games played 61 72 55 71 52 81 80 356   Games with 2 or more plays (in the year) 14 9 15 13 14 19 40 161   Amount of gaming sessions 43 36 35 30 44 41 36 322   Games played per year until the end of 2018  Analysis  In this yearly post I used to include a graph with the games played by month, but it turned more or less complex and meaningless as the trend was clear year by year.</description>
+ 2017 2016 2015 2014 2013 2012 2011  Evolution of my game plays over the last years   2018 2017 2016 2015 2014 2013 2012 Total since 2006   Total amount of plays 101 84 98 84 81 117 161 952   Different games played 61 72 55 71 52 81 80 356   Games with 2 or more plays (in the year) 14 9 15 13 14 19 40 161   Amount of gaming sessions 43 36 35 30 44 41 36 322    Games played per year until the end of 2018   Analysis  In this yearly post I used to include a graph with the games played by month, but it turned more or less complex and meaningless as the trend was clear year by year.</description>
     </item>
     
     <item>
@@ -109,7 +109,7 @@ It was my second time in Scotland, after a great trip three years ago to visit m
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2018/03/greach-2018/</guid>
-      <description>Greach 2018  Some days ago I attended as usual to the fantastic Greach Conference, an international conference about the Apache Groovy language and ecosystem: Groovy, Grails, Gradle and a lot other things. Greach is held each year in Madrid but everything is in English, and nowadays it&amp;rsquo;s surely one of the Top worldwide events about this technologies.
+      <description>Greach 2018   Some days ago I attended as usual to the fantastic Greach Conference, an international conference about the Apache Groovy language and ecosystem: Groovy, Grails, Gradle and a lot other things. Greach is held each year in Madrid but everything is in English, and nowadays it&amp;rsquo;s surely one of the Top worldwide events about this technologies.
 Greach is a non-profitable event organized by Iván López (@ilopar) and Alberto Vilches (@albertovilches), with some help from colleagues and a lot of sponsors.</description>
     </item>
     
@@ -275,7 +275,7 @@ Affectionately called the Wikipediatrician, Susan Gerbic is the cofounder of Mon
       <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2017/05/baking-my-blog-with-jbake-and-github/</guid>
-      <description>Almost since I created my personal blog in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My lazyness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.
+      <description>Almost since I created my personal blog in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My laziness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.
 Anyhow, I was determined to migrate my blog outside of any blogging platform. I wanted to have complete control over my content, but without wasting lots of time in maintenance.</description>
     </item>
     

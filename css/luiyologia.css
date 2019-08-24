@@ -53,6 +53,12 @@ blockquote{
   color: #646464;
 }
 
+figcaption {
+  font-size: 80%;
+  text-align: center;
+  color: #646464;
+}
+
 article.post h2,
 article.post h3,
 article.post h4 {
