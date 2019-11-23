@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luiyología</title>
@@ -17,13 +17,13 @@
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/talks/</guid>
-      <description>Measuring Health and Ethics in Programming Languages Presented in FLOSSCommunityMetrics (Brussels, Belgium), 29/JAN/2016
-Source Code in GitHub
-Link to the online presentation
-  Measuring Health and Ethics in Programming Languages   Concerning Governance in Programming Languages Presented in Codemotion 2015 (Madrid, Spain), 27/NOV/2015
-Source Code in GitHub
-Link to the online presentation
-  Concerning Governance in Programming Languages   Technical Debt for developers&amp;hellip; ¡and managers! Presented in Codemotion 2015 (Madrid, Spain), 27/NOV/2015</description>
+      <description>List of the main public talks I have humbly given (in reverse chronological order)
+   Title Details Presentation     Concerning Governance in Programming Languages, 2019 edition Commit Conf
+(Madrid, Spain)
+23/NOV/2019
+Source Code in GitHub        Design principles for an event driven architecture Commit Conf
+(Madrid, Spain)
+22/NOV/2019        Omni-Channel Customer-centric strategies in a modern architecture Big Things Conference</description>
     </item>
     
     <item>
