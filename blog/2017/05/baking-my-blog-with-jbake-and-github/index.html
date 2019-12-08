@@ -36,7 +36,7 @@
 
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="generator" content="Hugo 0.59.1" />
+        <meta name="generator" content="Hugo 0.60.1" />
         
   
     
@@ -85,8 +85,6 @@ Anyhow, I was determined to migrate my blog outside of any blogging platform. I 
         <meta itemprop="name" content="Baking my Blog with JBake and GitHub">
 <meta itemprop="description" content="Almost since I created my personal blog in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My laziness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.
 Anyhow, I was determined to migrate my blog outside of any blogging platform. I wanted to have complete control over my content, but without wasting lots of time in maintenance.">
-
-
 <meta itemprop="datePublished" content="2017-05-19T00:00:00&#43;00:00" />
 <meta itemprop="dateModified" content="2017-05-19T00:00:00&#43;00:00" />
 <meta itemprop="wordCount" content="896">
@@ -94,7 +92,6 @@ Anyhow, I was determined to migrate my blog outside of any blogging platform. I 
 
 
 <meta itemprop="keywords" content="" />
-
         
 
         
@@ -313,6 +310,43 @@ if (!doNotTrack) {
                 
                         <article class="mini-post">
                             <header>
+                                <h3><a href="/blog/2019/12/big-things-commit-conf-2019/">Big Things Conference and Commit Conf 2019</a></h3>
+                                
+                                <time class="published" datetime=
+                                    '2019-12-08'>
+                                    December 8, 2019</time>
+                            </header>
+                            
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+  
+
+
+        
+        
+        
+
+        <a href="/blog/2019/12/big-things-commit-conf-2019/" class="image featured">
+            <img src="https://live.staticflickr.com/65535/49188308296_420b0c82e1_k.jpg" alt="Finishing our talk at Big Things Conference 2019">
+            <div class="caption">Finishing our talk at Big Things Conference 2019</div>
+        </a>
+    
+
+
+                        </article>
+                
+                        <article class="mini-post">
+                            <header>
                                 <h3><a href="/blog/2019/09/pekin-guia-breve/">Pekín: una guía breve</a></h3>
                                 
                                 <time class="published" datetime=
@@ -453,43 +487,6 @@ if (!doNotTrack) {
         <a href="/blog/2019/02/fosdem-2019-sunday/" class="image featured">
             <img src="https://farm8.staticflickr.com/7860/47207681772_102c9156fb_k.jpg" alt="Edward Betts in FOSDEM 2019 presenting his tool to link OpenStreetMap and Wikidata">
             <div class="caption">Edward Betts in FOSDEM 2019 presenting his tool to link OpenStreetMap and Wikidata</div>
-        </a>
-    
-
-
-                        </article>
-                
-                        <article class="mini-post">
-                            <header>
-                                <h3><a href="/blog/2019/02/fosdem-2019-saturday/">FOSDEM 2019: Saturday</a></h3>
-                                
-                                <time class="published" datetime=
-                                    '2019-02-10'>
-                                    February 10, 2019</time>
-                            </header>
-                            
-    
-
-    
-        
-        
-
-
-
-
-
-
-
-  
-
-
-        
-        
-        
-
-        <a href="/blog/2019/02/fosdem-2019-saturday/" class="image featured">
-            <img src="https://farm8.staticflickr.com/7869/32111005427_44b0627a4f_k.jpg" alt="Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy">
-            <div class="caption">Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy</div>
         </a>
     
 
@@ -639,97 +636,58 @@ if (!doNotTrack) {
 
 
   <div id="content">
-    
-
-<p>Almost since <a href="/blog/2003/10/arranca-luiyologia/">I created my personal blog</a> in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My laziness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.</p>
-
+    <p>Almost since <a href="/blog/2003/10/arranca-luiyologia/">I created my personal blog</a> in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My laziness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.</p>
 <p>Anyhow, I was determined to migrate my blog outside of any blogging platform. I wanted to have complete control over my content, but without wasting lots of time in maintenance. All I needed was a way to do it seamlessly, quickly, and as automated as possible.</p>
-
 <p>The static site/blog generators appeared a long time ago but now they are multiplying and flourishing. I watched them and the surrounding tools for a long time&hellip; and recently my atheist prayers were heard!</p>
-
 <p>I will describe briefly what I did <strong>to move my blog from blogger to Github Pages in a few hours</strong>. The most time consuming task was to decide among a large number of excellent static site generators.</p>
-
-<h2 id="step-1-choose-your-weapon">Step 1 - Choose your weapon</h2>
-
+<h2 id="step-1--choose-your-weapon">Step 1 - Choose your weapon</h2>
 <p>The reference here is <a href="https://www.staticgen.com/">StaticGen</a>, a ranking with all the open source static site generators. The site itself is open source, and static generated (of course) using <a href="http://middlemanapp.com/">Middleman</a>.</p>
-
-<p>In <em>StaticGen</em> you will need some time, filtering by programming language, sorting the options by stars, forks, &hellip; Eventually you&rsquo;ll chose one that covers your needs mainly in terms of language, templating technology or license.</p>
-
+<p>In <em>StaticGen</em> you will need some time, filtering by programming language, sorting the options by stars, forks, &hellip; Eventually you'll chose one that covers your needs mainly in terms of language, templating technology or license.</p>
 <p>I was tempted to use <a href="http://gohugo.io/">Hugo</a> but I selected <a href="http://jbake.org/"><strong>JBake</strong></a> (created in 2013 by <a href="http://jonathanbullock.com/">Jonathan Bullock</a>) instead of other much more popular options. The main reasons for me were:</p>
-
 <ul>
-<li>It&rsquo;s <strong>Open Source</strong> (<a href="https://opensource.org/licenses/MIT">MIT License</a>). This is always the first element in my checklist</li>
-<li>It&rsquo;s <strong>cross platform</strong>, one of the main benefits to choose a product running in the JVM, right?</li>
+<li>It's <strong>Open Source</strong> (<a href="https://opensource.org/licenses/MIT">MIT License</a>). This is always the first element in my checklist</li>
+<li>It's <strong>cross platform</strong>, one of the main benefits to choose a product running in the JVM, right?</li>
 <li>Supports a good amount of <strong>content formats</strong>: plain HTML, <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, <a href="http://asciidoctor.org/">AsciiDoc</a>, &hellip; this is great now that I write even my personal notes in markdown format</li>
 <li>Interesting <strong>template support</strong>: <a href="http://freemarker.org/">Freemarker</a>, <a href="http://www.thymeleaf.org/">Thymeleaf</a>, <a href="https://github.com/neuland/jade4j">Jade</a> or <a href="http://www.groovy-lang.org/">Groovy template framework</a></li>
 <li><strong>Blog-ready</strong> out of the box: RSS feed, tag support, archive, index pagination, &hellip;</li>
 <li>Easy to integrate with <strong>CSS frameworks</strong> as <a href="http://getbootstrap.com/">Bootstrap</a></li>
 <li><strong>Custom metadata</strong> in the contents, even exposed to the templates. This is winner by itself</li>
 </ul>
-
-<p>The <a href="http://jbake.org/docs/">documentation of JBake</a> could be improved, but it&rsquo;s good enough.</p>
-
-<p>To install JBake, you can execute <a href="http://jbake.org/download.html">the last binary distribution</a> but I recommend that you simply use <a href="http://sdkman.io/"><strong>SDKMAN</strong></a>. If you don&rsquo;t know what SDKMAN is, you are missing something special. After you have SDKMAN installed, enter the following command:</p>
-
-<pre><code class="language-shell">&gt;&gt; sdk install jbake
-</code></pre>
-
-<p><strong>Thanks Jonathan !!</strong></p>
-
-<h2 id="step-2-choose-your-theme-style">Step 2 - Choose your theme/style</h2>
-
-<p>Some static generators support themes better than others, that&rsquo;s for sure. This was important to me, and I checked that in <em>JBake</em> the code responsible of the presentation is isolated enough from the content, so it&rsquo;s more or less simple to change entirely the theme or style of your site.</p>
-
-<p>In fact, I didn&rsquo;t start the personalization of my blog from the default theme and style. I cloned the <a href="https://github.com/manikmagar/jbake-future-imperfect-template"><strong>JBake Future Imperfect Template</strong></a> by <a href="https://twitter.com/manikmagar">Manik Magar</a> and for the moment I&rsquo;ve only needed minor touches to make it better suited for me.</p>
-
+<p>The <a href="http://jbake.org/docs/">documentation of JBake</a> could be improved, but it's good enough.</p>
+<p>To install JBake, you can execute <a href="http://jbake.org/download.html">the last binary distribution</a> but I recommend that you simply use <a href="http://sdkman.io/"><strong>SDKMAN</strong></a>. If you don't know what SDKMAN is, you are missing something special. After you have SDKMAN installed, enter the following command:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">&gt;&gt; sdk install jbake
+</code></pre></div><p><strong>Thanks Jonathan !!</strong></p>
+<h2 id="step-2--choose-your-themestyle">Step 2 - Choose your theme/style</h2>
+<p>Some static generators support themes better than others, that's for sure. This was important to me, and I checked that in <em>JBake</em> the code responsible of the presentation is isolated enough from the content, so it's more or less simple to change entirely the theme or style of your site.</p>
+<p>In fact, I didn't start the personalization of my blog from the default theme and style. I cloned the <a href="https://github.com/manikmagar/jbake-future-imperfect-template"><strong>JBake Future Imperfect Template</strong></a> by <a href="https://twitter.com/manikmagar">Manik Magar</a> and for the moment I've only needed minor touches to make it better suited for me.</p>
 <p>As simple as this:</p>
-
-<pre><code class="language-shell">&gt;&gt; mkdir awesome-jbake
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">&gt;&gt; mkdir awesome-jbake
 
 &gt;&gt; git clone https://github.com/manikmagar/jbake-future-imperfect-template.git awesome-jbake
 
-&gt;&gt; cd awesome-jbake &amp;&amp; ls -ltr
-</code></pre>
-
-<p>Most of the changes were related to custom css styles that I was already using in Blogger, the <em>JBake Future Imperfect Template</em> is fantastic.</p>
-
+&gt;&gt; cd awesome-jbake <span style="color:#f92672">&amp;&amp;</span> ls -ltr
+</code></pre></div><p>Most of the changes were related to custom css styles that I was already using in Blogger, the <em>JBake Future Imperfect Template</em> is fantastic.</p>
 <p><strong>Thanks Manik !!</strong></p>
-
-<h2 id="step-3-migrate-your-content-from-your-old-blog-site-if-needed">Step 3 - Migrate your content from your old blog/site (if needed)</h2>
-
-<p>You&rsquo;ll only need this if you are migrating something, skip this point if you are creating something from scratch.</p>
-
+<h2 id="step-3--migrate-your-content-from-your-old-blogsite-if-needed">Step 3 - Migrate your content from your old blog/site (if needed)</h2>
+<p>You'll only need this if you are migrating something, skip this point if you are creating something from scratch.</p>
 <p>For this magic trick, my first intent was to implement it myself, only to code for a while. Finally I discovered a repo in github with a promising name: <a href="https://github.com/cloudtu/blogger-to-jbake"><strong>blogger-to-jbake</strong></a>. I checked the code and the author (<a href="http://cloudtu.github.io/">Cloud Tu</a>) had developed more or less what I meant to do.</p>
-
 <p>With a little help from an <em>difficult-even-for-google-translate</em> <code>README</code> file in Chinese, I could run the program and export all my blog only with minor problems regarding the download of certain images that were not hosted in blogger.</p>
-
 <p>The steps are very simple:</p>
-
 <ol>
 <li>Modify the <code>src/main/resources/application.properties</code> to set the Blogger atom file path, the output path and your current URL in Blogger</li>
 <li>Execute <code>gradlew run</code> in the console</li>
 <li><strong>Profit!</strong></li>
 </ol>
-
-<p>I made some improvements (from my humble point of view) in the code, and I&rsquo;ll send the corresponding pull request. They could be valuable for anyone else.</p>
-
+<p>I made some improvements (from my humble point of view) in the code, and I'll send the corresponding pull request. They could be valuable for anyone else.</p>
 <p><strong>Thanks Cloud Tu !!</strong></p>
-
-<h2 id="step-4-deploy-your-blog">Step 4 - Deploy your blog</h2>
-
+<h2 id="step-4--deploy-your-blog">Step 4 - Deploy your blog</h2>
 <p>Well, thanks to Github and specifically to <a href="https://pages.github.com/">Github Pages</a>, the only thing that I needed was to change the configuration of JBake so the output directory for the <em>baked</em> content is called <code>docs</code> instead of the name by default (<code>output</code>).</p>
-
 <p>After <a href="https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/">enabling it for the first time</a>, Github automatically deploys in Github Pages whatever you put in the <code>docs</code> directory of your repo.</p>
-
-<p>I&rsquo;m suffering the misbehavior of Github Pages with relative paths, but for the moment I&rsquo;m solving it with a sed command before pushing the baked content.</p>
-
+<p>I'm suffering the misbehavior of Github Pages with relative paths, but for the moment I'm solving it with a sed command before pushing the baked content.</p>
 <p><strong>Thanks Github Pages !!</strong></p>
-
 <h2 id="conclusion">Conclusion</h2>
-
-<p>I&rsquo;m happier than ever with my blog, and I&rsquo;ll try to write more often now that I can make it with my editor in Markdown or AsciiDoc.</p>
-
-<p>It&rsquo;s also possible that I&rsquo;ll write a more technical post about how JBake works, but in the meantime ask me in the comments anything that you want to know.</p>
+<p>I'm happier than ever with my blog, and I'll try to write more often now that I can make it with my editor in Markdown or AsciiDoc.</p>
+<p>It's also possible that I'll write a more technical post about how JBake works, but in the meantime ask me in the comments anything that you want to know.</p>
 
   </div>
 
@@ -1009,6 +967,44 @@ if (!doNotTrack) {
           <article class="mini-post">
             <header>
               <h3>
+                <a href="/blog/2019/12/big-things-commit-conf-2019/">Big Things Conference and Commit Conf 2019</a>
+              </h3>
+              
+              <time class="published" datetime='2019-12-08'>
+                December 8, 2019
+              </time>
+            </header>
+            
+    
+
+    
+        
+        
+
+
+
+
+
+
+
+  
+
+
+        
+        
+        
+
+        <a href="/blog/2019/12/big-things-commit-conf-2019/" class="image featured">
+            <img src="https://live.staticflickr.com/65535/49188308296_420b0c82e1_k.jpg" alt="Finishing our talk at Big Things Conference 2019">
+        </a>
+    
+
+
+          </article>
+        
+          <article class="mini-post">
+            <header>
+              <h3>
                 <a href="/blog/2019/09/pekin-guia-breve/">Pekín: una guía breve</a>
               </h3>
               
@@ -1152,44 +1148,6 @@ if (!doNotTrack) {
 
         <a href="/blog/2019/02/fosdem-2019-sunday/" class="image featured">
             <img src="https://farm8.staticflickr.com/7860/47207681772_102c9156fb_k.jpg" alt="Edward Betts in FOSDEM 2019 presenting his tool to link OpenStreetMap and Wikidata">
-        </a>
-    
-
-
-          </article>
-        
-          <article class="mini-post">
-            <header>
-              <h3>
-                <a href="/blog/2019/02/fosdem-2019-saturday/">FOSDEM 2019: Saturday</a>
-              </h3>
-              
-              <time class="published" datetime='2019-02-10'>
-                February 10, 2019
-              </time>
-            </header>
-            
-    
-
-    
-        
-        
-
-
-
-
-
-
-
-  
-
-
-        
-        
-        
-
-        <a href="/blog/2019/02/fosdem-2019-saturday/" class="image featured">
-            <img src="https://farm8.staticflickr.com/7869/32111005427_44b0627a4f_k.jpg" alt="Bradley M. Kuhn and Karen Sandler from Software Freedom Conservancy">
         </a>
     
 

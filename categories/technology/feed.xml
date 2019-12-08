@@ -6,10 +6,20 @@
     <description>Recent content in technology on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://luiyo.net/categories/technology/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Big Things Conference and Commit Conf 2019</title>
+      <link>https://luiyo.net/blog/2019/12/big-things-commit-conf-2019/</link>
+      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2019/12/big-things-commit-conf-2019/</guid>
+      <description>A few days ago I had the opportunity and the privilege to deliver three different talks, in three consecutive days, in two international events: Big Things Conference 2019 and Commit Conf 2019. This crazy coincidence forces me to write one single post to summarize my experience in both events, including an overview of my three talks.
+Taking advantage of this, I have also created a new section on this website to publish the main public talks that I&#39;m proudly giving.</description>
+    </item>
     
     <item>
       <title>Greach 2019</title>
@@ -18,7 +28,7 @@
       
       <guid>https://luiyo.net/blog/2019/03/greach-2019/</guid>
       <description>Greach 2019   This week I could attend another fantastic Greach Conference, an international conference that in previous years was focused on the Apache Groovy language and ecosystem (Grails, Gradle, etc.) but this year has expanded the scope to other technologies related to the JVM like Micronaut, GraalVM, Spring Boot, Kotlin, Android, &amp;hellip;
-Greach is a non-profitable event held in Madrid since 2011 (I think I&amp;rsquo;ve missed only one edition).</description>
+Greach is a non-profitable event held in Madrid since 2011 (I think I&#39;ve missed only one edition).</description>
     </item>
     
     <item>
@@ -28,7 +38,7 @@ Greach is a non-profitable event held in Madrid since 2011 (I think I&amp;rsquo;
       
       <guid>https://luiyo.net/blog/2019/02/fosdem-2019-sunday/</guid>
       <description>My Saturday finished having a great dinner with friends and lots of laughs in one of our favorite restaurants in Brussels.
- FOSDEM 2019 poster   As usual, my Sunday at FOSDEM started again very early. Lot&amp;rsquo;s of things to see in a complete set of new devrooms/tracks. This year I focused my second day in the Community and Geospatial devrooms.
+ FOSDEM 2019 poster   As usual, my Sunday at FOSDEM started again very early. Lot&#39;s of things to see in a complete set of new devrooms/tracks. This year I focused my second day in the Community and Geospatial devrooms.
 Before continuing, if you want to read my summary of the previous day you can follow this link: FOSDEM 2019: Saturday.</description>
     </item>
     
@@ -47,7 +57,7 @@ Before continuing, if you want to read my summary of the previous day you can fo
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2018/03/greach-2018/</guid>
-      <description>Greach 2018   Some days ago I attended as usual to the fantastic Greach Conference, an international conference about the Apache Groovy language and ecosystem: Groovy, Grails, Gradle and a lot other things. Greach is held each year in Madrid but everything is in English, and nowadays it&amp;rsquo;s surely one of the Top worldwide events about this technologies.
+      <description>Greach 2018   Some days ago I attended as usual to the fantastic Greach Conference, an international conference about the Apache Groovy language and ecosystem: Groovy, Grails, Gradle and a lot other things. Greach is held each year in Madrid but everything is in English, and nowadays it&#39;s surely one of the Top worldwide events about this technologies.
 Greach is a non-profitable event organized by Iván López (@ilopar) and Alberto Vilches (@albertovilches), with some help from colleagues and a lot of sponsors.</description>
     </item>
     
@@ -58,7 +68,7 @@ Greach is a non-profitable event organized by Iván López (@ilopar) and Alberto
       
       <guid>https://luiyo.net/blog/2018/02/fosdem-2018-sunday/</guid>
       <description>After an interesting Saturday, finished with a great dinner with some friends in one of our favorite restaurants in Brussels, my Sunday at FOSDEM started again very early.
-FOSDEM 2018  My choices for the Sunday were again diverse and (in most cases) successful. Apart from the closing keynotes, I spent some time in the Legal and Policy Issues devroom, a couple of talks in the HPC, Big Data, and Data Science devroom and half the afternoon in the Geospatial devroom.</description>
+My choices for the Sunday were again diverse and (in most cases) successful. Apart from the closing keynotes, I spent some time in the Legal and Policy Issues devroom, a couple of talks in the HPC, Big Data, and Data Science devroom and half the afternoon in the Geospatial devroom.</description>
     </item>
     
     <item>
@@ -67,8 +77,8 @@ FOSDEM 2018  My choices for the Sunday were again diverse and (in most cases) su
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2018/02/fosdem-2018-saturday/</guid>
-      <description>After an uncertain landing a few hours ago (the airport in Madrid was barely working due to a snowy morning), I&amp;rsquo;ve just arrived home but instead of having some rest after an intense and though-provoking FOSDEM I felt the urge to start writing about my weekend in Brussels.
-I&amp;rsquo;ve been there not only to enjoy this wonderful city with its trappist beers and great food, but specially to attend FOSDEM as I intend to do every year.</description>
+      <description>After an uncertain landing a few hours ago (the airport in Madrid was barely working due to a snowy morning), I&#39;ve just arrived home but instead of having some rest after an intense and though-provoking FOSDEM I felt the urge to start writing about my weekend in Brussels.
+I&#39;ve been there not only to enjoy this wonderful city with its trappist beers and great food, but specially to attend FOSDEM as I intend to do every year.</description>
     </item>
     
     <item>
@@ -78,7 +88,8 @@ I&amp;rsquo;ve been there not only to enjoy this wonderful city with its trappis
       
       <guid>https://luiyo.net/blog/2018/01/things-that-java-developers-really-need-to-know/</guid>
       <description>A couple of days ago DZone published an article called 9 Things Java Programmers Should Learn in 2018. I liked the idea and I even recommended the article to a couple of colleagues who are trying to reorient their professional career. After the advice I added some personal disclaimers about the content, to the point that one of my friends wisely told me:
- if you don&#39;t agree with these recommendations, why don&#39;t you write your own article?</description>
+&amp;hellip;and that brought us here :-)
+The article in DZone is fine and very detailed with good recommendations but it&#39;s not realistic.</description>
     </item>
     
     <item>
@@ -87,8 +98,8 @@ I&amp;rsquo;ve been there not only to enjoy this wonderful city with its trappis
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2017/11/big-data-spain-2017/</guid>
-      <description>Last week I attended Big Data Spain (BDS), a renowned event focused particularly on Big Data, Artificial Intelligence and Machine Learning. It&amp;rsquo;s a reference event about Big Data, not only in Spain but across Europe. The event is almost entirely held in English and attracts top level speakers and public.
-I couldn&amp;rsquo;t take a lot of notes, but I&amp;rsquo;ll summarize the talks that deserve your attention (among those that I heard):</description>
+      <description>Last week I attended Big Data Spain (BDS), a renowned event focused particularly on Big Data, Artificial Intelligence and Machine Learning. It&#39;s a reference event about Big Data, not only in Spain but across Europe. The event is almost entirely held in English and attracts top level speakers and public.
+I couldn&#39;t take a lot of notes, but I&#39;ll summarize the talks that deserve your attention (among those that I heard):</description>
     </item>
     
     <item>
@@ -106,9 +117,8 @@ I couldn&amp;rsquo;t take a lot of notes, but I&amp;rsquo;ll summarize the talks
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2017/09/susan-gerbic-in-skeptics-in-the-pub-madrid/</guid>
-      <description>This entry is also published in Spanish in the website of ARP-SAPC
-As you probably know, we are celebrating the XXX Anniversary of ARP-SAPC with a special event this next Saturday (Sep 30th) with Alfonso López Borgoñoz (@lopezborgonoz). As an addition to this celebration, a week later we&amp;rsquo;ll be honoured to host a Skeptics in the Pub Madrid special event with Susan Gerbic.
-Affectionately called the Wikipediatrician, Susan Gerbic is the cofounder of Monterey County Skeptics and a self-proclaimed skeptical junkie.</description>
+      <description>As you probably know, we are celebrating the XXX Anniversary of ARP-SAPC with a special event this next Saturday (Sep 30th) with Alfonso López Borgoñoz (@lopezborgonoz). As an addition to this celebration, a week later we&#39;ll be honoured to host a Skeptics in the Pub Madrid special event with Susan Gerbic.
+Affectionately called the Wikipediatrician, Susan Gerbic is the cofounder of Monterey County Skeptics and a self-proclaimed skeptical junkie. Susan is also founder of the Guerrilla Skepticism on Wikipedia (GSoW) project.</description>
     </item>
     
     <item>

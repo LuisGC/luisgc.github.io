@@ -3,23 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://luiyo.net/blog/2019/12/big-things-commit-conf-2019/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/blog/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/categories/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/categories/computer-science/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/categories/event/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/categories/internet/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://luiyo.net/</loc>
-    <lastmod>2019-10-05T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/categories/open-source/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/categories/programming/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/categories/technology/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/talks/</loc>
     <lastmod>2019-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/blog/</loc>
-    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/categories/</loc>
-    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -58,11 +93,6 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/categories/event/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/categories/literature/</loc>
     <lastmod>2019-08-18T00:00:00+00:00</lastmod>
   </url>
@@ -78,32 +108,7 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/categories/computer-science/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/blog/2019/03/greach-2019/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/categories/internet/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/categories/open-source/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/categories/programming/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/categories/technology/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
   
