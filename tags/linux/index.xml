@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on Luiyología</title>
+    <link>https://luiyo.net/tags/linux/</link>
+    <description>Recent content in linux on Luiyología</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://luiyo.net/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FOSDEM 2019: Sunday</title>
+      <link>https://luiyo.net/blog/2019/02/fosdem-2019-sunday/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2019/02/fosdem-2019-sunday/</guid>
+      <description>My Saturday finished having a great dinner with friends and lots of laughs in one of our favorite restaurants in Brussels.
+ FOSDEM 2019 poster   As usual, my Sunday at FOSDEM started again very early. Lot&#39;s of things to see in a complete set of new devrooms/tracks. This year I focused my second day in the Community and Geospatial devrooms.
+Before continuing, if you want to read my summary of the previous day you can follow this link: FOSDEM 2019: Saturday.</description>
+    </item>
+    
+    <item>
+      <title>FOSDEM 2019: Saturday</title>
+      <link>https://luiyo.net/blog/2019/02/fosdem-2019-saturday/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2019/02/fosdem-2019-saturday/</guid>
+      <description>It has been a week since I returned from another intense and thought-provoking weekend in Brussels, although it still feels like it was just yesterday. This year, apart from attending FOSDEM (as I intend to do every year) I took a very early flight on Friday to visit new (for me) places in the city. In just one day I visited the European Parliament Hemicycle, the House of European History, the Parlamentarium and the Museum of Natural Sciences.</description>
+    </item>
+    
+    <item>
+      <title>FOSDEM 2018: Sunday</title>
+      <link>https://luiyo.net/blog/2018/02/fosdem-2018-sunday/</link>
+      <pubDate>Thu, 08 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2018/02/fosdem-2018-sunday/</guid>
+      <description>After an interesting Saturday, finished with a great dinner with some friends in one of our favorite restaurants in Brussels, my Sunday at FOSDEM started again very early.
+My choices for the Sunday were again diverse and (in most cases) successful. Apart from the closing keynotes, I spent some time in the Legal and Policy Issues devroom, a couple of talks in the HPC, Big Data, and Data Science devroom and half the afternoon in the Geospatial devroom.</description>
+    </item>
+    
+    <item>
+      <title>FOSDEM 2018: Saturday</title>
+      <link>https://luiyo.net/blog/2018/02/fosdem-2018-saturday/</link>
+      <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2018/02/fosdem-2018-saturday/</guid>
+      <description>After an uncertain landing a few hours ago (the airport in Madrid was barely working due to a snowy morning), I&#39;ve just arrived home but instead of having some rest after an intense and though-provoking FOSDEM I felt the urge to start writing about my weekend in Brussels.
+I&#39;ve been there not only to enjoy this wonderful city with its trappist beers and great food, but specially to attend FOSDEM as I intend to do every year.</description>
+    </item>
+    
+    <item>
+      <title>ING Security Summer Camp 2017</title>
+      <link>https://luiyo.net/blog/2017/07/ing-security-summer-camp-2017/</link>
+      <pubDate>Wed, 26 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2017/07/ing-security-summer-camp-2017/</guid>
+      <description>Last week I had the huge pleasure to participate in a week-long Security Summer Camp organized by the Information Security department of ING Spain. The agenda was very promising and implied some theory and lots of practice, ending with an Escape the Room game and a 2,5 days long Capture The Flag hacking competition. Several speakers from the Infosec Squad prepared talks and workshops about different topics, focusing on Ethical Hacking, secure development, server hardening or OSINT.</description>
+    </item>
+    
+    <item>
+      <title>FOSDEM 2016: Sunday</title>
+      <link>https://luiyo.net/blog/2016/03/fosdem-2016-sunday/</link>
+      <pubDate>Thu, 03 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2016/03/fosdem-2016-sunday/</guid>
+      <description>Disclaimer: I attended FOSDEM in Brussels last January. I should have written this weeks ago but better late than ever, right?
+ FOSDEM 2016   You can read about the rest of my FOSDEM here:
+FOSDEM 2016: Friday FOSDEM 2016: Saturday  As a retrospective, I attended a lot of talks and almost all of them were very interesting, but looking back now I realize that I should&#39;ve spent more time in the stands and aisles.</description>
+    </item>
+    
+    <item>
+      <title>FOSDEM 2016: Saturday</title>
+      <link>https://luiyo.net/blog/2016/03/fosdem-2016-saturday/</link>
+      <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2016/03/fosdem-2016-saturday/</guid>
+      <description>Disclaimer: I attended FOSDEM in Brussels last January. I should have written this weeks ago but better late than ever, right?
+ FOSDEM 2016   After an interesting Friday (as I told you yesterday) our FOSDEM Saturday started early. I attended a couple of talks in the Free Java DevRoom, another couple about Open Source Design but surprisingly most of them were in the Legal and Policy Issues track.</description>
+    </item>
+    
+    <item>
+      <title>FOSDEM 2016: Friday</title>
+      <link>https://luiyo.net/blog/2016/03/fosdem-2016-friday/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2016/03/fosdem-2016-friday/</guid>
+      <description>Disclaimer: I attended FOSDEM in Brussels last January. I should have written this weeks ago but better late than ever, right?
+ FOSDEM 2016   As you may know if you are reading this, FOSDEM is a not to be missed event about Free and Open Source Software (FOSS). By far, it is the most important gathering about FOSS in the planet. It&#39;s an unbeatable opportunity to attend great talks and workshops, but also to hang around with amazing people and top professionals.</description>
+    </item>
+    
+    <item>
+      <title>Quince Ubuntus</title>
+      <link>https://luiyo.net/blog/2005/01/quince-ubuntus/</link>
+      <pubDate>Mon, 17 Jan 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2005/01/quince-ubuntus/</guid>
+      <description>Hoy mismo he recibido las quince distribuciones de Ubuntu Linux que pedí.
+Pensé que al final había pedido más, pero ahora recuerdo que no me pareció correcto pedir 80 distribuciones. Me habría obligado a repartirlas en el Metro. Tengo quince y no sé qué hacer con catorce de ellas...
+Un día de estos que tenga tiempo le echaré un vistazo. Si veo algo interesante, os lo diré. Ya sabéis que yo soy de SuSE.</description>
+    </item>
+    
+    <item>
+      <title>Richard Stallman al Teléfono</title>
+      <link>https://luiyo.net/blog/2004/12/richard-stallman-al-telefono/</link>
+      <pubDate>Fri, 17 Dec 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2004/12/richard-stallman-al-telefono/</guid>
+      <description>Richard Stallman  Según leo en BoingBoing, si consigues a tres personas para que hagan una donación y entren a formar parte de la Free Software Foundation, Richard Stallman (o Eben Moglen) grabaran el mensaje que tu prefieras para que lo uses en, por ejemplo, tu contestador telefónico.
+ Greet your callers with a prominent voice of software freedom, and help the FSF safeguard this freedom for everyone.
+After we agree on the text for the message, Stallman or Moglen will record it in a free digital format that you can play as a whole on your preferred media, be it your voice mail, web site, blog, VOIP system, answering machine---you&#39;ll have the file, so you can move it around as you please.</description>
+    </item>
+    
+    <item>
+      <title>El Coste del  Kernel 2.6</title>
+      <link>https://luiyo.net/blog/2004/10/el-coste-del-kernel-26/</link>
+      <pubDate>Mon, 18 Oct 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2004/10/el-coste-del-kernel-26/</guid>
+      <description>A Precio de Oro  Ya teníamos una estimación del coste de volver a desarrollar la versión 2.6 del Kernel para Linux por parte de Ingo Molnar, cercana a los $176M (141 Millones de Euros), pero ahora, con más información y un estudio más detallado, David A. Wheeler ha calculado que ese coste llegaría sin problemas a $612M (490 Millones de Euros). Todo a raíz de un tipo que ofreció $50k (40 Mil Euros) para que se cambiara la licencia GPL de Linux por una más permisiva del tipo BSD.</description>
+    </item>
+    
+    <item>
+      <title>Linux cumple 13 años</title>
+      <link>https://luiyo.net/blog/2004/08/linux-cumple-13-anos/</link>
+      <pubDate>Wed, 25 Aug 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2004/08/linux-cumple-13-anos/</guid>
+      <description>Hoy se cumplen trece años del día en que Linus Torvalds anunció por primera vez que estaba desarrollando su propio sistema operativo libre. La primera versión de Linux se presentó poco más tarde, el 17 de Septiembre de 1991.
+Desde luego el Sr. Torvalds no pensaba lo lejos que llegaría su &#34;hobby&#34;. Os dejo aquí el correo en cuestión:
+ From: torvalds@klaava.Helsinki.FI (Linus Benedict Torvalds)
+Newsgroups: comp.os.minix
+Subject: What would you like to see most in minix?</description>
+    </item>
+    
+    <item>
+      <title>Reflexiones acerca de las dos conferencias de Richard Stallman</title>
+      <link>https://luiyo.net/blog/2004/05/reflexiones-acerca-de-las-dos/</link>
+      <pubDate>Wed, 05 May 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2004/05/reflexiones-acerca-de-las-dos/</guid>
+      <description>Richard M. Stallman  Entre ayer y hoy he asistido, como os anuncié, a dos conferencias de Richard Stallman, uno de las pocas personas a las que puedo considerar mis ídolos. Por su personalidad, por su trabajo en estos más de veinte últimos años pero sobre todo por su dedicación a todo lo que hace.
+Esto sólo pretende ser una mala crónica de todo lo que ha dicho. Y digo mala porque no tomé notas ni nada, siempre necesario para relatar algo con un mínimo de fidelidad, olvidaré comentar el 90 % de lo que se dijo, y el 10 % que comento lo hare por encima.</description>
+    </item>
+    
+    <item>
+      <title>Richard Stallman en Madrid</title>
+      <link>https://luiyo.net/blog/2004/04/richard-stallman-en-madrid/</link>
+      <pubDate>Wed, 28 Apr 2004 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2004/04/richard-stallman-en-madrid/</guid>
+      <description>Richard M. Stallman  Nuestro barbas favorito visita Madrid dentro de su gira ([1] [2]) por España. Dará unas conferencias en la Facultad de Informática de la Universidad Politécnica de Madrid.
+Por ser mi antigua facultad, y por ser este hippie quién es, no creo que me pierda ninguna de las dos conferencias. Ya le he escuchado otras veces, y siempre merece la pena. ¿Os animás a venir?
+The Free Software Movement and GNU/Linux</description>
+    </item>
+    
+  </channel>
+</rss>

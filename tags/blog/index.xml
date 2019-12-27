@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Luiyología</title>
+    <link>https://luiyo.net/tags/blog/</link>
+    <description>Recent content in blog on Luiyología</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 May 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://luiyo.net/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Baking my Blog with JBake and GitHub</title>
+      <link>https://luiyo.net/blog/2017/05/baking-my-blog-with-jbake-and-github/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2017/05/baking-my-blog-with-jbake-and-github/</guid>
+      <description>Almost since I created my personal blog in 2003 I thought about moving it from blogger to my own domain, private hosting and so on. My laziness prevented me from doing so. Not because the migration itself, but for the maintenance it entailed.
+Anyhow, I was determined to migrate my blog outside of any blogging platform. I wanted to have complete control over my content, but without wasting lots of time in maintenance.</description>
+    </item>
+    
+    <item>
+      <title>Retrospectiva de 2012</title>
+      <link>https://luiyo.net/blog/2012/12/retrospectiva-de-2012/</link>
+      <pubDate>Mon, 31 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2012/12/retrospectiva-de-2012/</guid>
+      <description>Se termina 2012. Consumo las últimas horas y creo que puedo decir que he agotado al máximo el año. Para lo bueno y para lo malo.
+He tenido a menudo la intención (imposible de cumplir) de escribir una larga entrada con cada cosa relevante que hice durante el año. En lugar de eso tengo unas pocas entradas con convocatorias y breves reseñas. Muchos me lo echáis en cara (con razón).</description>
+    </item>
+    
+    <item>
+      <title>Mención a este blog en la revista PC Actual</title>
+      <link>https://luiyo.net/blog/2006/04/mencion-este-blog-en-pc-actual/</link>
+      <pubDate>Mon, 17 Apr 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2006/04/mencion-este-blog-en-pc-actual/</guid>
+      <description> Hacer click para ver más grande.
+   (Gracias por el aviso/scaneo Ferdi)
+Actualización 25-04-2006: Antonio, de blogpocket, nos avisa en los comentarios de que el PDF está disponibe para descarga [ Enlace directo] </description>
+    </item>
+    
+    <item>
+      <title>Aniversario</title>
+      <link>https://luiyo.net/blog/2005/10/aniversario/</link>
+      <pubDate>Fri, 07 Oct 2005 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2005/10/aniversario/</guid>
+      <description>Brevemente, que salgo de viaje a Barcelona en 10 minutos.
+Hoy, 7 de Octubre de 2005, ¡¡Luiyología cumple dos años!!!
+Han cambiado muchas cosas desde el inicio, hemos pasado rachas de todo tipo, pero seguimos en pie luchando.
+Gracias a todos los que solicitáis vuestras clases en esta humilde asignatura.</description>
+    </item>
+    
+    <item>
+      <title>Arranca Luiyología</title>
+      <link>https://luiyo.net/blog/2003/10/arranca-luiyologia/</link>
+      <pubDate>Tue, 07 Oct 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2003/10/arranca-luiyologia/</guid>
+      <description>Aquí iré escribiendo mis vivencias y mis opiniones. Espero que os guste y que os anime a hacer comentarios, cualquier tipo de feedback siempre es positivo.
+Un saludo</description>
+    </item>
+    
+  </channel>
+</rss>
