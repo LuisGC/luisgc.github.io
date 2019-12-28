@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -10,11 +10,13 @@
   <url>
     <loc>https://luiyo.net/blog/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://luiyo.net/categories/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -28,23 +30,9 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/computer-science/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/event/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/internet/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -58,23 +46,9 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/open-source/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/categories/post/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/programming/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/tags/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -88,8 +62,45 @@
   </url>
   
   <url>
+    <loc>https://luiyo.net/tags/computer-science/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/event/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/internet/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/open-source/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/categories/post/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/programming/</loc>
+    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://luiyo.net/tags/technology/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -100,16 +111,7 @@
   <url>
     <loc>https://luiyo.net/categories/page/</loc>
     <lastmod>2019-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/history/</loc>
-    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/holidays/</loc>
-    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -118,33 +120,27 @@
   </url>
   
   <url>
+    <loc>https://luiyo.net/tags/history/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/holidays/</loc>
+    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://luiyo.net/tags/personal/</loc>
     <lastmod>2019-09-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/tourism/</loc>
     <lastmod>2019-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/art/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/culture/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/literature/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/tolkien/</loc>
-    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -153,13 +149,32 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/blog/2019/03/greach-2019/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/tags/art/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/english/</loc>
-    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/tags/culture/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/literature/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/tolkien/</loc>
+    <lastmod>2019-08-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/blog/2019/03/greach-2019/</loc>
+    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -168,8 +183,15 @@
   </url>
   
   <url>
+    <loc>https://luiyo.net/tags/english/</loc>
+    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://luiyo.net/tags/linux/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -178,18 +200,20 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/games/</loc>
-    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/blog/2019/01/my-year-2018-in-games/</loc>
     <lastmod>2019-01-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://luiyo.net/tags/games/</loc>
+    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://luiyo.net/tags/retrospective/</loc>
     <lastmod>2019-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -200,6 +224,7 @@
   <url>
     <loc>https://luiyo.net/tags/review/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -273,38 +298,43 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/outreach/</loc>
-    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/science/</loc>
-    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/skepticism/</loc>
-    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/skeptics-in-the-pub/</loc>
-    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/blog/2017/09/susan-gerbic-in-skeptics-in-the-pub-madrid/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/politics/</loc>
-    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/tags/outreach/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/science/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/skepticism/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/skeptics-in-the-pub/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://luiyo.net/blog/2017/07/romantikstrasse-the-romantic-road_5/</loc>
     <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/politics/</loc>
+    <lastmod>2017-07-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -340,11 +370,13 @@
   <url>
     <loc>https://luiyo.net/tags/blog/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/design/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -413,18 +445,20 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/economics/</loc>
-    <lastmod>2014-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/blog/2014/12/escepticos-en-el-pub-madrid-enero-2015/</loc>
     <lastmod>2014-12-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://luiyo.net/tags/economics/</loc>
+    <lastmod>2014-12-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://luiyo.net/tags/press/</loc>
     <lastmod>2014-12-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -445,26 +479,30 @@
   <url>
     <loc>https://luiyo.net/tags/health/</loc>
     <lastmod>2013-12-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/news/</loc>
     <lastmod>2013-12-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/solidarity/</loc>
     <lastmod>2013-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/philosophy/</loc>
-    <lastmod>2013-12-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://luiyo.net/blog/2013/12/the-demon-haunted-world-de-carl-sagan/</loc>
     <lastmod>2013-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/philosophy/</loc>
+    <lastmod>2013-12-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -500,6 +538,7 @@
   <url>
     <loc>https://luiyo.net/tags/television/</loc>
     <lastmod>2013-04-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -533,18 +572,20 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/magic/</loc>
-    <lastmod>2013-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/blog/2013/01/necss-2013/</loc>
     <lastmod>2013-01-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://luiyo.net/tags/magic/</loc>
+    <lastmod>2013-01-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://luiyo.net/tags/podcast/</loc>
     <lastmod>2013-01-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -590,6 +631,7 @@
   <url>
     <loc>https://luiyo.net/tags/video/</loc>
     <lastmod>2012-06-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -603,13 +645,14 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/skepticamp/</loc>
+    <loc>https://luiyo.net/blog/2012/05/skepticamp-alicante-2012-todas-las/</loc>
     <lastmod>2012-05-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luiyo.net/blog/2012/05/skepticamp-alicante-2012-todas-las/</loc>
+    <loc>https://luiyo.net/tags/skepticamp/</loc>
     <lastmod>2012-05-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -668,23 +711,25 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/music/</loc>
-    <lastmod>2012-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/blog/2012/04/necss-2012-northeast-conference-on/</loc>
     <lastmod>2012-04-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/comics/</loc>
-    <lastmod>2012-04-12T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/tags/music/</loc>
+    <lastmod>2012-04-16T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://luiyo.net/blog/2012/04/skepticamp-alicante-2012-tercera-charla/</loc>
     <lastmod>2012-04-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/comics/</loc>
+    <lastmod>2012-04-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -698,11 +743,6 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/cinema/</loc>
-    <lastmod>2012-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/blog/2012/03/james-randi-un-mentiroso-honesto/</loc>
     <lastmod>2012-03-19T00:00:00+00:00</lastmod>
   </url>
@@ -710,6 +750,12 @@
   <url>
     <loc>https://luiyo.net/blog/2012/03/spring-io-2012/</loc>
     <lastmod>2012-03-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/cinema/</loc>
+    <lastmod>2012-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -745,6 +791,7 @@
   <url>
     <loc>https://luiyo.net/tags/humour/</loc>
     <lastmod>2012-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -773,11 +820,6 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/gadget/</loc>
-    <lastmod>2012-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/blog/2012/01/partidas-jugadas-en-2011/</loc>
     <lastmod>2012-01-03T00:00:00+00:00</lastmod>
   </url>
@@ -785,6 +827,12 @@
   <url>
     <loc>https://luiyo.net/blog/2012/01/un-ano-de-ediciones-en-openstreetmap/</loc>
     <lastmod>2012-01-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/gadget/</loc>
+    <lastmod>2012-01-03T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -813,13 +861,14 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/curious/</loc>
+    <loc>https://luiyo.net/blog/2011/11/desfase-en-la-isla-de-pitcairn/</loc>
     <lastmod>2011-11-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luiyo.net/blog/2011/11/desfase-en-la-isla-de-pitcairn/</loc>
+    <loc>https://luiyo.net/tags/curious/</loc>
     <lastmod>2011-11-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -925,6 +974,7 @@
   <url>
     <loc>https://luiyo.net/tags/theater/</loc>
     <lastmod>2011-05-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -958,13 +1008,14 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/star-trek/</loc>
+    <loc>https://luiyo.net/blog/2011/03/william-shatner-despierta-la/</loc>
     <lastmod>2011-03-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luiyo.net/blog/2011/03/william-shatner-despierta-la/</loc>
+    <loc>https://luiyo.net/tags/star-trek/</loc>
     <lastmod>2011-03-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1048,13 +1099,14 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/sport/</loc>
+    <loc>https://luiyo.net/blog/2010/10/world-bike-tour-madrid-2010/</loc>
     <lastmod>2010-10-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luiyo.net/blog/2010/10/world-bike-tour-madrid-2010/</loc>
+    <loc>https://luiyo.net/tags/sport/</loc>
     <lastmod>2010-10-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1135,6 +1187,7 @@
   <url>
     <loc>https://luiyo.net/tags/cars/</loc>
     <lastmod>2007-03-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1200,6 +1253,7 @@
   <url>
     <loc>https://luiyo.net/tags/maps/</loc>
     <lastmod>2006-02-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
