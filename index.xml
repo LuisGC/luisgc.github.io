@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Luiyología</title>
@@ -18,7 +18,7 @@
       
       <guid>https://luiyo.net/blog/2019/12/big-things-commit-conf-2019/</guid>
       <description>A few days ago I had the opportunity and the privilege to deliver three different talks, in three consecutive days, in two international events: Big Things Conference 2019 and Commit Conf 2019. This crazy coincidence forces me to write one single post to summarize my experience in both events, including an overview of my three talks.
-Taking advantage of this, I have also created a new section on this website to publish the main public talks that I&amp;rsquo;m proudly giving.</description>
+Taking advantage of this, I have also created a new section on this website to publish the main public talks that I&#39;m proudly giving.</description>
     </item>
     
     <item>
@@ -28,13 +28,7 @@ Taking advantage of this, I have also created a new section on this website to p
       
       <guid>https://luiyo.net/talks/</guid>
       <description>List of the main public talks I have humbly given (in reverse chronological order)
-   Title Details Presentation     Concerning Governance in Programming Languages, 2019 edition Commit Conf
-(Madrid, Spain)
-23/NOV/2019
-Source Code in GitHub        Design principles for an event driven architecture Commit Conf
-(Madrid, Spain)
-22/NOV/2019
-Link to video        Omni-Channel Customer-centric strategies in a modern architecture Big Things Conference</description>
+   Title Details Presentation     Concerning Governance in Programming Languages, 2019 edition Commit Conf(Madrid, Spain)23/NOV/2019Source Code in GitHub        Design principles for an event driven architecture Commit Conf(Madrid, Spain)22/NOV/2019Link to video        Omni-Channel Customer-centric strategies in a modern architecture Big Things Conference(Madrid, Spain)21/NOV/2019        Design principles for an event driven architecture Apache Kafka Meetup(Madrid, Spain)24/OCT/2019        Measuring Health and Ethics in Programming Languages FLOSSCommunityMetrics(Brussels, Belgium)29/JAN/2016Source Code in GitHub        Concerning Governance in Programming Languages Codemotion 2015(Madrid, Spain)27/NOV/2015Source Code in GitHub        Technical Debt for developers&amp;hellip; ¡and managers!</description>
     </item>
     
     <item>
@@ -53,7 +47,7 @@ Nunca había visitado Asia y llevaba años con esa espinita clavada.</descriptio
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2019/08/tolkien-2019-in-birmingham/</guid>
-      <description>Showing off my double nationality - CC License   If you are reading this you probably know already that I am a big fan of J.R.R. Tolkien, to the point that I joined the Spanish Tolkien Society (Sociedad Tolkien Española) almost 20 years ago and I usually don&amp;rsquo;t miss any of their events.
+      <description>Showing off my double nationality - CC License   If you are reading this you probably know already that I am a big fan of J.R.R. Tolkien, to the point that I joined the Spanish Tolkien Society (Sociedad Tolkien Española) almost 20 years ago and I usually don&#39;t miss any of their events.
 Since recently I also belong to the Tolkien Society, and after having missed for probably important (but now forgotten) reasons Tolkien 2005 and Tolkien 2012, the last major events that they organized, I was not going to miss Tolkien 2019.</description>
     </item>
     
@@ -64,7 +58,7 @@ Since recently I also belong to the Tolkien Society, and after having missed for
       
       <guid>https://luiyo.net/blog/2019/03/greach-2019/</guid>
       <description>Greach 2019   This week I could attend another fantastic Greach Conference, an international conference that in previous years was focused on the Apache Groovy language and ecosystem (Grails, Gradle, etc.) but this year has expanded the scope to other technologies related to the JVM like Micronaut, GraalVM, Spring Boot, Kotlin, Android, &amp;hellip;
-Greach is a non-profitable event held in Madrid since 2011 (I think I&amp;rsquo;ve missed only one edition).</description>
+Greach is a non-profitable event held in Madrid since 2011 (I think I&#39;ve missed only one edition).</description>
     </item>
     
     <item>
@@ -74,7 +68,7 @@ Greach is a non-profitable event held in Madrid since 2011 (I think I&amp;rsquo;
       
       <guid>https://luiyo.net/blog/2019/02/fosdem-2019-sunday/</guid>
       <description>My Saturday finished having a great dinner with friends and lots of laughs in one of our favorite restaurants in Brussels.
- FOSDEM 2019 poster   As usual, my Sunday at FOSDEM started again very early. Lot&amp;rsquo;s of things to see in a complete set of new devrooms/tracks. This year I focused my second day in the Community and Geospatial devrooms.
+ FOSDEM 2019 poster   As usual, my Sunday at FOSDEM started again very early. Lot&#39;s of things to see in a complete set of new devrooms/tracks. This year I focused my second day in the Community and Geospatial devrooms.
 Before continuing, if you want to read my summary of the previous day you can follow this link: FOSDEM 2019: Saturday.</description>
     </item>
     
@@ -94,7 +88,7 @@ Before continuing, if you want to read my summary of the previous day you can fo
       
       <guid>https://luiyo.net/blog/2019/01/my-year-2018-in-games/</guid>
       <description>Welcome again to this yearly post, where I try to analyze my gaming behavior during the previous year. I have been doing this since 2011 in Spanish, but this time I will do it in English as with the rest of my posts. You can read about my previous years (in Spanish):
- 2017 2016 2015 2014 2013 2012 2011  Evolution of my game plays over the last years   2018 2017 2016 2015 2014 2013 2012 Total since 2006   Total amount of plays 101 84 98 84 81 117 161 952   Different games played 61 72 55 71 52 81 80 356   Games with 2 or more plays (in the year) 14 9 15 13 14 19 40 161   Amount of gaming sessions 43 36 35 30 44 41 36 322    Games played per year until the end of 2018   Analysis  In this yearly post I used to include a graph with the games played by month, but it turned more or less complex and meaningless as the trend was clear year by year.</description>
+ 2017 2016 2015 2014 2013 2012 2011   Games played per year until the end of 2018   Analysis  In this yearly post I used to include a graph with the games played by month, but it turned more or less complex and meaningless as the trend was clear year by year.</description>
     </item>
     
     <item>
@@ -115,7 +109,7 @@ Taking advantage of this nice feature I will summarize My 2018 in Books from Goo
       
       <guid>https://luiyo.net/blog/2018/12/the-german-romantische-strasse/</guid>
       <description>Some weeks ago I had the pleasure to make again an awesome road trip with my friend Agatha, this time through the German Romantische Strasse. It is not the first (and most probably will not be the last) trip together, you can read about my trips with her through Scotland, Austria, Brittany or Normandy (and we have made a few more).
-I&amp;rsquo;m adding the German adjective to the title because last year I also traveled through the Austrian Romantikstrasse.</description>
+I&#39;m adding the German adjective to the title because last year I also traveled through the Austrian Romantikstrasse.</description>
     </item>
     
     <item>
@@ -124,7 +118,7 @@ I&amp;rsquo;m adding the German adjective to the title because last year I also 
       <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2018/08/travel-curriculum-vitae/</guid>
-      <description>I was eager to introduce this section on this site for a long time, after seeing it on my favorite travel blog: Dendarii.es, written by my dearest Yami. Yes, it&amp;rsquo;s about travels since I enjoy more and more traveling and reviewing my trips.
+      <description>I was eager to introduce this section on this site for a long time, after seeing it on my favorite travel blog: Dendarii.es, written by my dearest Yami. Yes, it&#39;s about travels since I enjoy more and more traveling and reviewing my trips.
 My Curriculum Vitae as a traveler contains two main parts:
  A Leaflet map with all my visited countries with a link to the review that I could have written here in the blog.</description>
     </item>
@@ -137,11 +131,7 @@ My Curriculum Vitae as a traveler contains two main parts:
       <guid>https://luiyo.net/travel-cv/</guid>
       <description>(Inspired by the CV Viajero by Dendarii)
 Visited Countries I have visited 19 out of 193 countries (among those recognized by United Nations): Andorra, Austria, Belgium, China, Czech Republic, France, Germany, Hungary, Ireland, Italy, Netherlands, Poland, Portugal, Romania, Slovakia, Spain, Switzerland, United Kingdom and United States.
-
-
-In chronological order 2019  OCT Commit Conf, Madrid (Spain)
- OCT Big Things Conference, Madrid (Spain)
- SEP Amsterdam (Netherlands)</description>
+In chronological order 2019  OCTCommit Conf, Madrid (Spain) OCTBig Things Conference, Madrid (Spain) SEPAmsterdam (Netherlands) SEPBeijing and the Great Wall (China) SEPHuelva (Spain) El Rompido, Ayamonte and Vila Real de Santo Antonio (Portugal)   AGOTolkien 2019 - Birmingham (United Kingdom) JULKatowice (Poland) JUNNoordwijk (Netherlands) MAYAmsterdam (Netherlands) MAYSalamanca (Spain) MAYI Mereth de Ithilien - Barcelona (Spain) APRBristol (United Kingdom) APRSPTA&#39;s San George&#39;s Shoot - Taunton (United Kingdom) APRLogroño and Laguardia (Spain) MARGreach 2019 - Madrid (Spain) MARAmsterdam (Netherlands) MARGredos (Spain) FEBFOSDEM 2019 - Brussels (Belgium) JANMilan (Italy)  2018  DECRomantische Strasse (Germany) Dachau, Nuremberg, Würzburg, Tauberbischofsheim, Bad Mergentheim, Weikersheim, Röttingen, Rothenburg ob der Tauber, Feuchtwangen, Dinkelsbühl, Nördlingen, Donauwörth, Augsburg, Landsberg am Lech, Schwangau, Füssen and Munich   NOVRotterdam (Netherlands) NOVPrague (Czech Republic) OCTEngland (United Kingdom) Oxford, Blenheim Palace, Bath and Stonehenge   OCTAltea (Spain) AUGGalicia (Spain) Leiro, Fervenza do Toxa, Pazo de Oca, Santiago de Compostela, Fisterra, Cambados, Sanxenxo, Combarro, O Grove, Isla de Ons, Vigo, Bayona, Oia and Ribadavia   AUGTierra de Nadie 2018 - Málaga (Spain) JUNTorneo Medieval de Tiro con Arco - Torrijos (Spain) MAYScotland (United Kingdom) Balloch, Luss, Oban, Glencoe Valley, Isle of Skye, Inverness, Cromarty, Cawdor, Glenfiddich Distillery, Pitlochry, Stirling and Glasgow   APRSPTA&#39;s San George&#39;s Shoot - Taunton (United Kingdom) MARGreach 2018 - Madrid (Spain) MARPelegrina (Spain) FEBBucarest (Romania) FEBFOSDEM 2018 - Brussels (Belgium)  2017  DECBrittany (France) Cancale, Saint Malo, Dinard, Morlaix, Pointe du Raz, Quimper, Concarneau, Pont-Aven, Carnac, Auray, Vannes, Rochefort-en-Terre, Rennes, Vitré, Fougeres and Le Mans   DECNormandy (France) Rouen, Honfleur, Caen, Bayeaux and Mont Sant Michel   NOVAmsterdam, Edam, Volendam and Marken (Netherlands) NOVLa Granja de San Ildefonso (Spain) SEPMilan (Italy) AUGHuelva (Spain) El Rompido, Palos de la Frontera, Moguer, Ayamonte and Tavira (Portugal)   AUGGran Canaria (Spain) Las Palmas de Gran Canaria, Maspalomas, La Aldea, Puerto de Las Nieves and Gáldar   AUGTierra de Nadie 2017 - Málaga (Spain) AUGSPTA&#39;s Cream Tea Shoot 2018 - Tiverton (England) AUGWye Valley Archery, Wales (United Kingdom) JUNParis and Euro Disney (France) MAYKatowice (Poland) MAYRomantikstrasse, The Romantic Road (Austria) Schalaburg, Melk, Steyr, Kremsmünster, Scharnstein, Gmunden, Mondsee, Postalm, St Wolfgang im Salzkammergut, Bad Ischl, Halstatt, Obertraun and Mauthausen   APRAmsterdam, Haarlem, Utrecht and Rotterdam (Netherlands) MARGreach 2017 - Madrid (Spain) MARChinchón (Spain)  2016  DECTeruel (Spain) Albarracín, Peracense, Ojos Negros and Teruel   NOVAldeanueva de la Vera and Monasterio de Yuste (Spain) OCTCodemotion 2016 - Madrid (Spain) SEPMalleza and Pravia, Asturias (Spain) AUGPoland Krakow, Zakopane, Wroclaw, Wieliczka and Austchwitz   AUGTierra de Nadie 2016 - Málaga (Spain) JUNJBCNConf 2016 - Barcelona (Spain) JUNTorneo Medieval de Tiro con Arco - Torrijos (Spain) MAYVía Verde de Ojos Negros (Spain) Santa Eulalia, Teruel, Sarrión, Caudiel, Algar de Palanca and Sagunto   MAYSoria (Spain) Ucero, Neila, Cañón del Río Lobos, Laguna Negra, San Bartolomé and Burgo de Osma   MAYEl Pardo (Spain) APRARP-SAPC Annual Assembly - Valencia (Spain) APRGreach 2016 - Madrid (Spain) MARZamora (Spain) JANFOSDEM 2016 - Brussels (Belgium)  2015  DECExtremadura (Spain) Mérida, Cáceres and Trujillo   NOVAsturias and Cantabria (Spain) Cangas de Onís, Covadonga, Llanes, Ribadesella, Llastres, Fuente Dé, Potes and Arenas de Cabrales   NOVPyConEs 2015 - Valencia (Spain) OCTBarcelona (Spain) OCTNavaluenga (Spain) OCTAlicante (Spain) SEPLondon, Edinburgh and Loch Ness (United Kingdom) AUGTierra de Nadie 2015 - Málaga (Spain) JUNSouth of Burgos (Spain) Peñaranda de Duero, Caleruega and Clunia   MAYZona Lúdica 2015 - Málaga (Spain) APR_Ruta de los Dinosaurios_ - Cuenca (Spain) MARARP-SAPC Annual Assembly - Sevilla (Spain) MARBarcelona Beer Festival (Spain) FEBÁvila (Spain) JANFOSDEM 2015 - Brussels (Belgium)  2014  DECZaragoza (Spain) NOVCentral Europe (Czech Republic, Austria, Slovakia and Hungary) Prague, Kutná Hora, Vienna, Bratislava and Budapest   AUGTierra de Nadie 2014 - Málaga (Spain) JULHoces del Duratón - Segovia (Spain) JUNSan Miquel del Fai - Barcelona (Spain) MAYVía Verde de la Jara - Toledo (Spain) APRNorth of Burgos (Spain) Poza de la Sal, Monte Santiago, Frías, Ojo Guareña, Orbaneja del Castillo and Oña   MARARP-SAPC Annual Assembly - Madrid (Spain) MAREncuentro de Protos y Tipos Ludo - Zaragoza (Spain) MARMonasterio de Piedra - Zaragoza (Spain)  2013  DECParis (France) NOVPyConEs 2013 - Madrid (Spain) NOVBarcelona (Spain) OCTFestival de Juegos de Córdoba 2013 (Spain) SEPMercado Medieval en Buitrago de Lozoya (Spain) AUGVal d&#39;Arán, Lleida (Spain) AUGCanyoning in Alquézar, Huesca (Spain) AUGTierra de Nadie 2013 - Málaga (Spain) MARSwitzerland Montreux, Chillon, Gruyeres, Reichenbackfall, Meiringen, Aareschlucht, Interlaken, Jungfraujoch, Mürren, Almendhubel and Lausanne   FEBGeneve, CERN, Annecy and Grenoble (Switzerland and France)  2012  NOVHayedo de Tejera Negra - Guadalajara (Spain) SEPBordeaux (France) SEPLa Loire à Vélo (France) Angers, Candes Saint-Martin, Fontevraud, Chinon, Azay-Le-Riedau, Tours, Amboise, Chenonceaux, Chaumont-Sur-Loire, Blois and Chambord   AUGTierra de Nadie 2012 - Málaga (Spain) MAYSkeptiCamp Alicante (Spain) APRNECSS - New York (United States) APRWashington D.</description>
     </item>
     
     <item>
@@ -160,7 +150,7 @@ It was my second time in Scotland, after a great trip three years ago to visit m
       <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2018/03/greach-2018/</guid>
-      <description>Greach 2018   Some days ago I attended as usual to the fantastic Greach Conference, an international conference about the Apache Groovy language and ecosystem: Groovy, Grails, Gradle and a lot other things. Greach is held each year in Madrid but everything is in English, and nowadays it&amp;rsquo;s surely one of the Top worldwide events about this technologies.
+      <description>Greach 2018   Some days ago I attended as usual to the fantastic Greach Conference, an international conference about the Apache Groovy language and ecosystem: Groovy, Grails, Gradle and a lot other things. Greach is held each year in Madrid but everything is in English, and nowadays it&#39;s surely one of the Top worldwide events about this technologies.
 Greach is a non-profitable event organized by Iván López (@ilopar) and Alberto Vilches (@albertovilches), with some help from colleagues and a lot of sponsors.</description>
     </item>
     
@@ -170,7 +160,7 @@ Greach is a non-profitable event organized by Iván López (@ilopar) and Alberto
       <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2018/02/travels-with-charley-by-john-steinbeck/</guid>
-      <description>Travels with Charley: In Search of America is mainly what they call a travelogue o travel literature. It&amp;rsquo;s not the first time that I read one and I&amp;rsquo;m starting to enjoy the genre. I added this one to my want to read in Goodreads a long time ago after reading some hilarious paragraphs during a couple of English lessons, and the rest of the book had not disappointed me at all.</description>
+      <description>Travels with Charley: In Search of America is mainly what they call a travelogue o travel literature. It&#39;s not the first time that I read one and I&#39;m starting to enjoy the genre. I added this one to my want to read in Goodreads a long time ago after reading some hilarious paragraphs during a couple of English lessons, and the rest of the book had not disappointed me at all.</description>
     </item>
     
     <item>
@@ -180,7 +170,7 @@ Greach is a non-profitable event organized by Iván López (@ilopar) and Alberto
       
       <guid>https://luiyo.net/blog/2018/02/fosdem-2018-sunday/</guid>
       <description>After an interesting Saturday, finished with a great dinner with some friends in one of our favorite restaurants in Brussels, my Sunday at FOSDEM started again very early.
-FOSDEM 2018  My choices for the Sunday were again diverse and (in most cases) successful. Apart from the closing keynotes, I spent some time in the Legal and Policy Issues devroom, a couple of talks in the HPC, Big Data, and Data Science devroom and half the afternoon in the Geospatial devroom.</description>
+My choices for the Sunday were again diverse and (in most cases) successful. Apart from the closing keynotes, I spent some time in the Legal and Policy Issues devroom, a couple of talks in the HPC, Big Data, and Data Science devroom and half the afternoon in the Geospatial devroom.</description>
     </item>
     
     <item>
@@ -189,8 +179,8 @@ FOSDEM 2018  My choices for the Sunday were again diverse and (in most cases) su
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2018/02/fosdem-2018-saturday/</guid>
-      <description>After an uncertain landing a few hours ago (the airport in Madrid was barely working due to a snowy morning), I&amp;rsquo;ve just arrived home but instead of having some rest after an intense and though-provoking FOSDEM I felt the urge to start writing about my weekend in Brussels.
-I&amp;rsquo;ve been there not only to enjoy this wonderful city with its trappist beers and great food, but specially to attend FOSDEM as I intend to do every year.</description>
+      <description>After an uncertain landing a few hours ago (the airport in Madrid was barely working due to a snowy morning), I&#39;ve just arrived home but instead of having some rest after an intense and though-provoking FOSDEM I felt the urge to start writing about my weekend in Brussels.
+I&#39;ve been there not only to enjoy this wonderful city with its trappist beers and great food, but specially to attend FOSDEM as I intend to do every year.</description>
     </item>
     
     <item>
@@ -200,7 +190,8 @@ I&amp;rsquo;ve been there not only to enjoy this wonderful city with its trappis
       
       <guid>https://luiyo.net/blog/2018/01/things-that-java-developers-really-need-to-know/</guid>
       <description>A couple of days ago DZone published an article called 9 Things Java Programmers Should Learn in 2018. I liked the idea and I even recommended the article to a couple of colleagues who are trying to reorient their professional career. After the advice I added some personal disclaimers about the content, to the point that one of my friends wisely told me:
- if you don&#39;t agree with these recommendations, why don&#39;t you write your own article?</description>
+&amp;hellip;and that brought us here :-)
+The article in DZone is fine and very detailed with good recommendations but it&#39;s not realistic.</description>
     </item>
     
     <item>
@@ -210,7 +201,7 @@ I&amp;rsquo;ve been there not only to enjoy this wonderful city with its trappis
       
       <guid>https://luiyo.net/blog/2018/01/mi-2017-ludico/</guid>
       <description>Vuelvo al castellano, para dar continuidad a esta serie de análisis sobre las partidas que he jugado durante el año anterior. Podéis leer lo que escribí anteriormente en:
- 2016 2015 2014 2013 2012 2011  Todo, como ya sabéis, gracias a la manía mi hábito de registrar en Board Game Geek todas las partidas según las estoy jugando mediante esta aplicación para Android (que hace poco fue aparentemente forzada a declararse como no oficial).</description>
+ 2016 2015 2014 2013 2012 2011  Todo, como ya sabéis, gracias a la maníami hábito de registrar en Board Game Geektodas las partidas según las estoy jugando mediante esta aplicación para Android(que hace poco fue aparentemente forzada a declararse como no oficial).</description>
     </item>
     
     <item>
@@ -219,7 +210,7 @@ I&amp;rsquo;ve been there not only to enjoy this wonderful city with its trappis
       <pubDate>Sun, 31 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2017/12/brittany-a-brief-opinionated-guide/</guid>
-      <description>As explained in the previous post, I&amp;rsquo;ve recently been in Normandy and Brittany with my friend Agatha. After publishing the first part of the trip (Normandy: a brief opinionated guide) now I proceed to do the same with Brittany.
+      <description>As explained in the previous post, I&#39;ve recently been in Normandy and Brittany with my friend Agatha. After publishing the first part of the trip (Normandy: a brief opinionated guide) now I proceed to do the same with Brittany.
 It has been quite complicated because we saw a lot of awesome things and for me it still takes a lot of time (several hours) to write this kind of articles.</description>
     </item>
     
@@ -229,7 +220,7 @@ It has been quite complicated because we saw a lot of awesome things and for me 
       <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2017/12/normandy-a-brief-opinionated-guide/</guid>
-      <description>Some months ago I wrote in the blog about my road trip through the Romantikstraße in Austria. I shared the trip with Agatha and it went great, so we took advantage of the fact that we both had several pending holidays for this year and repeated the experience in two of the most beautiful regions in France: Normandy and Brittany. This post will be a summary of our experience in Normandy and hopefully I&amp;rsquo;ll be able to write a similar one for Brittany.</description>
+      <description>Some months ago I wrote in the blog about my road trip through the Romantikstraße in Austria. I shared the trip with Agatha and it went great, so we took advantage of the fact that we both had several pending holidays for this year and repeated the experience in two of the most beautiful regions in France: Normandy and Brittany. This post will be a summary of our experience in Normandy and hopefully I&#39;ll be able to write a similar one for Brittany.</description>
     </item>
     
     <item>
@@ -238,8 +229,8 @@ It has been quite complicated because we saw a lot of awesome things and for me 
       <pubDate>Fri, 17 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2017/11/big-data-spain-2017/</guid>
-      <description>Last week I attended Big Data Spain (BDS), a renowned event focused particularly on Big Data, Artificial Intelligence and Machine Learning. It&amp;rsquo;s a reference event about Big Data, not only in Spain but across Europe. The event is almost entirely held in English and attracts top level speakers and public.
-I couldn&amp;rsquo;t take a lot of notes, but I&amp;rsquo;ll summarize the talks that deserve your attention (among those that I heard):</description>
+      <description>Last week I attended Big Data Spain (BDS), a renowned event focused particularly on Big Data, Artificial Intelligence and Machine Learning. It&#39;s a reference event about Big Data, not only in Spain but across Europe. The event is almost entirely held in English and attracts top level speakers and public.
+I couldn&#39;t take a lot of notes, but I&#39;ll summarize the talks that deserve your attention (among those that I heard):</description>
     </item>
     
     <item>
@@ -257,9 +248,8 @@ I couldn&amp;rsquo;t take a lot of notes, but I&amp;rsquo;ll summarize the talks
       <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/blog/2017/09/susan-gerbic-in-skeptics-in-the-pub-madrid/</guid>
-      <description>This entry is also published in Spanish in the website of ARP-SAPC
-As you probably know, we are celebrating the XXX Anniversary of ARP-SAPC with a special event this next Saturday (Sep 30th) with Alfonso López Borgoñoz (@lopezborgonoz). As an addition to this celebration, a week later we&amp;rsquo;ll be honoured to host a Skeptics in the Pub Madrid special event with Susan Gerbic.
-Affectionately called the Wikipediatrician, Susan Gerbic is the cofounder of Monterey County Skeptics and a self-proclaimed skeptical junkie.</description>
+      <description>As you probably know, we are celebrating the XXX Anniversary of ARP-SAPC with a special event this next Saturday (Sep 30th) with Alfonso López Borgoñoz (@lopezborgonoz). As an addition to this celebration, a week later we&#39;ll be honoured to host a Skeptics in the Pub Madrid special event with Susan Gerbic.
+Affectionately called the Wikipediatrician, Susan Gerbic is the cofounder of Monterey County Skeptics and a self-proclaimed skeptical junkie. Susan is also founder of the Guerrilla Skepticism on Wikipedia (GSoW) project.</description>
     </item>
     
     <item>
@@ -288,7 +278,7 @@ Affectionately called the Wikipediatrician, Susan Gerbic is the cofounder of Mon
       
       <guid>https://luiyo.net/blog/2017/07/romantikstrasse-the-romantic-road_4/</guid>
       <description>This is the fourth part of my chronicle about our trip through the Romantikstraße, you can read the rest here:
- Romantikstraße, the Romantic Road (1 of 5) Romantikstraße, the Romantic Road (2 of 5) Romantikstraße, the Romantic Road (3 of 5) Romantikstraße, the Romantic Road (5 of 5)  Day 4 Our fourth stage started in Gästehaus Lauterbacher, a splendid guest house in Neumarkt am Wallersee. Quite off our route because we couldn&amp;rsquo;t find anything affordable in Mondsee.</description>
+ Romantikstraße, the Romantic Road (1 of 5) Romantikstraße, the Romantic Road (2 of 5) Romantikstraße, the Romantic Road (3 of 5) Romantikstraße, the Romantic Road (5 of 5)  Day 4 Our fourth stage started in Gästehaus Lauterbacher, a splendid guest house in Neumarkt am Wallersee. Quite off our route because we couldn&#39;t find anything affordable in Mondsee.</description>
     </item>
     
     <item>
@@ -2685,9 +2675,9 @@ Así como El Fantasma de la Opera me parece una gran obra, pero no me pareció u
       <pubDate>Tue, 07 Oct 2003 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/about/</guid>
-      <description>I&amp;rsquo;m a Software Engineer, FOSS Advocate and Agile Evangelist habituated to lead and coordinate development teams for various environments.
- Luis a.k.a. Luiyo, the author   I&amp;rsquo;m an active fellow of several national and international associations: ARP-SAPC and Círculo Escéptico (promoting critical thinking, in the former one as part of the Board since 2012); STE and AEFCFT (Literature and Arts); and AECC (about scientific communication and outreach).
-I&amp;rsquo;m also Member of Free Software Foundation Europe, OpenStreetMap Foundation, Spanish Red Cross, Doctors Without Borders, Amnesty International and UNHCR.</description>
+      <description>I&#39;m a Software Engineer, FOSS Advocate and Agile Evangelist habituated to lead and coordinate development teams for various environments.
+ Luis a.k.a. Luiyo, the author   I&#39;m an active fellow of several national and international associations: ARP-SAPC and Círculo Escéptico (promoting critical thinking, in the former one as part of the Board since 2012); STE and AEFCFT (Literature and Arts); and AECC (about scientific communication and outreach).
+I&#39;m also Member of Free Software Foundation Europe, OpenStreetMap Foundation, Spanish Red Cross, Doctors Without Borders, Amnesty International and UNHCR.</description>
     </item>
     
     <item>
