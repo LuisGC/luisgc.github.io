@@ -6,10 +6,19 @@
     <description>Recent content in post on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://luiyo.net/categories/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Year 2019 in Books</title>
+      <link>https://luiyo.net/blog/2020/01/my-year-2019-in-books/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2020/01/my-year-2019-in-books/</guid>
+      <description>Any Goodreads user has access to a yearly report with some statistics and basically the covers of all the books read in one year. In order to have it the user only has to set the books as read and the read date to any time in that year. Taking advantage of this nice feature I will summarize My 2019 in Books from Goodreads, as I did one year ago for my read books in 2018.</description>
+    </item>
     
     <item>
       <title>Big Things Conference and Commit Conf 2019</title>
