@@ -4,12 +4,12 @@
   
   <url>
     <loc>https://luiyo.net/blog/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/categories/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -24,17 +24,17 @@
   
   <url>
     <loc>https://luiyo.net/tags/culture/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/literature/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/tags/games/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -48,23 +48,28 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/blog/2020/01/my-year-2019-in-books/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/blog/2020/01/my-year-2019-in-games/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/personal/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/categories/post/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/review/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/tags/retrospective/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -75,6 +80,21 @@
                 hreflang="en"
                 href="https://luiyo.net/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/literature/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/blog/2020/01/my-year-2019-in-books/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/review/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -138,11 +158,6 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/personal/</loc>
-    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/tags/tourism/</loc>
     <lastmod>2019-09-29T00:00:00+00:00</lastmod>
   </url>
@@ -188,17 +203,7 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/games/</loc>
-    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/blog/2019/01/my-year-2018-in-games/</loc>
-    <lastmod>2019-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/retrospective/</loc>
     <lastmod>2019-01-13T00:00:00+00:00</lastmod>
   </url>
   

@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://luiyo.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,36 @@
     <item>
       <title>culture</title>
       <link>https://luiyo.net/tags/culture/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>games</title>
+      <link>https://luiyo.net/tags/games/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>https://luiyo.net/tags/personal/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retrospective</title>
+      <link>https://luiyo.net/tags/retrospective/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/retrospective/</guid>
       <description></description>
     </item>
     
@@ -111,15 +138,6 @@
     </item>
     
     <item>
-      <title>personal</title>
-      <link>https://luiyo.net/tags/personal/</link>
-      <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>tourism</title>
       <link>https://luiyo.net/tags/tourism/</link>
       <pubDate>Sun, 29 Sep 2019 00:00:00 +0000</pubDate>
@@ -161,24 +179,6 @@
       <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>games</title>
-      <link>https://luiyo.net/tags/games/</link>
-      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>retrospective</title>
-      <link>https://luiyo.net/tags/retrospective/</link>
-      <pubDate>Sun, 13 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/retrospective/</guid>
       <description></description>
     </item>
     
