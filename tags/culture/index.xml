@@ -6,10 +6,20 @@
     <description>Recent content in culture on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://luiyo.net/tags/culture/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FOSDEM 2020, 20 Years of FOSDEM</title>
+      <link>https://luiyo.net/blog/2020/02/fosdem-2020/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2020/02/fosdem-2020/</guid>
+      <description>It has been almost a month since I returned from another intense and thought-provoking weekend in Brussels, although it still feels like it was just yesterday. I couldn&#39;t write this before, as I have been quite busy both at work and at home.
+ FOSDEM 2020 poster   For those of you who don&#39;t know FOSDEM, it is the biggest conference in Europe (and one of the biggest around the world) related to Open Source development and communities.</description>
+    </item>
     
     <item>
       <title>My Year 2019 in Games</title>

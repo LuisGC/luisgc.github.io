@@ -12,6 +12,10 @@ blockquote{
   text-align:justify;
 }
 
+blockquote.twitter-tweet{
+  background: transparent url(../img/blog/tweet-icon.png) no-repeat left top;
+}
+
 .excerpt {
   background: transparent url(../img/blog/book_bg.jpg) no-repeat left top;
   margin: 10px 0px;

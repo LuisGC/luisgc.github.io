@@ -6,10 +6,20 @@
     <description>Recent content in maps on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Feb 2006 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jan 2012 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://luiyo.net/tags/maps/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Un año de ediciones en OpenStreetMap</title>
+      <link>https://luiyo.net/blog/2012/01/un-ano-de-ediciones-en-openstreetmap/</link>
+      <pubDate>Tue, 03 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2012/01/un-ano-de-ediciones-en-openstreetmap/</guid>
+      <description>Hoy toca hablar de uno de los servicios en los que colaboro todo lo que puedo. Se trata de OpenStreetMap, la base de datos geográficos libre. Para que entiendan su necesidad, a pesar de que contamos con servicios gratuitos de mapas a patadas, es perfecto el párrafo de introducción a la Wiki del proyecto.
+  OpenStreetMap creates and provides free geographic data such as street maps to anyone who wants them.</description>
+    </item>
     
     <item>
       <title>Mapas de metro alterados</title>

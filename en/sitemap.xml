@@ -4,12 +4,12 @@
   
   <url>
     <loc>https://luiyo.net/blog/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/categories/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -23,18 +23,38 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/culture/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/tags/computer-science/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/games/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/tags/culture/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/event/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/blog/2020/02/fosdem-2020/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/internet/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/linux/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -48,28 +68,28 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/blog/2020/01/my-year-2019-in-games/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/tags/open-source/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/personal/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/categories/post/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/retrospective/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/tags/programming/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/</loc>
-    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -80,6 +100,26 @@
                 hreflang="en"
                 href="https://luiyo.net/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/technology/</loc>
+    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/games/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/blog/2020/01/my-year-2019-in-games/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/tags/retrospective/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -99,36 +139,6 @@
   
   <url>
     <loc>https://luiyo.net/blog/2019/12/big-things-commit-conf-2019/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/computer-science/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/event/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/internet/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/open-source/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/programming/</loc>
-    <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/technology/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,17 +193,7 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/english/</loc>
-    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/blog/2019/02/fosdem-2019-sunday/</loc>
-    <lastmod>2019-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/linux/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -429,11 +429,6 @@
   
   <url>
     <loc>https://luiyo.net/blog/2014/12/escepticos-en-el-pub-madrid-enero-2015/</loc>
-    <lastmod>2014-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/press/</loc>
     <lastmod>2014-12-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -783,7 +778,7 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/tags/gadget/</loc>
+    <loc>https://luiyo.net/tags/maps/</loc>
     <lastmod>2012-01-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -1138,16 +1133,6 @@
   </url>
   
   <url>
-    <loc>https://luiyo.net/blog/2007/03/accidente-de-camion/</loc>
-    <lastmod>2007-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/cars/</loc>
-    <lastmod>2007-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://luiyo.net/blog/2007/02/alatriste/</loc>
     <lastmod>2007-02-09T00:00:00+00:00</lastmod>
   </url>
@@ -1204,11 +1189,6 @@
   
   <url>
     <loc>https://luiyo.net/blog/2006/02/mapas-de-metro-alterados/</loc>
-    <lastmod>2006-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/tags/maps/</loc>
     <lastmod>2006-02-26T00:00:00+00:00</lastmod>
   </url>
   

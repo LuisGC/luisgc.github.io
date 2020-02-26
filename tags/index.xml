@@ -6,17 +6,89 @@
     <description>Recent content in Tags on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://luiyo.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>computer-science</title>
+      <link>https://luiyo.net/tags/computer-science/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/computer-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>culture</title>
       <link>https://luiyo.net/tags/culture/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>event</title>
+      <link>https://luiyo.net/tags/event/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internet</title>
+      <link>https://luiyo.net/tags/internet/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://luiyo.net/tags/linux/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>open-source</title>
+      <link>https://luiyo.net/tags/open-source/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>https://luiyo.net/tags/personal/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://luiyo.net/tags/programming/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>technology</title>
+      <link>https://luiyo.net/tags/technology/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/technology/</guid>
       <description></description>
     </item>
     
@@ -26,15 +98,6 @@
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/tags/games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personal</title>
-      <link>https://luiyo.net/tags/personal/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/personal/</guid>
       <description></description>
     </item>
     
@@ -62,60 +125,6 @@
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/tags/review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>computer-science</title>
-      <link>https://luiyo.net/tags/computer-science/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/computer-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>event</title>
-      <link>https://luiyo.net/tags/event/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/event/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>internet</title>
-      <link>https://luiyo.net/tags/internet/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/internet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>open-source</title>
-      <link>https://luiyo.net/tags/open-source/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>https://luiyo.net/tags/programming/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>technology</title>
-      <link>https://luiyo.net/tags/technology/</link>
-      <pubDate>Sun, 08 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/technology/</guid>
       <description></description>
     </item>
     
@@ -161,24 +170,6 @@
       <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/tags/tolkien/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>english</title>
-      <link>https://luiyo.net/tags/english/</link>
-      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://luiyo.net/tags/linux/</link>
-      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/linux/</guid>
       <description></description>
     </item>
     
@@ -251,15 +242,6 @@
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/tags/economics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>press</title>
-      <link>https://luiyo.net/tags/press/</link>
-      <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/press/</guid>
       <description></description>
     </item>
     
@@ -381,11 +363,11 @@
     </item>
     
     <item>
-      <title>gadget</title>
-      <link>https://luiyo.net/tags/gadget/</link>
+      <title>maps</title>
+      <link>https://luiyo.net/tags/maps/</link>
       <pubDate>Tue, 03 Jan 2012 00:00:00 +0000</pubDate>
       
-      <guid>https://luiyo.net/tags/gadget/</guid>
+      <guid>https://luiyo.net/tags/maps/</guid>
       <description></description>
     </item>
     
@@ -422,24 +404,6 @@
       <pubDate>Sun, 10 Oct 2010 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/tags/sport/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cars</title>
-      <link>https://luiyo.net/tags/cars/</link>
-      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/cars/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>maps</title>
-      <link>https://luiyo.net/tags/maps/</link>
-      <pubDate>Sun, 26 Feb 2006 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/maps/</guid>
       <description></description>
     </item>
     

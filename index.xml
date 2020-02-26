@@ -6,10 +6,20 @@
     <description>Recent content on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://luiyo.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FOSDEM 2020, 20 Years of FOSDEM</title>
+      <link>https://luiyo.net/blog/2020/02/fosdem-2020/</link>
+      <pubDate>Tue, 25 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2020/02/fosdem-2020/</guid>
+      <description>It has been almost a month since I returned from another intense and thought-provoking weekend in Brussels, although it still feels like it was just yesterday. I couldn&#39;t write this before, as I have been quite busy both at work and at home.
+ FOSDEM 2020 poster   For those of you who don&#39;t know FOSDEM, it is the biggest conference in Europe (and one of the biggest around the world) related to Open Source development and communities.</description>
+    </item>
     
     <item>
       <title>My Year 2019 in Games</title>
@@ -157,7 +167,7 @@ My Curriculum Vitae as a traveler contains two main parts:
       <guid>https://luiyo.net/travel-cv/</guid>
       <description>(Inspired by the CV Viajero by Dendarii)
 Visited Countries  I have visited 20 out of 193 countries (among those recognized by United Nations plus the observer states). This is the list in alphabetical order:
-   Country (visiting order) Main visited places (x times)     Andorra (#2) Andorra la Vella   Austria (#15) Romantikstrasse &amp;amp; Vienna   Belgium (#13) Brussels (x4)   China (#20) Beijing &amp;amp; Great Wall   Czech Republic (#14) Kutná Hora &amp;amp; Prague (x4)   France (#10) Annecy, Auray, Bayeaux, Bordeaux, Caen, Cancale, Carcassonne, Carnac, Concarneau, Dinard, Euro Disney, Fougeres, Grenoble, Honfleur, La Loire à Vélo, Le Mans, Mont Sant Michel, Morlaix, Paris (x2), Pointe du Raz, Pont-Aven, Quimper, Rennes, Rochefort-en-Terre, Rouen, Saint Malo, Tolouse, Vannes &amp;amp; Vitré   Germany (#3) Aachen, Augsburg, Bad Mergentheim, Bonn, Cologne, Dachau, Dinkelsbühl, Donauwörth, Düsseldorf, Feuchtwangen, Füssen, Landsberg am Lech, Munich, Nördlingen, Nuremberg, Rothenburg ob der Tauber, Röttingen, Schwangau, Tauberbischofsheim, Weikersheim &amp;amp; Würzburg   Hungary (#17) Budapest   Ireland (#9) Connemara, Dublín &amp;amp; Galway   Italy (#4) Milan (x2) &amp;amp; Rome   Netherlands (#6) Amsterdam (x10), Edam, Haarlem, Marken, Noordwijk, Rotterdam (x2), Utrecht &amp;amp; Volendam   Poland (#18) Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw &amp;amp; Zakopane   Portugal (#8) Évora, Lisboa, Sintra, Tavira &amp;amp; Vila Real de Santo Antonio   Romania (#19) Bucharest   Slovakia (#16) Bratislava   Spain (#1) too many   Switzerland (#12) Aareschlucht, Almendhubel, CERN, Chillon, Geneve, Gruyeres, Interlaken, Jungfraujoch, Lausanne, Meiringen, Montreux, Mürren &amp;amp; Reichenbackfall   United Kingdom (#7) Balloch, Bath, Birmingham, Blenheim Palace, Bristol, Cambridge, Cawdor, Cromarty, Durham, Edinburgh, Glasgow, Glencoe Valley, Inverness, Isle of Skye, Loch Ness, London (x5), Luss, Manchester, Newcastle upon Tyne, Oban, Pitlochry, Oxford (x2), Stirling, Stonehenge &amp;amp; Taunton (x3)   United States (#11) New York &amp;amp; Washington D.</description>
+   Country Main visited places (x times) Visiting order     Andorra Andorra la Vella 2   Austria Romantikstrasse &amp;amp; Vienna 15   Belgium Brussels (x5) 13   China Beijing &amp;amp; Great Wall 20   Czech Republic Kutná Hora &amp;amp; Prague (x4) 14   France Annecy, Auray, Bayeaux, Bordeaux, Caen, Cancale, Carcassonne, Carnac, Concarneau, Dinard, Euro Disney, Fougeres, Grenoble, Honfleur, La Loire à Vélo, Le Mans, Mont Sant Michel, Morlaix, Paris (x3), Pointe du Raz, Pont-Aven, Quimper, Rennes, Rochefort-en-Terre, Rouen, Saint Malo, Tolouse, Vannes &amp;amp; Vitré 10   Germany Aachen, Augsburg, Bad Mergentheim, Bonn, Cologne, Dachau, Dinkelsbühl, Donauwörth, Düsseldorf, Feuchtwangen, Füssen, Landsberg am Lech, Munich, Nördlingen, Nuremberg, Rothenburg ob der Tauber, Röttingen, Schwangau, Tauberbischofsheim, Weikersheim &amp;amp; Würzburg 3   Hungary Budapest 17   Ireland Connemara, Dublín &amp;amp; Galway 9   Italy Milan (x2) &amp;amp; Rome 4   Netherlands Amsterdam (x10), Edam, Haarlem, Marken, Noordwijk, Rotterdam (x2), Utrecht &amp;amp; Volendam 6   Poland Austchwitz, Katowice (x2), Krakow, Wieliczka, Wroclaw &amp;amp; Zakopane 18   Portugal Évora, Lisboa, Sintra, Tavira &amp;amp; Vila Real de Santo Antonio 8   Romania Bucharest 19   Slovakia Bratislava 16   Spain too many 1   Switzerland Aareschlucht, Almendhubel, CERN, Chillon, Geneve, Gruyeres, Interlaken, Jungfraujoch, Lausanne, Meiringen, Montreux, Mürren &amp;amp; Reichenbackfall 12   United Kingdom Balloch, Bath, Birmingham, Blenheim Palace, Bristol, Cambridge, Cawdor, Cromarty, Durham, Edinburgh, Glasgow, Glencoe Valley, Inverness, Isle of Skye, Loch Ness, London (x5), Luss, Manchester, Newcastle upon Tyne, Oban, Pitlochry, Oxford (x2), Stirling, Stonehenge &amp;amp; Taunton (x3) 7   United States New York &amp;amp; Washington D.</description>
     </item>
     
     <item>
@@ -1700,16 +1710,6 @@ Al entrar, la aplicación nos muestra, o bien los argumentos más frecuentes uti
       <description>Por fin llegó el pedido que hice hace unos días a Forbidden Planet. Lo quise pedir hace tiempo, estaba agotado y me inscribí para recibir un aviso cuando estuviera disponible.
 Mereció la pena la espera.
   Y de paso compré otras cosillas y un segundo abrebotellas para regalar a mi hermano :-D</description>
-    </item>
-    
-    <item>
-      <title>Accidente de camión</title>
-      <link>https://luiyo.net/blog/2007/03/accidente-de-camion/</link>
-      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/blog/2007/03/accidente-de-camion/</guid>
-      <description>Hoy, a eso de las 19:00, ha estado a punto de caerme un camión encima. Literal. Seré breve.
-El camión-grúa venía en dirección opuesta a la mía, a bastante velocidad, y con la pluma levantada sin darse cuenta. El choque contra el puente ha sido bestial, el camión levantó el morro bastante y terminó volcando hacia su derecha (según el sentido de su marcha) derramando varios palés de ladrillos.</description>
     </item>
     
     <item>
