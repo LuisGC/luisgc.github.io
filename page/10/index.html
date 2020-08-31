@@ -16,90 +16,113 @@
 <meta name="twitter:title" content="Luiyología"/>
 <meta name="twitter:description" content=""/>
 <meta name="twitter:site" content="@luiyo"/>
-<link rel="stylesheet" href="/css/bundle.min.890f30b8b199a3d390afae9cf9f69d7a932a6a7d91fc3a3b9e5b9d780c334432.css" integrity="sha256-iQ8wuLGZo9OQr66c&#43;fadepMqan2R/Do7nludeAwzRDI=">
-        <link rel="stylesheet" href="/css/add-on.css">
+
+            <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/github.min.css">
+          <link rel="stylesheet" href="/css/bundle.min.8df311819411947f1beecd75c1459077fd820fcdb9840075ba4beb1be2e8a641.css" integrity="sha256-jfMRgZQRlH8b7s11wUWQd/2CD825hAB1ukvrG&#43;LopkE="><link rel="stylesheet" href="/css/add-on.css">
         <link rel="stylesheet" href="/css/luiyologia.css">
 </head>
 
   <body>
     
+
+  <div id="theme-message" style="background-color:#3c3b3b;color:#f4f4f4;margin:auto auto;padding:.25em 2em;width:75%;">
+    <p style="text-align:center;">This message, related to the development of the theme, only displays on the
+      <code>localhost</code> homepage to notify you of any important theme changes.</p>
+      <hr>
+      <h5 style="color:#f4f4f4;text-align:center;"><i class="fas fa-exclamation-triangle"></i>Version 2.0.0 - July 20, 2020<i class="fas fa-exclamation-triangle"></i></h5>
+    <p>Below are the following changes that <em>could</em> be breaking changes for your site. For more details on any change, please refer to <a href="https://github.com/pacollins/hugo-future-imperfect-slim/pull/154">PR #154</a>.</p>
+<p>The major breaking change is:</p>
+<ol>
+<li>Users that have front matter that utilize <code>images</code> (backwards compatibility for <code>featured</code> and associated parameters still remains) <em>will</em> need to adjust from <code>[images]=&quot;SRC&quot;</code> to the new format.</li>
+</ol>
+<pre><code>[[images]]
+    src = &quot;&quot; // Link to image
+    alt = &quot;&quot; // Alt text for image
+    stretch = // Optional: See screenshots for referenced values and outcomes
+</code></pre><p>If you utilize any of the following, there <em>might</em> be a breaking:</p>
+<ol>
+<li>User custom templates <em>may</em> require adjustment.</li>
+<li>User custom i18n languages, or custom templates referencing i18n translations <em>may</em> require adjustment.</li>
+<li>User custom template for comments <em>will</em> require adjustment <em>if</em> it uses the theme's CSS and/or JS.</li>
+<li>User custom CSS <em>may</em> need to adjust due to a variety of class name changes and specificity changes.</li>
+</ol>
+<p>While I realize this is inconvenient, I hope that it is worth it to you in the long run. Thanks for using the theme, and feel free to submit issues as needed.</p>
+
+    <div style="text-align:center;">
+      <button onclick="removeBox()" class="button" style="color:#f4f4f4;margin-bottom:1em;">Close Notification Until Next Update</button>
+    </div>
+    <script>
+      if (window.location.href.indexOf('localhost:') < 1 || window.localStorage.getItem('HFIS-version') == '2.0.0') {
+        document.getElementsByTagName("body")[0].removeChild(document.getElementById("theme-message"));
+      }
+      function removeBox() {
+        window.localStorage.setItem('HFIS-version', '2.0.0');
+        document.getElementsByTagName("body")[0].removeChild(document.getElementById("theme-message"));
+      }
+    </script>
+  </div>
 <header id="site-header">
   <nav id="site-nav">
     <h1 class="nav-title">
-      <a href="/">
+      <a href="/" class="nav">
         
           Luiyología
         
       </a>
     </h1>
-    <menu id="site-nav-menu" class="flyout-menu">
+    <menu id="site-nav-menu" class="flyout-menu menu">
       
         
           
-          
-            <a href="/" class="link"><i class='fa fa-home'></i> Home</a>
-          
-        
-      
-        
-          
-          
-            <a href="/about/" class="link"><i class='far fa-id-card'></i> About</a>
-          
+          <a href="/" class="nav link"><i class='fa fa-home'></i> Home</a>
         
       
         
           
-          
-            <a href="/blog/" class="link"><i class='far fa-newspaper'></i> Blog</a>
-          
+          <a href="/about/" class="nav link"><i class='far fa-id-card'></i> About</a>
         
       
         
           
-          
-            <a href="/tags/" class="link"><i class='fas fa-tags'></i> Tags</a>
-          
+          <a href="/blog/" class="nav link"><i class='far fa-newspaper'></i> Blog</a>
         
       
         
           
-          
-            <a href="/travel-cv/" class="link"><i class='fas fa-globe-europe'></i> Travel CV</a>
-          
+          <a href="/tags/" class="nav link"><i class='fas fa-tags'></i> Tags</a>
         
       
         
           
-          
-            <a href="/talks/" class="link"><i class='fas fa-microphone'></i> Talks</a>
-          
+          <a href="/travel-cv/" class="nav link"><i class='fas fa-globe-europe'></i> Travel CV</a>
         
       
         
           
+          <a href="/talks/" class="nav link"><i class='fas fa-microphone'></i> Talks</a>
+        
+      
+        
           
-            <a href="/blog/feed.xml" class="link"><i class='fas fa-rss'></i> RSS</a>
-          
+          <a href="/blog/feed.xml" class="nav link"><i class='fas fa-rss'></i> RSS</a>
         
       
       
-      
-
+      <a href="#search-input" class="nav link search-toggle"><i class="fas fa-search">&nbsp;</i>Search</a>
     </menu>
+    <a href="#search-input" class="nav search-toggle"><i class="fas fa-search fa-2x">&nbsp;</i></a>
     
-
     
-    
-    <a href="#site-nav" class="nav-toggle"><i class="fas fa-bars fa-2x"></i></a>
+    <a href="#site-nav" class="nav nav-toggle"><i class="fas fa-bars fa-2x"></i></a>
   </nav>
+  <menu id="search" class="menu"><input id="search-input" class="search-input menu"></input><div id="search-results" class="search-results menu"></div></menu>
   
   
 </header>
 
     <div id="wrapper">
       <section id="site-intro" >
-  <a href="/"><img src="/img/main/Luiyologia-twitterlogo.png" class="" width="300" alt="Luiyología" /></a>
+  <a href="/"><img src="https://luiyo.net/img/main/Luiyologia-twitterlogo.png" width="300" alt="Luiyología" /></a>
   <header>
     
   </header>
@@ -152,6 +175,7 @@
 
 
 
+
 <li><a href="mailto:luiyologia@gmail.com" target="_blank" title="Email" class="far fa-envelope"></a></li>
 
       </ul>
@@ -161,8 +185,9 @@
 
       <main id="site-main">
         
-        
-          <article class="post">
+  
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -171,71 +196,56 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-03-19 00:00:00 &#43;0000 UTC">
-      March 19, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>7 minute read</p>
-    
+    <time datetime="2012-03-19 00:00:00 &#43;0000 UTC">March 19, 2012</time>
+    <p>LuisGC</p>
+    <p>7-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
 
-  
-  <p>Por fin saco un rato, con un mes de retraso, para hablar del evento <a href="http://springio.net/"><b>Spring I/O 2012</b></a>. A estas alturas lo fácil habría sido dejarlo estar, pero en mi empresa me han recordado que por algo me "designaron" como representante y autorizaron mi asistencia. Como primer paso para compartir lo vivido con mis compañeros (en forma de presentación si sacase tiempo), dejaré aquí un resumen de las notas que tomé. Omitiré en el blog las anotaciones más técnicas.</p>
+    
+    <p>Por fin saco un rato, con un mes de retraso, para hablar del evento <a href="http://springio.net/"><b>Spring I/O 2012</b></a>. A estas alturas lo fácil habría sido dejarlo estar, pero en mi empresa me han recordado que por algo me "designaron" como representante y autorizaron mi asistencia. Como primer paso para compartir lo vivido con mis compañeros (en forma de presentación si sacase tiempo), dejaré aquí un resumen de las notas que tomé. Omitiré en el blog las anotaciones más técnicas.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/03/spring-io-2012/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/03/spring-io-2012/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/open-source">open-source</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/technology">technology</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/programming">programming</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/internet">internet</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/computer-science">computer-science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/open-source/">open-source</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/technology/">technology</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/programming/">programming</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/internet/">internet</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/computer-science/">computer-science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -244,17 +254,14 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-03-13 00:00:00 &#43;0000 UTC">
-      March 13, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>2 minute read</p>
-    
+    <time datetime="2012-03-13 00:00:00 &#43;0000 UTC">March 13, 2012</time>
+    <p>LuisGC</p>
+    <p>2-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
     
 
     
@@ -270,56 +277,45 @@
     
 
 
-  
-  <p>Hoy 13 de Marzo tendrá lugar en Londres una cita que podría ser interesante para muchos de miembros de la <a href="http://aecomunicacioncientifica.org/"><b>Asociación Española de Comunicación Científica</b></a> así como para los lectores de su <a href="http://aecomunicacioncientifica.org/es/blog.html">blog</a>. Se trata del evento <a href="http://www.rigb.org/contentControl?action=displayEvent&id=1232"><i><b>Scientists and journalists need different things from science. Discuss</b></i></a> organizado por <a href="http://www.rigb.org/"><b>The Royal Institution</b></a>, en el que se pretende debatir sobre la función de ambos perfiles en torno a la ciencia, así como las relaciones que hay entre ellos y cómo mejorarlas.</p>
+    
+    <p>Hoy 13 de Marzo tendrá lugar en Londres una cita que podría ser interesante para muchos de miembros de la <a href="http://aecomunicacioncientifica.org/"><b>Asociación Española de Comunicación Científica</b></a> así como para los lectores de su <a href="http://aecomunicacioncientifica.org/es/blog.html">blog</a>. Se trata del evento <a href="http://www.rigb.org/contentControl?action=displayEvent&id=1232"><i><b>Scientists and journalists need different things from science. Discuss</b></i></a> organizado por <a href="http://www.rigb.org/"><b>The Royal Institution</b></a>, en el que se pretende debatir sobre la función de ambos perfiles en torno a la ciencia, así como las relaciones que hay entre ellos y cómo mejorarlas.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/03/cientificos-y-periodistas-necesitan-de/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/03/cientificos-y-periodistas-necesitan-de/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/history">history</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/history/">history</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -328,17 +324,14 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-03-09 00:00:00 &#43;0000 UTC">
-      March 9, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>4 minute read</p>
-    
+    <time datetime="2012-03-09 00:00:00 &#43;0000 UTC">March 9, 2012</time>
+    <p>LuisGC</p>
+    <p>4-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
     
 
     
@@ -354,71 +347,55 @@
     
 
 
-  
-  <p>Este fin de semana estaré en <a href="http://en.wikipedia.org/wiki/Manchester"><b>Manchester</b></a>, <b>Reino Unido</b>, disfrutando como un enano en uno de los principales eventos a nivel mundial sobre pensamiento crítico y divulgación científica. Siento no haber sacado tiempo (a nadie le sorprenderá) para una entrada más elaborada, lo cierto es que tengo comprada la entrada, el vuelo y la habitación de hotel desde hace varios meses.</p>
+    
+    <p>Este fin de semana estaré en <a href="http://en.wikipedia.org/wiki/Manchester"><b>Manchester</b></a>, <b>Reino Unido</b>, disfrutando como un enano en uno de los principales eventos a nivel mundial sobre pensamiento crítico y divulgación científica. Siento no haber sacado tiempo (a nadie le sorprenderá) para una entrada más elaborada, lo cierto es que tengo comprada la entrada, el vuelo y la habitación de hotel desde hace varios meses.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/03/qed-2012-question-explore-discover/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/03/qed-2012-question-explore-discover/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/solidarity">solidarity</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/technology">technology</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/magic">magic</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/tourism">tourism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/personal">personal</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/solidarity/">solidarity</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/technology/">technology</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/magic/">magic</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/tourism/">tourism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/personal/">personal</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -427,77 +404,60 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-03-04 00:00:00 &#43;0000 UTC">
-      March 4, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>2 minute read</p>
-    
+    <time datetime="2012-03-04 00:00:00 &#43;0000 UTC">March 4, 2012</time>
+    <p>LuisGC</p>
+    <p>2-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
 
-  
-  <p>En Febrero hicimos doblete y tuvimos dos ediciones épicas de <a href="http://enelpub.escepticos.es/"><b>Escépticos en el Pub Madrid</b></a>. Como la segunda de ellas fue este pasado fin de semana, en Marzo retrasamos el evento del habitual primer sábado al segundo.</p>
+    
+    <p>En Febrero hicimos doblete y tuvimos dos ediciones épicas de <a href="http://enelpub.escepticos.es/"><b>Escépticos en el Pub Madrid</b></a>. Como la segunda de ellas fue este pasado fin de semana, en Marzo retrasamos el evento del habitual primer sábado al segundo.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/03/escepticos-en-el-pub-madrid-marzo-2012/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/03/escepticos-en-el-pub-madrid-marzo-2012/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skeptics-in-the-pub">skeptics-in-the-pub</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/technology">technology</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/economics">economics</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/politics">politics</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/internet">internet</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/skeptics-in-the-pub/">skeptics-in-the-pub</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/technology/">technology</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/economics/">economics</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/politics/">politics</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/internet/">internet</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -506,68 +466,54 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-03-02 00:00:00 &#43;0000 UTC">
-      March 2, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>2 minute read</p>
-    
+    <time datetime="2012-03-02 00:00:00 &#43;0000 UTC">March 2, 2012</time>
+    <p>LuisGC</p>
+    <p>2-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
 
-  
-  <p>Aunque no puedo decir que haya viajado poco recientemente (y lo que me espera), llevo esperando bastante tiempo que llegue este fin de semana. Tengo previsto pasar del 3 al 5 de Marzo en <a href="http://es.wikipedia.org/wiki/La_Almunia_de_Do%C3%B1a_Godina"><b>La Almunia de Doña Godina</b></a> (<a href="http://es.wikipedia.org/wiki/Provincia_de_Zaragoza"><b>Zaragoza</b></a>) con motivo del <a href="http://www.asociacionludo.com/blog/2012/01/17/i-encuentro-de-protos-y-tips/"><b>I Encuentro de Protos y Tip@s</b></a> de la <a href="http://www.asociacionludo.com/"><b>Asociación Ludo</b> (<b>Asociación de Creadores de Juegos de Mesa</b>)</a>.</p>
+    
+    <p>Aunque no puedo decir que haya viajado poco recientemente (y lo que me espera), llevo esperando bastante tiempo que llegue este fin de semana. Tengo previsto pasar del 3 al 5 de Marzo en <a href="http://es.wikipedia.org/wiki/La_Almunia_de_Do%C3%B1a_Godina"><b>La Almunia de Doña Godina</b></a> (<a href="http://es.wikipedia.org/wiki/Provincia_de_Zaragoza"><b>Zaragoza</b></a>) con motivo del <a href="http://www.asociacionludo.com/blog/2012/01/17/i-encuentro-de-protos-y-tips/"><b>I Encuentro de Protos y Tip@s</b></a> de la <a href="http://www.asociacionludo.com/"><b>Asociación Ludo</b> (<b>Asociación de Creadores de Juegos de Mesa</b>)</a>.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/03/i-encuentro-de-protos-y-tips-de-ludo/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/03/i-encuentro-de-protos-y-tips-de-ludo/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/holidays">holidays</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/tourism">tourism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/games">games</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/holidays/">holidays</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/tourism/">tourism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/games/">games</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -576,17 +522,14 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-02-17 00:00:00 &#43;0000 UTC">
-      February 17, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>3 minute read</p>
-    
+    <time datetime="2012-02-17 00:00:00 &#43;0000 UTC">February 17, 2012</time>
+    <p>LuisGC</p>
+    <p>3-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
     
 
     
@@ -602,65 +545,51 @@
     
 
 
-  
-  <p>(Esta entrada se publicó hace 24 horas en el blog de <a href="http://stasalicante.blogspot.com/"><b>Street Alicante Science</b></a>)</p>
+    
+    <p>(Esta entrada se publicó hace 24 horas en el blog de <a href="http://stasalicante.blogspot.com/"><b>Street Alicante Science</b></a>)</p>
+  </div>
   <footer>
-    <a href="/blog/2012/02/divulgacion-20-de-todos-y-para-todos/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/02/divulgacion-20-de-todos-y-para-todos/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/news">news</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/technology">technology</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/internet">internet</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/computer-science">computer-science</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/news/">news</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/technology/">technology</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/internet/">internet</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/computer-science/">computer-science</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -669,74 +598,58 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-02-09 00:00:00 &#43;0000 UTC">
-      February 9, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>1 minute read</p>
-    
+    <time datetime="2012-02-09 00:00:00 &#43;0000 UTC">February 9, 2012</time>
+    <p>LuisGC</p>
+    <p>1-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
 
-  
-  <p>En Febrero tenemos doble sesión de <a href="http://enelpub.escepticos.es/"><b>Escépticos en el Pub Madrid</b></a>. Ya tuvimos a <a href="https://twitter.com/#!/medicorazon"><b>Julián Palacios</b></a> (<a href="http://perarduaadastra.eu/"><b><i>Per Ardua ad Astra</i></b></a>) hablando de <a href="/blog/2012/01/escepticos-en-el-pub-madrid-febrero/">Medicina futurista</a> y a finales de mes contaremos con un extra especial.</p>
+    
+    <p>En Febrero tenemos doble sesión de <a href="http://enelpub.escepticos.es/"><b>Escépticos en el Pub Madrid</b></a>. Ya tuvimos a <a href="https://twitter.com/#!/medicorazon"><b>Julián Palacios</b></a> (<a href="http://perarduaadastra.eu/"><b><i>Per Ardua ad Astra</i></b></a>) hablando de <a href="/blog/2012/01/escepticos-en-el-pub-madrid-febrero/">Medicina futurista</a> y a finales de mes contaremos con un extra especial.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/02/escepticos-en-el-pub-madrid-febrero/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/02/escepticos-en-el-pub-madrid-febrero/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skeptics-in-the-pub">skeptics-in-the-pub</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/music">music</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/humour">humour</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/skeptics-in-the-pub/">skeptics-in-the-pub</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/music/">music</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/humour/">humour</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -745,17 +658,14 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-02-05 00:00:00 &#43;0000 UTC">
-      February 5, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>5 minute read</p>
-    
+    <time datetime="2012-02-05 00:00:00 &#43;0000 UTC">February 5, 2012</time>
+    <p>LuisGC</p>
+    <p>5-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
     
 
     
@@ -771,68 +681,53 @@
     
 
 
-  
-  <p>Como algunos sin duda ya sabréis el pasado fin de semana se celebró <strong><a href="http://es.skepticamp.org/wiki/SkeptiCamp_Madrid_2012" target="_blank">SkeptiCamp Madrid 2012</a></strong>, por primera vez en un país de habla no inglesa, el primero por tanto en castellano y en España, cuya organización tuve el honor y el privilegio de coordinar y dirigir.</p>
+    
+    <p>Como algunos sin duda ya sabréis el pasado fin de semana se celebró <strong><a href="http://es.skepticamp.org/wiki/SkeptiCamp_Madrid_2012" target="_blank">SkeptiCamp Madrid 2012</a></strong>, por primera vez en un país de habla no inglesa, el primero por tanto en castellano y en España, cuya organización tuve el honor y el privilegio de coordinar y dirigir.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/02/skepticamp-eventos-abiertos-de/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/02/skepticamp-eventos-abiertos-de/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/technology">technology</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticamp">skepticamp</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/economics">economics</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/internet">internet</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/technology/">technology</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticamp/">skepticamp</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/economics/">economics</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/internet/">internet</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -841,17 +736,14 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-01-26 00:00:00 &#43;0000 UTC">
-      January 26, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>7 minute read</p>
-    
+    <time datetime="2012-01-26 00:00:00 &#43;0000 UTC">January 26, 2012</time>
+    <p>LuisGC</p>
+    <p>7-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
     
 
     
@@ -867,68 +759,53 @@
     
 
 
-  
-  <p>Por algún extraño motivo no he hablado hasta ahora de uno de los proyectos a los que más tiempo de ocio (ocio puro) he dedicado en los últimos meses: la promoción en castellano a nivel global del modelo <a href="http://es.skepticamp.org/"><b>SkeptiCamp</b></a> (lo que llamamos ESkeptiCamp) y en concreto la organización de <a href="http://es.skepticamp.org/wiki/SkeptiCamp_Madrid_2012"><b>SkeptiCamp Madrid 2012</b></a>, que se llevará a cabo este próximo <b>Sábado 28 de Enero</b> en <b>Madrid</b>. Vayamos por partes.</p>
+    
+    <p>Por algún extraño motivo no he hablado hasta ahora de uno de los proyectos a los que más tiempo de ocio (ocio puro) he dedicado en los últimos meses: la promoción en castellano a nivel global del modelo <a href="http://es.skepticamp.org/"><b>SkeptiCamp</b></a> (lo que llamamos ESkeptiCamp) y en concreto la organización de <a href="http://es.skepticamp.org/wiki/SkeptiCamp_Madrid_2012"><b>SkeptiCamp Madrid 2012</b></a>, que se llevará a cabo este próximo <b>Sábado 28 de Enero</b> en <b>Madrid</b>. Vayamos por partes.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/01/skepticamp-madrid-2012/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/01/skepticamp-madrid-2012/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/technology">technology</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticamp">skepticamp</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/economics">economics</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/internet">internet</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/technology/">technology</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticamp/">skepticamp</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/economics/">economics</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/internet/">internet</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -937,93 +814,75 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-01-25 00:00:00 &#43;0000 UTC">
-      January 25, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>2 minute read</p>
-    
+    <time datetime="2012-01-25 00:00:00 &#43;0000 UTC">January 25, 2012</time>
+    <p>LuisGC</p>
+    <p>2-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
 
-  
-  <p>En cuestión de dos semanas vuelve <a href="http://www.escepticos.es/?q=blog/14"><b>Escépticos en el Pub Madrid</b></a>, esta vez con un tema tremendamente interesante y apto para todo tipo de público interesado en la ciencia y la medicina, no exclusivamente escéptico. En parte por esta sensación (y deseo) hemos recuperado la sana costumbre de preparar el cartel del evento, servirá para darle una mejor difusión a la cita y nos permitirá captar lugareños curiosos.</p>
+    
+    <p>En cuestión de dos semanas vuelve <a href="http://www.escepticos.es/?q=blog/14"><b>Escépticos en el Pub Madrid</b></a>, esta vez con un tema tremendamente interesante y apto para todo tipo de público interesado en la ciencia y la medicina, no exclusivamente escéptico. En parte por esta sensación (y deseo) hemos recuperado la sana costumbre de preparar el cartel del evento, servirá para darle una mejor difusión a la cita y nos permitirá captar lugareños curiosos.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/01/escepticos-en-el-pub-madrid-febrero/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/01/escepticos-en-el-pub-madrid-febrero/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skeptics-in-the-pub">skeptics-in-the-pub</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/health">health</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/skeptics-in-the-pub/">skeptics-in-the-pub</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/health/">health</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-        
-<div class="pagination">
   
-    <a href="/page/9/" class="button big previous"><i class="fas fa-angle-left"></i></a>
-  
-  
-    <a href="/page/11/" class="button big next"><i class="fas fa-angle-right"></i></a>
-  
-</div>
+  <div class="pagination">
+    
+      <a href="/page/9/" class="button left"><span>Previous Page</span></a>
+    
+    
+      <a href="/page/11/" class="button right"><span>Next Page</span></a>
+    
+  </div>
 
       </main>
       <section id="site-sidebar">
   
     <section id="recent-posts">
       <header>
-        <h1>Recent posts</h1>
+        <h1>Recent Posts</h1>
       </header>
       
       <article class="mini-post">
-        <section>
           
     
 
@@ -1040,15 +899,13 @@
     
 
 
-        </section>
         <header>
-          <h1><a href="/blog/2020/02/fosdem-2020/">FOSDEM 2020, 20 Years of FOSDEM</a></h1>
-          <time class="published" datetime="">February 25, 2020</time>
+          <h2><a href="/blog/2020/02/fosdem-2020/">FOSDEM 2020, 20 Years of FOSDEM</a></h2>
+          <time class="published" datetime="2020-02-25 00:00:00 &#43;0000 UTC">February 25, 2020</time>
         </header>
       </article>
       
       <article class="mini-post">
-        <section>
           
     
 
@@ -1065,15 +922,13 @@
     
 
 
-        </section>
         <header>
-          <h1><a href="/blog/2020/01/my-year-2019-in-games/">My Year 2019 in Games</a></h1>
-          <time class="published" datetime="">January 5, 2020</time>
+          <h2><a href="/blog/2020/01/my-year-2019-in-games/">My Year 2019 in Games</a></h2>
+          <time class="published" datetime="2020-01-05 00:00:00 &#43;0000 UTC">January 5, 2020</time>
         </header>
       </article>
       
       <article class="mini-post">
-        <section>
           
     
 
@@ -1090,15 +945,13 @@
     
 
 
-        </section>
         <header>
-          <h1><a href="/blog/2020/01/my-year-2019-in-books/">My Year 2019 in Books</a></h1>
-          <time class="published" datetime="">January 2, 2020</time>
+          <h2><a href="/blog/2020/01/my-year-2019-in-books/">My Year 2019 in Books</a></h2>
+          <time class="published" datetime="2020-01-02 00:00:00 &#43;0000 UTC">January 2, 2020</time>
         </header>
       </article>
       
       <article class="mini-post">
-        <section>
           
     
 
@@ -1115,15 +968,13 @@
     
 
 
-        </section>
         <header>
-          <h1><a href="/blog/2019/12/big-things-commit-conf-2019/">Big Things Conference and Commit Conf 2019</a></h1>
-          <time class="published" datetime="">December 8, 2019</time>
+          <h2><a href="/blog/2019/12/big-things-commit-conf-2019/">Big Things Conference and Commit Conf 2019</a></h2>
+          <time class="published" datetime="2019-12-08 00:00:00 &#43;0000 UTC">December 8, 2019</time>
         </header>
       </article>
       
       <article class="mini-post">
-        <section>
           
     
 
@@ -1140,16 +991,15 @@
     
 
 
-        </section>
         <header>
-          <h1><a href="/blog/2019/09/pekin-guia-breve/">Pekín: una guía breve</a></h1>
-          <time class="published" datetime="">September 29, 2019</time>
+          <h2><a href="/blog/2019/09/pekin-guia-breve/">Pekín: una guía breve</a></h2>
+          <time class="published" datetime="2019-09-29 00:00:00 &#43;0000 UTC">September 29, 2019</time>
         </header>
       </article>
       
       
         <footer>
-          <a href="/blog/" class="button">See more</a>
+          <a href="/blog/" class="button">See More</a>
         </footer>
       
     </section>
@@ -1173,19 +1023,16 @@
       <footer id="site-footer">
   
   <p class="copyright">
-    
-      &copy; 2020
-      
-        Luiyología
-      
-    . <br>
+    © 2020 Luiyología
+      <br>
     Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='0.60.1' target='_blank' rel='noopener'>Hugo</a>
   </p>
 </footer>
 <a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
 
-      <script src="/js/highlight.pack.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script><script src="/js/bundle.min.e0c399b948d3cf5c3a5e3badb94023d0b064a19ac39fd8cd79fb9f57fa4d1091.js" integrity="sha256-4MOZuUjTz1w6XjutuUAj0LBkoZrDn9jNefufV/pNEJE="></script>
+      <script src="/js/highlight.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/languages/html.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/languages/css.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/languages/js.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/languages/toml.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script><script src="/js/bundle.min.b4e669fa428a81defb8af0916c53f39cd1b8e0bbab22199c06f0b182907ba474.js" integrity="sha256-tOZp&#43;kKKgd77ivCRbFPznNG44LurIhmcBvCxgpB7pHQ="></script>
     <script src="/js/add-on.js"></script>
 <script type="application/javascript">
 var doNotTrack = false;

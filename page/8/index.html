@@ -16,90 +16,113 @@
 <meta name="twitter:title" content="Luiyología"/>
 <meta name="twitter:description" content=""/>
 <meta name="twitter:site" content="@luiyo"/>
-<link rel="stylesheet" href="/css/bundle.min.890f30b8b199a3d390afae9cf9f69d7a932a6a7d91fc3a3b9e5b9d780c334432.css" integrity="sha256-iQ8wuLGZo9OQr66c&#43;fadepMqan2R/Do7nludeAwzRDI=">
-        <link rel="stylesheet" href="/css/add-on.css">
+
+            <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/github.min.css">
+          <link rel="stylesheet" href="/css/bundle.min.8df311819411947f1beecd75c1459077fd820fcdb9840075ba4beb1be2e8a641.css" integrity="sha256-jfMRgZQRlH8b7s11wUWQd/2CD825hAB1ukvrG&#43;LopkE="><link rel="stylesheet" href="/css/add-on.css">
         <link rel="stylesheet" href="/css/luiyologia.css">
 </head>
 
   <body>
     
+
+  <div id="theme-message" style="background-color:#3c3b3b;color:#f4f4f4;margin:auto auto;padding:.25em 2em;width:75%;">
+    <p style="text-align:center;">This message, related to the development of the theme, only displays on the
+      <code>localhost</code> homepage to notify you of any important theme changes.</p>
+      <hr>
+      <h5 style="color:#f4f4f4;text-align:center;"><i class="fas fa-exclamation-triangle"></i>Version 2.0.0 - July 20, 2020<i class="fas fa-exclamation-triangle"></i></h5>
+    <p>Below are the following changes that <em>could</em> be breaking changes for your site. For more details on any change, please refer to <a href="https://github.com/pacollins/hugo-future-imperfect-slim/pull/154">PR #154</a>.</p>
+<p>The major breaking change is:</p>
+<ol>
+<li>Users that have front matter that utilize <code>images</code> (backwards compatibility for <code>featured</code> and associated parameters still remains) <em>will</em> need to adjust from <code>[images]=&quot;SRC&quot;</code> to the new format.</li>
+</ol>
+<pre><code>[[images]]
+    src = &quot;&quot; // Link to image
+    alt = &quot;&quot; // Alt text for image
+    stretch = // Optional: See screenshots for referenced values and outcomes
+</code></pre><p>If you utilize any of the following, there <em>might</em> be a breaking:</p>
+<ol>
+<li>User custom templates <em>may</em> require adjustment.</li>
+<li>User custom i18n languages, or custom templates referencing i18n translations <em>may</em> require adjustment.</li>
+<li>User custom template for comments <em>will</em> require adjustment <em>if</em> it uses the theme's CSS and/or JS.</li>
+<li>User custom CSS <em>may</em> need to adjust due to a variety of class name changes and specificity changes.</li>
+</ol>
+<p>While I realize this is inconvenient, I hope that it is worth it to you in the long run. Thanks for using the theme, and feel free to submit issues as needed.</p>
+
+    <div style="text-align:center;">
+      <button onclick="removeBox()" class="button" style="color:#f4f4f4;margin-bottom:1em;">Close Notification Until Next Update</button>
+    </div>
+    <script>
+      if (window.location.href.indexOf('localhost:') < 1 || window.localStorage.getItem('HFIS-version') == '2.0.0') {
+        document.getElementsByTagName("body")[0].removeChild(document.getElementById("theme-message"));
+      }
+      function removeBox() {
+        window.localStorage.setItem('HFIS-version', '2.0.0');
+        document.getElementsByTagName("body")[0].removeChild(document.getElementById("theme-message"));
+      }
+    </script>
+  </div>
 <header id="site-header">
   <nav id="site-nav">
     <h1 class="nav-title">
-      <a href="/">
+      <a href="/" class="nav">
         
           Luiyología
         
       </a>
     </h1>
-    <menu id="site-nav-menu" class="flyout-menu">
+    <menu id="site-nav-menu" class="flyout-menu menu">
       
         
           
-          
-            <a href="/" class="link"><i class='fa fa-home'></i> Home</a>
-          
-        
-      
-        
-          
-          
-            <a href="/about/" class="link"><i class='far fa-id-card'></i> About</a>
-          
+          <a href="/" class="nav link"><i class='fa fa-home'></i> Home</a>
         
       
         
           
-          
-            <a href="/blog/" class="link"><i class='far fa-newspaper'></i> Blog</a>
-          
+          <a href="/about/" class="nav link"><i class='far fa-id-card'></i> About</a>
         
       
         
           
-          
-            <a href="/tags/" class="link"><i class='fas fa-tags'></i> Tags</a>
-          
+          <a href="/blog/" class="nav link"><i class='far fa-newspaper'></i> Blog</a>
         
       
         
           
-          
-            <a href="/travel-cv/" class="link"><i class='fas fa-globe-europe'></i> Travel CV</a>
-          
+          <a href="/tags/" class="nav link"><i class='fas fa-tags'></i> Tags</a>
         
       
         
           
-          
-            <a href="/talks/" class="link"><i class='fas fa-microphone'></i> Talks</a>
-          
+          <a href="/travel-cv/" class="nav link"><i class='fas fa-globe-europe'></i> Travel CV</a>
         
       
         
           
+          <a href="/talks/" class="nav link"><i class='fas fa-microphone'></i> Talks</a>
+        
+      
+        
           
-            <a href="/blog/feed.xml" class="link"><i class='fas fa-rss'></i> RSS</a>
-          
+          <a href="/blog/feed.xml" class="nav link"><i class='fas fa-rss'></i> RSS</a>
         
       
       
-      
-
+      <a href="#search-input" class="nav link search-toggle"><i class="fas fa-search">&nbsp;</i>Search</a>
     </menu>
+    <a href="#search-input" class="nav search-toggle"><i class="fas fa-search fa-2x">&nbsp;</i></a>
     
-
     
-    
-    <a href="#site-nav" class="nav-toggle"><i class="fas fa-bars fa-2x"></i></a>
+    <a href="#site-nav" class="nav nav-toggle"><i class="fas fa-bars fa-2x"></i></a>
   </nav>
+  <menu id="search" class="menu"><input id="search-input" class="search-input menu"></input><div id="search-results" class="search-results menu"></div></menu>
   
   
 </header>
 
     <div id="wrapper">
       <section id="site-intro" >
-  <a href="/"><img src="/img/main/Luiyologia-twitterlogo.png" class="" width="300" alt="Luiyología" /></a>
+  <a href="/"><img src="https://luiyo.net/img/main/Luiyologia-twitterlogo.png" width="300" alt="Luiyología" /></a>
   <header>
     
   </header>
@@ -152,6 +175,7 @@
 
 
 
+
 <li><a href="mailto:luiyologia@gmail.com" target="_blank" title="Email" class="far fa-envelope"></a></li>
 
       </ul>
@@ -161,8 +185,9 @@
 
       <main id="site-main">
         
-        
-          <article class="post">
+  
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -171,71 +196,56 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-06-28 00:00:00 &#43;0000 UTC">
-      June 28, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>2 minute read</p>
-    
+    <time datetime="2012-06-28 00:00:00 &#43;0000 UTC">June 28, 2012</time>
+    <p>LuisGC</p>
+    <p>2-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
 
-  
-  <p>El creador de mi admirada serie de clips en homenaje a <a href="http://en.wikipedia.org/wiki/Carl_Sagan"><b>Carl Sagan</b></a>, <a href="http://twitter.com/reidgower"><b>Reid Gower</b></a>, partició en 2011 en un evento <a href="http://tedxvancouver.com/"><b>TEDx en Vancouver</b></a>. La charla es breve pero más que correcta, y me sirve de excusa para compartir el último episodio, del que aún no había dado cuenta en el blog.</p>
+    
+    <p>El creador de mi admirada serie de clips en homenaje a <a href="http://en.wikipedia.org/wiki/Carl_Sagan"><b>Carl Sagan</b></a>, <a href="http://twitter.com/reidgower"><b>Reid Gower</b></a>, partició en 2011 en un evento <a href="http://tedxvancouver.com/"><b>TEDx en Vancouver</b></a>. La charla es breve pero más que correcta, y me sirve de excusa para compartir el último episodio, del que aún no había dado cuenta en el blog.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/06/sagan-series-part-9-humans/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/06/sagan-series-part-9-humans/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/technology">technology</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/video">video</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/technology/">technology</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/video/">video</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -244,17 +254,14 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-05-31 00:00:00 &#43;0000 UTC">
-      May 31, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>3 minute read</p>
-    
+    <time datetime="2012-05-31 00:00:00 &#43;0000 UTC">May 31, 2012</time>
+    <p>LuisGC</p>
+    <p>3-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
     
 
     
@@ -270,53 +277,43 @@
     
 
 
-  
-  <p>Esta tarde me han invitado a asistir a una conferencia en el <a href="http://www.mdscc.org/index.php?Section=CEV"><b>Centro de Visitantes</b></a> del <a href="http://www.mdscc.org/"><b>MDSCC</b> (<b>Madrid Deep Space Communications Complex</b>)</a> que el <a href="http://www.inta.es/"><b>INTA</b> (<b>Instituto Nacional de Técnica Aeroespacial</b>)</a> y la <a href="http://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration"><b>NASA</b> (<b>National Aeronautics and Space Administration</b>)</a> tienen a medias en Robledo de Chavela, a pocos kilómetros de Madrid capital.</p>
+    
+    <p>Esta tarde me han invitado a asistir a una conferencia en el <a href="http://www.mdscc.org/index.php?Section=CEV"><b>Centro de Visitantes</b></a> del <a href="http://www.mdscc.org/"><b>MDSCC</b> (<b>Madrid Deep Space Communications Complex</b>)</a> que el <a href="http://www.inta.es/"><b>INTA</b> (<b>Instituto Nacional de Técnica Aeroespacial</b>)</a> y la <a href="http://en.wikipedia.org/wiki/National_Aeronautics_and_Space_Administration"><b>NASA</b> (<b>National Aeronautics and Space Administration</b>)</a> tienen a medias en Robledo de Chavela, a pocos kilómetros de Madrid capital.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/05/conferencia-sobre-el-msl-en-el-mdscc/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/05/conferencia-sobre-el-msl-en-el-mdscc/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/technology">technology</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/technology/">technology</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -325,74 +322,58 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-05-29 00:00:00 &#43;0000 UTC">
-      May 29, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>2 minute read</p>
-    
+    <time datetime="2012-05-29 00:00:00 &#43;0000 UTC">May 29, 2012</time>
+    <p>LuisGC</p>
+    <p>2-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
 
-  
-  <p>Tras un tremendo mes de Mayo con tres ponentes estelares: <b>José Manuel López Nicolás</b> (<a href="https://twitter.com/#!/scientiajmln">@ScientiaJMLN</a>), <b>James Randi</b> (<a href="https://twitter.com/#!/jref">@JREF</a>) y <b>D.J. Grothe</b> (<a href="https://twitter.com/#!/djgrothe">@DJGrothe</a>), en Junio <a href="http://www.escepticos.es/?q=node/979">cerramos la temporada con otra charla de gran nivel y expectación</a>.</p>
+    
+    <p>Tras un tremendo mes de Mayo con tres ponentes estelares: <b>José Manuel López Nicolás</b> (<a href="https://twitter.com/#!/scientiajmln">@ScientiaJMLN</a>), <b>James Randi</b> (<a href="https://twitter.com/#!/jref">@JREF</a>) y <b>D.J. Grothe</b> (<a href="https://twitter.com/#!/djgrothe">@DJGrothe</a>), en Junio <a href="http://www.escepticos.es/?q=node/979">cerramos la temporada con otra charla de gran nivel y expectación</a>.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/05/escepticos-en-el-pub-madrid-junio-2012/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/05/escepticos-en-el-pub-madrid-junio-2012/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skeptics-in-the-pub">skeptics-in-the-pub</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/technology">technology</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/skeptics-in-the-pub/">skeptics-in-the-pub</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/technology/">technology</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -401,74 +382,58 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-05-26 00:00:00 &#43;0000 UTC">
-      May 26, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>2 minute read</p>
-    
+    <time datetime="2012-05-26 00:00:00 &#43;0000 UTC">May 26, 2012</time>
+    <p>LuisGC</p>
+    <p>2-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
 
-  
-  <p>Hace unos días se publicaron en la web de <a href="http://radio.podcastellano.org/?p=1417"><b>Radio Podcastellano</b></a> los audios de las charlas de <a href="http://es.skepticamp.org/wiki/SkeptiCamp_Alicante_2012"><b>SkeptiCamp Alicante 2012</b></a>. Gracias a ellos podéis disfrutar de nuevo (o por primera vez) de todas las charlas.</p>
+    
+    <p>Hace unos días se publicaron en la web de <a href="http://radio.podcastellano.org/?p=1417"><b>Radio Podcastellano</b></a> los audios de las charlas de <a href="http://es.skepticamp.org/wiki/SkeptiCamp_Alicante_2012"><b>SkeptiCamp Alicante 2012</b></a>. Gracias a ellos podéis disfrutar de nuevo (o por primera vez) de todas las charlas.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/05/skepticamp-alicante-2012-todas-las/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/05/skepticamp-alicante-2012-todas-las/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/technology">technology</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticamp">skepticamp</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/technology/">technology</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticamp/">skepticamp</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -477,74 +442,58 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-05-04 00:00:00 &#43;0000 UTC">
-      May 4, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>2 minute read</p>
-    
+    <time datetime="2012-05-04 00:00:00 &#43;0000 UTC">May 4, 2012</time>
+    <p>LuisGC</p>
+    <p>2-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
 
-  
-  <p>Quedan unas horas para <a href="http://es.skepticamp.org/wiki/SkeptiCamp_Alicante_2012" target="_blank"><b>SkeptiCamp Alicante 2012</b></a>, el evento abierto de divulgación que celebraremos este <b>Sábado 5 de Mayo</b> durante <b>Street Alicante Science</b>.</p>
+    
+    <p>Quedan unas horas para <a href="http://es.skepticamp.org/wiki/SkeptiCamp_Alicante_2012" target="_blank"><b>SkeptiCamp Alicante 2012</b></a>, el evento abierto de divulgación que celebraremos este <b>Sábado 5 de Mayo</b> durante <b>Street Alicante Science</b>.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/05/skepticamp-alicante-horario-definitivo/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/05/skepticamp-alicante-horario-definitivo/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/technology">technology</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticamp">skepticamp</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/technology/">technology</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticamp/">skepticamp</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -553,71 +502,56 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-05-01 00:00:00 &#43;0000 UTC">
-      May 1, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>2 minute read</p>
-    
+    <time datetime="2012-05-01 00:00:00 &#43;0000 UTC">May 1, 2012</time>
+    <p>LuisGC</p>
+    <p>2-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
 
-  
-  <p>Con <a href="/blog/2012/04/james-randi-y-dj-grothe-en-escepticos/">tanto lío</a>, <a href="/blog/2012/04/necss-2012-northeast-conference-on/">tanto viaje</a> y tanto trabajo para <b>SkeptiCamp Alicante</b> no había anunciado en el blog el Escépticos en el Pub de Mayo. Porque amigos, <a href="/blog/2012/04/james-randi-y-dj-grothe-en-escepticos/">el evento del día 11</a> con <a href="http://en.wikipedia.org/wiki/James_Randi"><b>James Randi</b></a> y <a href="http://en.wikipedia.org/wiki/D.J._Grothe"><b>D.J. Grothe</b></a> es un extra, es de regalo, la <a href="http://www.escepticos.es/?q=node%2F940">convocatoria oficial ordinaria del Mayo</a> se mantiene para el primer sábado de mes y la charla merece tremendamente la pena.</p>
+    
+    <p>Con <a href="/blog/2012/04/james-randi-y-dj-grothe-en-escepticos/">tanto lío</a>, <a href="/blog/2012/04/necss-2012-northeast-conference-on/">tanto viaje</a> y tanto trabajo para <b>SkeptiCamp Alicante</b> no había anunciado en el blog el Escépticos en el Pub de Mayo. Porque amigos, <a href="/blog/2012/04/james-randi-y-dj-grothe-en-escepticos/">el evento del día 11</a> con <a href="http://en.wikipedia.org/wiki/James_Randi"><b>James Randi</b></a> y <a href="http://en.wikipedia.org/wiki/D.J._Grothe"><b>D.J. Grothe</b></a> es un extra, es de regalo, la <a href="http://www.escepticos.es/?q=node%2F940">convocatoria oficial ordinaria del Mayo</a> se mantiene para el primer sábado de mes y la charla merece tremendamente la pena.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/05/escepticos-en-el-pub-madrid-mayo-2012/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/05/escepticos-en-el-pub-madrid-mayo-2012/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skeptics-in-the-pub">skeptics-in-the-pub</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/health">health</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/skeptics-in-the-pub/">skeptics-in-the-pub</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/health/">health</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -626,71 +560,56 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-04-28 00:00:00 &#43;0000 UTC">
-      April 28, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>3 minute read</p>
-    
+    <time datetime="2012-04-28 00:00:00 &#43;0000 UTC">April 28, 2012</time>
+    <p>LuisGC</p>
+    <p>3-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
 
-  
-  <p>Queda <b>una semana</b> para <a href="http://es.skepticamp.org/wiki/SkeptiCamp_Alicante_2012" target="_blank"><b>SkeptiCamp Alicante 2012</b></a>, el evento abierto de divulgación que celebraremos el <b>Sábado 5 de Mayo</b> durante <b>Street Alicante Science</b>.</p>
+    
+    <p>Queda <b>una semana</b> para <a href="http://es.skepticamp.org/wiki/SkeptiCamp_Alicante_2012" target="_blank"><b>SkeptiCamp Alicante 2012</b></a>, el evento abierto de divulgación que celebraremos el <b>Sábado 5 de Mayo</b> durante <b>Street Alicante Science</b>.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/04/lo-ultimo-en-tecnologia-en-skepticamp/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/04/lo-ultimo-en-tecnologia-en-skepticamp/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/technology">technology</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticamp">skepticamp</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/technology/">technology</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticamp/">skepticamp</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -699,68 +618,54 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-04-28 00:00:00 &#43;0000 UTC">
-      April 28, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>2 minute read</p>
-    
+    <time datetime="2012-04-28 00:00:00 &#43;0000 UTC">April 28, 2012</time>
+    <p>LuisGC</p>
+    <p>2-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
 
-  
-  <p>Queda <b>una semana</b> para <a href="http://es.skepticamp.org/wiki/SkeptiCamp_Alicante_2012" target="_blank"><b>SkeptiCamp Alicante 2012</b></a>, el evento abierto de divulgación que celebraremos el <b>Sábado 5 de Mayo</b> durante <b>Street Alicante Science</b>.</p>
+    
+    <p>Queda <b>una semana</b> para <a href="http://es.skepticamp.org/wiki/SkeptiCamp_Alicante_2012" target="_blank"><b>SkeptiCamp Alicante 2012</b></a>, el evento abierto de divulgación que celebraremos el <b>Sábado 5 de Mayo</b> durante <b>Street Alicante Science</b>.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/04/neurologia-y-cronobiologia-en/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/04/neurologia-y-cronobiologia-en/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticamp">skepticamp</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticamp/">skepticamp</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -769,71 +674,56 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-04-27 00:00:00 &#43;0000 UTC">
-      April 27, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>3 minute read</p>
-    
+    <time datetime="2012-04-27 00:00:00 &#43;0000 UTC">April 27, 2012</time>
+    <p>LuisGC</p>
+    <p>3-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
 
-  
-  <p>Quedan <b>ocho</b> días para <a href="http://es.skepticamp.org/wiki/SkeptiCamp_Alicante_2012" target="_blank"><b>SkeptiCamp Alicante 2012</b></a>, el evento abierto de divulgación que celebraremos el <b>Sábado 5 de Mayo</b> durante <b>Street Alicante Science</b>.</p>
+    
+    <p>Quedan <b>ocho</b> días para <a href="http://es.skepticamp.org/wiki/SkeptiCamp_Alicante_2012" target="_blank"><b>SkeptiCamp Alicante 2012</b></a>, el evento abierto de divulgación que celebraremos el <b>Sábado 5 de Mayo</b> durante <b>Street Alicante Science</b>.</p>
+  </div>
   <footer>
-    <a href="/blog/2012/04/en-skepticamp-alicante-miraremos-al/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/04/en-skepticamp-alicante-miraremos-al/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticamp">skepticamp</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticamp/">skepticamp</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-          <article class="post">
+  
+    <article class="post">
   <header>
   <div class="title">
     
@@ -842,17 +732,14 @@
     
   </div>
   <div class="meta">
-    <time class="published" datetime="2012-04-27 00:00:00 &#43;0000 UTC">
-      April 27, 2012
-    </time>
-    <span class="author">LuisGC</span>
-    
-      <p>3 minute read</p>
-    
+    <time datetime="2012-04-27 00:00:00 &#43;0000 UTC">April 27, 2012</time>
+    <p>LuisGC</p>
+    <p>3-Minute Read</p>
   </div>
 </header>
 
-  
+  <div class="content">
+    
     
 
     
@@ -868,81 +755,66 @@
     
 
 
-  
-  <p>Entre las siglas que <i>colecciono</i> (como dicen algunos), dentro de las relacionadas con el pensamiento crítico además de pertenecer a <a href="http://www.escepticos.es/"><b>ARP-SAPC</b> (<b>Sociedad para el Avance del Pensamiento Crítico</b>)</a> y <a href="http://circuloesceptico.org/"><b>Círculo Escéptico</b></a> también soy socio de la <a href="http://www.randi.org/"><b>JREF</b> (<b>James Randi Educational Foundation</b>)</a>. Como socio de la JREF, y como no puedo estarme quieto, he insistido desde el principio en las actividades e intereses de la Fundación fuera de Estados Unidos y Reino Unido, dado el maravilloso esfuerzo que ya se hace en&hellip;</p>
+    
+    <p>Entre las siglas que <i>colecciono</i> (como dicen algunos), dentro de las relacionadas con el pensamiento crítico además de pertenecer a <a href="http://www.escepticos.es/"><b>ARP-SAPC</b> (<b>Sociedad para el Avance del Pensamiento Crítico</b>)</a> y <a href="http://circuloesceptico.org/"><b>Círculo Escéptico</b></a> también soy socio de la <a href="http://www.randi.org/"><b>JREF</b> (<b>James Randi Educational Foundation</b>)</a>. Como socio de la JREF, y como no puedo estarme quieto, he insistido desde el principio en las actividades e intereses de la Fundación fuera de Estados Unidos y Reino Unido, dado el maravilloso esfuerzo que ya se hace en&hellip;</p>
+  </div>
   <footer>
-    <a href="/blog/2012/04/james-randi-y-dj-grothe-en-escepticos/" class="button big">Read more</a>
-    <ul class="stats">
+    <a href="/blog/2012/04/james-randi-y-dj-grothe-en-escepticos/" class="button big">Read More</a>
+    <div class="stats">
   
-    
-    
-      <li class="categories">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/categories/post">post</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="categories">
+      
+        
+          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
+        
+      
+    </ul>
   
   
-    
-    
-      <li class="tags">
-        <ul>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skeptics-in-the-pub">skeptics-in-the-pub</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/outreach">outreach</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/event">event</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/magic">magic</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/skepticism">skepticism</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/culture">culture</a></li>
-          
-            
-            <li><a class="article-category-link" href="https://luiyo.net/tags/science">science</a></li>
-          
-        </ul>
-      </li>
-    
+    <ul class="tags">
+      
+        
+          <li><a class="article-terms-link" href="/tags/skeptics-in-the-pub/">skeptics-in-the-pub</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/outreach/">outreach</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/event/">event</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/magic/">magic</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/skepticism/">skepticism</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
+        
+          <li><a class="article-terms-link" href="/tags/science/">science</a></li>
+        
+      
+    </ul>
   
-</ul>
+</div>
 
   </footer>
 </article>
 
-        
-        
-<div class="pagination">
   
-    <a href="/page/7/" class="button big previous"><i class="fas fa-angle-left"></i></a>
-  
-  
-    <a href="/page/9/" class="button big next"><i class="fas fa-angle-right"></i></a>
-  
-</div>
+  <div class="pagination">
+    
+      <a href="/page/7/" class="button left"><span>Previous Page</span></a>
+    
+    
+      <a href="/page/9/" class="button right"><span>Next Page</span></a>
+    
+  </div>
 
       </main>
       <section id="site-sidebar">
   
     <section id="recent-posts">
       <header>
-        <h1>Recent posts</h1>
+        <h1>Recent Posts</h1>
       </header>
       
       <article class="mini-post">
-        <section>
           
     
 
@@ -959,15 +831,13 @@
     
 
 
-        </section>
         <header>
-          <h1><a href="/blog/2020/02/fosdem-2020/">FOSDEM 2020, 20 Years of FOSDEM</a></h1>
-          <time class="published" datetime="">February 25, 2020</time>
+          <h2><a href="/blog/2020/02/fosdem-2020/">FOSDEM 2020, 20 Years of FOSDEM</a></h2>
+          <time class="published" datetime="2020-02-25 00:00:00 &#43;0000 UTC">February 25, 2020</time>
         </header>
       </article>
       
       <article class="mini-post">
-        <section>
           
     
 
@@ -984,15 +854,13 @@
     
 
 
-        </section>
         <header>
-          <h1><a href="/blog/2020/01/my-year-2019-in-games/">My Year 2019 in Games</a></h1>
-          <time class="published" datetime="">January 5, 2020</time>
+          <h2><a href="/blog/2020/01/my-year-2019-in-games/">My Year 2019 in Games</a></h2>
+          <time class="published" datetime="2020-01-05 00:00:00 &#43;0000 UTC">January 5, 2020</time>
         </header>
       </article>
       
       <article class="mini-post">
-        <section>
           
     
 
@@ -1009,15 +877,13 @@
     
 
 
-        </section>
         <header>
-          <h1><a href="/blog/2020/01/my-year-2019-in-books/">My Year 2019 in Books</a></h1>
-          <time class="published" datetime="">January 2, 2020</time>
+          <h2><a href="/blog/2020/01/my-year-2019-in-books/">My Year 2019 in Books</a></h2>
+          <time class="published" datetime="2020-01-02 00:00:00 &#43;0000 UTC">January 2, 2020</time>
         </header>
       </article>
       
       <article class="mini-post">
-        <section>
           
     
 
@@ -1034,15 +900,13 @@
     
 
 
-        </section>
         <header>
-          <h1><a href="/blog/2019/12/big-things-commit-conf-2019/">Big Things Conference and Commit Conf 2019</a></h1>
-          <time class="published" datetime="">December 8, 2019</time>
+          <h2><a href="/blog/2019/12/big-things-commit-conf-2019/">Big Things Conference and Commit Conf 2019</a></h2>
+          <time class="published" datetime="2019-12-08 00:00:00 &#43;0000 UTC">December 8, 2019</time>
         </header>
       </article>
       
       <article class="mini-post">
-        <section>
           
     
 
@@ -1059,16 +923,15 @@
     
 
 
-        </section>
         <header>
-          <h1><a href="/blog/2019/09/pekin-guia-breve/">Pekín: una guía breve</a></h1>
-          <time class="published" datetime="">September 29, 2019</time>
+          <h2><a href="/blog/2019/09/pekin-guia-breve/">Pekín: una guía breve</a></h2>
+          <time class="published" datetime="2019-09-29 00:00:00 &#43;0000 UTC">September 29, 2019</time>
         </header>
       </article>
       
       
         <footer>
-          <a href="/blog/" class="button">See more</a>
+          <a href="/blog/" class="button">See More</a>
         </footer>
       
     </section>
@@ -1092,19 +955,16 @@
       <footer id="site-footer">
   
   <p class="copyright">
-    
-      &copy; 2020
-      
-        Luiyología
-      
-    . <br>
+    © 2020 Luiyología
+      <br>
     Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='0.60.1' target='_blank' rel='noopener'>Hugo</a>
   </p>
 </footer>
 <a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
 
-      <script src="/js/highlight.pack.js"></script>
-    <script>hljs.initHighlightingOnLoad();</script><script src="/js/bundle.min.e0c399b948d3cf5c3a5e3badb94023d0b064a19ac39fd8cd79fb9f57fa4d1091.js" integrity="sha256-4MOZuUjTz1w6XjutuUAj0LBkoZrDn9jNefufV/pNEJE="></script>
+      <script src="/js/highlight.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/languages/html.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/languages/css.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/languages/js.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/languages/toml.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script><script src="/js/bundle.min.b4e669fa428a81defb8af0916c53f39cd1b8e0bbab22199c06f0b182907ba474.js" integrity="sha256-tOZp&#43;kKKgd77ivCRbFPznNG44LurIhmcBvCxgpB7pHQ="></script>
     <script src="/js/add-on.js"></script>
 <script type="application/javascript">
 var doNotTrack = false;
