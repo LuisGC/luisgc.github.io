@@ -6,11 +6,7 @@
     <description>Recent content in page on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 05 Oct 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://luiyo.net/categories/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 05 Oct 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://luiyo.net/categories/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main public talks</title>
       <link>https://luiyo.net/talks/</link>
@@ -45,9 +41,9 @@ Visited Countries  I have visited 20 out of 193 countries (among those recognize
       <pubDate>Tue, 07 Oct 2003 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/about/</guid>
-      <description>I&#39;m a Software Engineer, FOSS Advocate and Agile Evangelist habituated to lead and coordinate development teams for various environments.
- Luis a.k.a. Luiyo, the author   I&#39;m an active fellow of several national and international associations: ARP-SAPC and Círculo Escéptico (promoting critical thinking, in the former one as part of the Board since 2012); STE and AEFCFT (Literature and Arts); and AECC (about scientific communication and outreach).
-I&#39;m also Member of Free Software Foundation Europe, OpenStreetMap Foundation, Spanish Red Cross, Doctors Without Borders, Amnesty International and UNHCR.</description>
+      <description>I&amp;rsquo;m a Software Engineer, FOSS Advocate and Agile Evangelist habituated to lead and coordinate development teams for various environments.
+ Luis a.k.a. Luiyo, the author   I&amp;rsquo;m an active fellow of several national and international associations: ARP-SAPC and Círculo Escéptico (promoting critical thinking, in the former one as part of the Board since 2012); STE and AEFCFT (Literature and Arts); and AECC (about scientific communication and outreach).
+I&amp;rsquo;m also Member of Free Software Foundation Europe, OpenStreetMap Foundation, Spanish Red Cross, Doctors Without Borders, Amnesty International and UNHCR.</description>
     </item>
     
   </channel>

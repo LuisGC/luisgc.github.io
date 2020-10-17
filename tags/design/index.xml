@@ -6,11 +6,7 @@
     <description>Recent content in design on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 May 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://luiyo.net/tags/design/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 19 May 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://luiyo.net/tags/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Baking my Blog with JBake and GitHub</title>
       <link>https://luiyo.net/blog/2017/05/baking-my-blog-with-jbake-and-github/</link>
