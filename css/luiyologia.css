@@ -30,11 +30,12 @@ blockquote.twitter-tweet{
 }
 
 .image.central {
-  display: inherit;
+  padding-bottom: 0;
 }
 
 .image.central img {
   margin: auto;
+  position: inherit;
 }
 
 .image.lateral {
