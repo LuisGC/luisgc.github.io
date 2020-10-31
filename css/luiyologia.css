@@ -1,6 +1,6 @@
 /* Custom styles for the blog
 -------------------------------------------------- */
-#content p{
+.content p{
   text-align: justify;
 }
 
@@ -39,12 +39,14 @@ blockquote.twitter-tweet{
 
 .image.lateral {
   max-width:40%;
-  margin-left: 30px;
+  margin: 0 1em;
   float:right;
+  padding-bottom: 0;
 }
 
 .image.lateral img {
   margin-bottom: 10px;
+  position: inherit;
 }
 
 .spacious li {
@@ -69,10 +71,6 @@ article.post h4 {
     color: #646464;
 }
 
-#recent-posts .mini-post section .image img {
-	height: auto !important;
-}
-
-#recent-posts article.mini-post section a.image.featured div.caption{
-	display: none !important;
+#socnet-share {
+  display: none !important;
 }

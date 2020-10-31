@@ -4,12 +4,12 @@
   
   <url>
     <loc>https://luiyo.net/blog/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/categories/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -24,37 +24,37 @@
   
   <url>
     <loc>https://luiyo.net/tags/computer-science/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/blog/2020/10/eslibre-2020/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/culture/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/event/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://luiyo.net/blog/2020/02/fosdem-2020/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/internet/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/linux/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -69,27 +69,27 @@
   
   <url>
     <loc>https://luiyo.net/tags/open-source/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/personal/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/categories/post/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/programming/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://luiyo.net/tags/</loc>
-    <lastmod>2020-02-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -104,6 +104,11 @@
   
   <url>
     <loc>https://luiyo.net/tags/technology/</loc>
+    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://luiyo.net/blog/2020/02/fosdem-2020/</loc>
     <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url>
   
