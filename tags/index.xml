@@ -6,22 +6,49 @@
     <description>Recent content in Tags on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://luiyo.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luiyo.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>culture</title>
+      <link>https://luiyo.net/tags/culture/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>games</title>
+      <link>https://luiyo.net/tags/games/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>https://luiyo.net/tags/personal/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>retrospective</title>
+      <link>https://luiyo.net/tags/retrospective/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/tags/retrospective/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>computer-science</title>
       <link>https://luiyo.net/tags/computer-science/</link>
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/tags/computer-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>culture</title>
-      <link>https://luiyo.net/tags/culture/</link>
-      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/culture/</guid>
       <description></description>
     </item>
     
@@ -62,15 +89,6 @@
     </item>
     
     <item>
-      <title>personal</title>
-      <link>https://luiyo.net/tags/personal/</link>
-      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/personal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>programming</title>
       <link>https://luiyo.net/tags/programming/</link>
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
@@ -85,24 +103,6 @@
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/tags/technology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>games</title>
-      <link>https://luiyo.net/tags/games/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>retrospective</title>
-      <link>https://luiyo.net/tags/retrospective/</link>
-      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/retrospective/</guid>
       <description></description>
     </item>
     
