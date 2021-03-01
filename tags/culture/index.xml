@@ -6,7 +6,16 @@
     <description>Recent content in culture on Luiyología</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luiyo.net/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://luiyo.net/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Year 2021 in Books</title>
+      <link>https://luiyo.net/blog/2021/03/my-year-2020-in-books/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://luiyo.net/blog/2021/03/my-year-2020-in-books/</guid>
+      <description>Any Goodreads user has access to a yearly report with some statistics and basically the covers of all the books read in one year. In order to have it the user only has to set the books as read and the read date to any time in that year. Taking advantage of this nice feature I will summarize My 2020 in Books from Goodreads, as I did for my read books in 2018 and 2019.</description>
+    </item>
+    
     <item>
       <title>FOSDEM 2021, the first virtual FOSDEM</title>
       <link>https://luiyo.net/blog/2021/02/fosdem-2021/</link>
