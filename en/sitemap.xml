@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://luiyo.net/blog/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/categories/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -20,19 +17,13 @@
                 hreflang="en"
                 href="https://luiyo.net/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/culture/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/literature/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -45,24 +36,16 @@
                 hreflang="en"
                 href="https://luiyo.net/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2021/03/my-year-2020-in-books/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/categories/post/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/review/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -75,1566 +58,941 @@
                 hreflang="en"
                 href="https://luiyo.net/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/computer-science/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/event/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2021/02/fosdem-2021/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/internet/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/linux/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/open-source/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/personal/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/programming/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/technology/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/games/</loc>
     <lastmod>2021-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2021/01/my-year-2020-in-games/</loc>
     <lastmod>2021-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/retrospective/</loc>
     <lastmod>2021-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2020/10/eslibre-2020/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2020/02/fosdem-2020/</loc>
     <lastmod>2020-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2020/01/my-year-2019-in-games/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2020/01/my-year-2019-in-books/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2019/12/big-things-commit-conf-2019/</loc>
     <lastmod>2019-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/talks/</loc>
     <lastmod>2019-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/categories/page/</loc>
     <lastmod>2019-10-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/history/</loc>
     <lastmod>2019-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/holidays/</loc>
     <lastmod>2019-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2019/09/pekin-guia-breve/</loc>
     <lastmod>2019-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/tourism/</loc>
     <lastmod>2019-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/art/</loc>
     <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/tolkien/</loc>
     <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2019/08/tolkien-2019-in-birmingham/</loc>
     <lastmod>2019-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2019/03/greach-2019/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2019/02/fosdem-2019-sunday/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2019/02/fosdem-2019-saturday/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2019/01/my-year-2018-in-games/</loc>
     <lastmod>2019-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2019/01/my-year-2018-in-books/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2018/12/the-german-romantische-strasse/</loc>
     <lastmod>2018-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2018/08/travel-curriculum-vitae/</loc>
     <lastmod>2018-08-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/travel-cv/</loc>
     <lastmod>2018-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2018/05/scotland-a-brief-opinionated-guide/</loc>
     <lastmod>2018-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2018/03/greach-2018/</loc>
     <lastmod>2018-03-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2018/02/travels-with-charley-by-john-steinbeck/</loc>
     <lastmod>2018-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2018/02/fosdem-2018-sunday/</loc>
     <lastmod>2018-02-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2018/02/fosdem-2018-saturday/</loc>
     <lastmod>2018-02-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2018/01/things-that-java-developers-really-need-to-know/</loc>
     <lastmod>2018-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2018/01/mi-2017-ludico/</loc>
     <lastmod>2018-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/12/brittany-a-brief-opinionated-guide/</loc>
     <lastmod>2017-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/12/normandy-a-brief-opinionated-guide/</loc>
     <lastmod>2017-12-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/11/big-data-spain-2017/</loc>
     <lastmod>2017-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/09/on-being-a-senior-software-engineer/</loc>
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/outreach/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/science/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/skepticism/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/skeptics-in-the-pub/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/09/susan-gerbic-in-skeptics-in-the-pub-madrid/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/politics/</loc>
     <lastmod>2017-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/07/romantikstrasse-the-romantic-road_5/</loc>
     <lastmod>2017-07-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/07/ing-security-summer-camp-2017/</loc>
     <lastmod>2017-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/07/romantikstrasse-the-romantic-road_4/</loc>
     <lastmod>2017-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/06/romantikstrasse-the-romantic-road_3/</loc>
     <lastmod>2017-06-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/06/romantikstrasse-the-romantic-road_2/</loc>
     <lastmod>2017-06-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/05/romantikstrasse-the-romantic-road_1/</loc>
     <lastmod>2017-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/05/baking-my-blog-with-jbake-and-github/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/blog/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/design/</loc>
     <lastmod>2017-05-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/04/greach-2017-groovy-spanish-conference/</loc>
     <lastmod>2017-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2017/01/mi-2016-ludico/</loc>
     <lastmod>2017-01-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2016/11/codemotion-2016/</loc>
     <lastmod>2016-11-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2016/04/greach-2016-groovy-spanish-conference/</loc>
     <lastmod>2016-04-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2016/03/fosdem-2016-sunday/</loc>
     <lastmod>2016-03-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2016/03/fosdem-2016-saturday/</loc>
     <lastmod>2016-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2016/03/fosdem-2016-friday/</loc>
     <lastmod>2016-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2016/01/mi-2015-ludico/</loc>
     <lastmod>2016-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2015/05/escepticos-en-el-pub-madrid-junio-2015/</loc>
     <lastmod>2015-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2015/04/escepticos-en-el-pub-madrid-mayo-2015/</loc>
     <lastmod>2015-04-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2015/04/escepticos-en-el-pub-madrid-abril-2015/</loc>
     <lastmod>2015-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2015/03/escepticos-en-el-pub-madrid-marzo-2015/</loc>
     <lastmod>2015-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2015/01/mi-2014-ludico/</loc>
     <lastmod>2015-01-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/economics/</loc>
     <lastmod>2014-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2014/12/escepticos-en-el-pub-madrid-enero-2015/</loc>
     <lastmod>2014-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2014/09/a-feast-for-crows-de-george-rr-martin/</loc>
     <lastmod>2014-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2014/01/partidas-jugadas-en-2013/</loc>
     <lastmod>2014-01-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/12/nosinevidencia/</loc>
     <lastmod>2013-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/health/</loc>
     <lastmod>2013-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/news/</loc>
     <lastmod>2013-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/solidarity/</loc>
     <lastmod>2013-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/philosophy/</loc>
     <lastmod>2013-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/12/the-demon-haunted-world-de-carl-sagan/</loc>
     <lastmod>2013-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/10/escepticos-en-el-pub-madrid-octubre-2013/</loc>
     <lastmod>2013-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/09/escepticos-en-el-pub-madrid-septiembre/</loc>
     <lastmod>2013-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/07/cita-con-rama-de-arthur-c-clarke/</loc>
     <lastmod>2013-07-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/05/escepticos-en-el-pub-madrid-junio-2013/</loc>
     <lastmod>2013-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/04/escepticos-en-el-pub-madrid-mayo-2013/</loc>
     <lastmod>2013-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/04/respuesta-decepcionante-de-la-defensora/</loc>
     <lastmod>2013-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/television/</loc>
     <lastmod>2013-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/03/escepticos-en-el-pub-madrid-abril-2013/</loc>
     <lastmod>2013-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/03/escepticos-en-el-pub-marzo-2013/</loc>
     <lastmod>2013-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/02/cronica-de-una-visita-guiada-al-cern/</loc>
     <lastmod>2013-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/01/guia-para-visitar-el-cern/</loc>
     <lastmod>2013-01-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/01/escepticos-en-el-pub-madrid-febrero-2013/</loc>
     <lastmod>2013-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/01/tu-tasa-de-paro/</loc>
     <lastmod>2013-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/magic/</loc>
     <lastmod>2013-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/01/necss-2013/</loc>
     <lastmod>2013-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/podcast/</loc>
     <lastmod>2013-01-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2013/01/partidas-jugadas-en-2012/</loc>
     <lastmod>2013-01-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/12/retrospectiva-de-2012/</loc>
     <lastmod>2012-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/12/sanal-edamaruku-en-espana/</loc>
     <lastmod>2012-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/11/feliz-dia-del-orgullo-primate/</loc>
     <lastmod>2012-11-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/11/iii-congreso-el-ser-creativo/</loc>
     <lastmod>2012-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/10/escepticos-en-el-pub-madrid-especial/</loc>
     <lastmod>2012-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/09/escepticos-en-el-pub-madrid-octubre-2012/</loc>
     <lastmod>2012-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/06/sagan-series-part-9-humans/</loc>
     <lastmod>2012-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/video/</loc>
     <lastmod>2012-06-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/05/conferencia-sobre-el-msl-en-el-mdscc/</loc>
     <lastmod>2012-05-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/05/escepticos-en-el-pub-madrid-junio-2012/</loc>
     <lastmod>2012-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/skepticamp/</loc>
     <lastmod>2012-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/05/skepticamp-alicante-2012-todas-las/</loc>
     <lastmod>2012-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/05/skepticamp-alicante-horario-definitivo/</loc>
     <lastmod>2012-05-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/05/escepticos-en-el-pub-madrid-mayo-2012/</loc>
     <lastmod>2012-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/04/lo-ultimo-en-tecnologia-en-skepticamp/</loc>
     <lastmod>2012-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/04/neurologia-y-cronobiologia-en/</loc>
     <lastmod>2012-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/04/en-skepticamp-alicante-miraremos-al/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/04/james-randi-y-dj-grothe-en-escepticos/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/04/la-policia-cientifica-estara-en/</loc>
     <lastmod>2012-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/04/skepticamp-alicante-tendra-la-ponente/</loc>
     <lastmod>2012-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/04/en-skepticamp-alicante-no-faltara-la/</loc>
     <lastmod>2012-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/04/skepticamp-alicante-cierra-el-plazo-de/</loc>
     <lastmod>2012-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/04/en-skepticamp-alicante-hablaremos-de/</loc>
     <lastmod>2012-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/music/</loc>
     <lastmod>2012-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/04/necss-2012-northeast-conference-on/</loc>
     <lastmod>2012-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/comics/</loc>
     <lastmod>2012-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/04/skepticamp-alicante-2012-tercera-charla/</loc>
     <lastmod>2012-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/03/skepticamp-alicante-2012-primeras/</loc>
     <lastmod>2012-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/03/escepticos-en-el-pub-madrid-abril-2012/</loc>
     <lastmod>2012-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/cinema/</loc>
     <lastmod>2012-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/03/james-randi-un-mentiroso-honesto/</loc>
     <lastmod>2012-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/03/spring-io-2012/</loc>
     <lastmod>2012-03-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/03/cientificos-y-periodistas-necesitan-de/</loc>
     <lastmod>2012-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/03/qed-2012-question-explore-discover/</loc>
     <lastmod>2012-03-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/03/escepticos-en-el-pub-madrid-marzo-2012/</loc>
     <lastmod>2012-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/03/i-encuentro-de-protos-y-tips-de-ludo/</loc>
     <lastmod>2012-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/02/divulgacion-20-de-todos-y-para-todos/</loc>
     <lastmod>2012-02-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/02/escepticos-en-el-pub-madrid-febrero/</loc>
     <lastmod>2012-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/humour/</loc>
     <lastmod>2012-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/02/skepticamp-eventos-abiertos-de/</loc>
     <lastmod>2012-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/01/skepticamp-madrid-2012/</loc>
     <lastmod>2012-01-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/01/escepticos-en-el-pub-madrid-febrero/</loc>
     <lastmod>2012-01-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/01/chaos-by-gerard-nolst-trenite/</loc>
     <lastmod>2012-01-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/01/escepticos-en-el-pub-madrid-enero-2012/</loc>
     <lastmod>2012-01-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/maps/</loc>
     <lastmod>2012-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/01/partidas-jugadas-en-2011/</loc>
     <lastmod>2012-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2012/01/un-ano-de-ediciones-en-openstreetmap/</loc>
     <lastmod>2012-01-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/12/god-is-not-great-by-christopher/</loc>
     <lastmod>2011-12-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/12/cronica-y-unboxing-de-un-pedido-xkcd/</loc>
     <lastmod>2011-12-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/11/boardgamegeek-2011-secret-santa/</loc>
     <lastmod>2011-11-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/11/escepticos-en-el-pub-madrid-diciembre/</loc>
     <lastmod>2011-11-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/11/manifiesto-por-la-correcta-acreditacion/</loc>
     <lastmod>2011-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/curious/</loc>
     <lastmod>2011-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/11/desfase-en-la-isla-de-pitcairn/</loc>
     <lastmod>2011-11-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/11/escepticos-en-el-pub-madrid-noviembre/</loc>
     <lastmod>2011-11-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/11/sagan-series-part-7-8/</loc>
     <lastmod>2011-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/10/el-ser-creativo/</loc>
     <lastmod>2011-10-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/10/los-prestamos-de-kiva-en-movimiento/</loc>
     <lastmod>2011-10-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/10/declaracion-de-lalfas/</loc>
     <lastmod>2011-10-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/10/escepticos-en-el-pub-octubre-2011/</loc>
     <lastmod>2011-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/10/i-congreso-esceptico-2011-antes-del-fin/</loc>
     <lastmod>2011-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/09/escepticos-2011-antes-del-fin-del-mundo/</loc>
     <lastmod>2011-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/07/sagan-series-part-6-end-of-era-final/</loc>
     <lastmod>2011-07-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/06/michael-shermer-kit-de-deteccion-de/</loc>
     <lastmod>2011-06-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/06/el-flujo-laminar-en-accion/</loc>
     <lastmod>2011-06-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/06/sagan-series-part-5-seti-decide-to/</loc>
     <lastmod>2011-06-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/06/skeptics-by-ted-burnham/</loc>
     <lastmod>2011-06-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/06/known-skeptical-podcasts-in-spanish/</loc>
     <lastmod>2011-06-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/06/un-vidente-aconsejando-homeopatia/</loc>
     <lastmod>2011-06-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/06/los-mejores-10-libros-de-ciencia/</loc>
     <lastmod>2011-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/05/eskepticamp-convocatoria-para-la-kick/</loc>
     <lastmod>2011-05-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/05/lo-que-la-camara-de-un-astronauta-ve/</loc>
     <lastmod>2011-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/05/escepticos-en-el-pub-junio-2011/</loc>
     <lastmod>2011-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/05/ice-book/</loc>
     <lastmod>2011-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/theater/</loc>
     <lastmod>2011-05-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/05/sagan-series-part-4-nasa-per-aspera-ad/</loc>
     <lastmod>2011-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/05/escepticos-en-el-pub-mayo-2011/</loc>
     <lastmod>2011-05-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/04/sagan-series-part-3-reassuring-fable/</loc>
     <lastmod>2011-04-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/04/fermats-last-theorem-de-simon-l-singh/</loc>
     <lastmod>2011-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/04/storm-de-tim-minchin/</loc>
     <lastmod>2011-04-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/03/escepticos-en-el-pub-abril-2011/</loc>
     <lastmod>2011-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/star-trek/</loc>
     <lastmod>2011-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/03/william-shatner-despierta-la/</loc>
     <lastmod>2011-03-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/02/escepticos-en-el-pub-marzo-2011/</loc>
     <lastmod>2011-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/02/ciencia-ficcion-y-fantasia-en-creative/</loc>
     <lastmod>2011-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/02/creative-commons/</loc>
     <lastmod>2011-02-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/02/sagan-series-por-reid-gower/</loc>
     <lastmod>2011-02-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/02/la-european-spallation-source/</loc>
     <lastmod>2011-02-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/02/comienza-mi-campana-1023/</loc>
     <lastmod>2011-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/01/escepticos-en-el-pub-febrero-2011/</loc>
     <lastmod>2011-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/01/me-sumo-la-camapana-1023/</loc>
     <lastmod>2011-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2011/01/escepticos-ahora-en-television/</loc>
     <lastmod>2011-01-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/12/placebocidio-homeopatico-internacional/</loc>
     <lastmod>2010-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/11/escepticos-en-el-pub-diciembre-2010/</loc>
     <lastmod>2010-11-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/11/my-own-kind-of-freedom-de-steven-brust/</loc>
     <lastmod>2010-11-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/11/la-ciencia-salvo-mi-alma/</loc>
     <lastmod>2010-11-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/11/pensando-criticamente-el-nuevo-podcast/</loc>
     <lastmod>2010-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/11/manifiesto-por-una-universidad-libre-de/</loc>
     <lastmod>2010-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/10/tam-london-2010/</loc>
     <lastmod>2010-10-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/tags/sport/</loc>
     <lastmod>2010-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/10/world-bike-tour-madrid-2010/</loc>
     <lastmod>2010-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/10/kiva-prestamos-que-cambian-vidas/</loc>
     <lastmod>2010-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/09/resena-guillotine/</loc>
     <lastmod>2010-09-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/09/escepticos-en-el-pub-octubre-2010/</loc>
     <lastmod>2010-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/08/el-cisne-negro-de-nassim-nicholas-taleb/</loc>
     <lastmod>2010-08-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/07/la-piramide-de-henning-mankell/</loc>
     <lastmod>2010-07-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/05/little-brother-de-cory-doctorow/</loc>
     <lastmod>2010-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/05/convocatoria-de-escepticos-en-el-pub-de/</loc>
     <lastmod>2010-05-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/04/el-alquimista-y-otros-relatos-de-howard/</loc>
     <lastmod>2010-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/04/drazen-petrovic-versus-oscar-schmidt/</loc>
     <lastmod>2010-04-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/04/analisis-nike-plus-para-ipod-touch/</loc>
     <lastmod>2010-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/02/blind-watchmaker-de-richard-dawkins/</loc>
     <lastmod>2010-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/02/peleando-con-negacionistas-del-cambio/</loc>
     <lastmod>2010-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2009/12/en-defensa-de-los-derechos/</loc>
     <lastmod>2009-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2009/09/abrebotellas-de-star-trek/</loc>
     <lastmod>2009-09-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2007/02/alatriste/</loc>
     <lastmod>2007-02-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2006/11/error-con-automata/</loc>
     <lastmod>2006-11-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2006/11/condenados-de-pitcairn-iran-prision/</loc>
     <lastmod>2006-11-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2006/10/descansando-en-la-costa-dorada/</loc>
     <lastmod>2006-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2006/10/el-merito-de-rosendo/</loc>
     <lastmod>2006-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2006/09/llego-la-fonera/</loc>
     <lastmod>2006-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2006/09/el-mundo-en-color/</loc>
     <lastmod>2006-09-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2006/06/libros-2006/</loc>
     <lastmod>2006-06-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2006/05/el-mito-de-superman/</loc>
     <lastmod>2006-05-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2006/04/ali-g-entrevista-noam-chomsky/</loc>
     <lastmod>2006-04-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2006/04/mencion-este-blog-en-pc-actual/</loc>
     <lastmod>2006-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2006/02/mapas-de-metro-alterados/</loc>
     <lastmod>2006-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2006/02/bolson-cerrado-en-miniatura/</loc>
     <lastmod>2006-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/10/en-casa-de-nuevo/</loc>
     <lastmod>2005-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/10/aniversario/</loc>
     <lastmod>2005-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/08/veinte-mil-leguas-de-viaje-submarino/</loc>
     <lastmod>2005-08-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/08/land-of-free/</loc>
     <lastmod>2005-08-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/08/mi-proximo-movil/</loc>
     <lastmod>2005-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/08/marcho-asturias/</loc>
     <lastmod>2005-08-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/07/de-la-tierra-la-luna/</loc>
     <lastmod>2005-07-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/07/adios-scotty/</loc>
     <lastmod>2005-07-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/07/la-vuelta-al-mundo-en-80-dias/</loc>
     <lastmod>2005-07-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/06/fallece-george-mikan/</loc>
     <lastmod>2005-06-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/06/50-aniversario-de-baikonur/</loc>
     <lastmod>2005-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/06/citas-sobre-ciencia/</loc>
     <lastmod>2005-06-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/05/rosendo-y-la-piratera/</loc>
     <lastmod>2005-05-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/05/robinson-crusoe/</loc>
     <lastmod>2005-05-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/05/la-isla-del-tesoro/</loc>
     <lastmod>2005-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/05/libros-2005/</loc>
     <lastmod>2005-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/05/sea-code/</loc>
     <lastmod>2005-05-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/05/el-astrologo-fingido/</loc>
     <lastmod>2005-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/05/la-guerra-de-los-mundos/</loc>
     <lastmod>2005-05-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/04/yo-robot/</loc>
     <lastmod>2005-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/04/dia-del-libro-2005/</loc>
     <lastmod>2005-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/04/toledo-muy-medieval/</loc>
     <lastmod>2005-04-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/04/eragon/</loc>
     <lastmod>2005-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/04/fin-de-semana-en-jerez/</loc>
     <lastmod>2005-04-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/03/fallece-delorean/</loc>
     <lastmod>2005-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/03/aerosmith-dream-on/</loc>
     <lastmod>2005-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/02/cierra-madrid-rock/</loc>
     <lastmod>2005-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/02/un-nuevo-stonehenge/</loc>
     <lastmod>2005-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/02/puede-jms-relanzar-star-trek/</loc>
     <lastmod>2005-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/02/yo-claudio/</loc>
     <lastmod>2005-02-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/02/la-venganza-de-don-mendo/</loc>
     <lastmod>2005-02-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/02/noche-de-reyes/</loc>
     <lastmod>2005-02-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/02/el-cdigo-da-vinci/</loc>
     <lastmod>2005-02-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/01/la-sombra-del-viento/</loc>
     <lastmod>2005-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/01/plegando-protenas/</loc>
     <lastmod>2005-01-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/01/quince-ubuntus/</loc>
     <lastmod>2005-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2005/01/grandsimo-regalo/</loc>
     <lastmod>2005-01-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/12/los-10-mayores-avances-cientficos-del/</loc>
     <lastmod>2004-12-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/12/coche1-coche2/</loc>
     <lastmod>2004-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/12/richard-stallman-al-telefono/</loc>
     <lastmod>2004-12-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/12/puertas-logicas-con-lego/</loc>
     <lastmod>2004-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/12/babylon-5-en-la-pantalla-grande/</loc>
     <lastmod>2004-12-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/12/otro-vehiculo-de-mobilidad-personal/</loc>
     <lastmod>2004-12-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/12/nuevos-robots-de-toyota/</loc>
     <lastmod>2004-12-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/12/la-resaca/</loc>
     <lastmod>2004-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/12/relojes-de-sol-digitales/</loc>
     <lastmod>2004-12-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/11/calendario-en-dodecaedro/</loc>
     <lastmod>2004-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/11/pasaportes-tristes/</loc>
     <lastmod>2004-11-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/11/ascensor-espacial/</loc>
     <lastmod>2004-11-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/11/el-rey-kong/</loc>
     <lastmod>2004-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/11/rigoletto/</loc>
     <lastmod>2004-11-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/11/compras-recientes/</loc>
     <lastmod>2004-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/11/gollum-ha-calado/</loc>
     <lastmod>2004-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/11/creacionistas-explicando-los-restos/</loc>
     <lastmod>2004-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/11/el-grupo-psa-dejar-los-rallies-en-2006/</loc>
     <lastmod>2004-11-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/hallados-restos-hobbiticos/</loc>
     <lastmod>2004-10-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/mas-sobre-la-isla-pitcairn/</loc>
     <lastmod>2004-10-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/big-fish/</loc>
     <lastmod>2004-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/el-mito-de-bourne/</loc>
     <lastmod>2004-10-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/alguien-volo-sobre-el-nido-del-cuco/</loc>
     <lastmod>2004-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/el-bosque-o-la-aldea/</loc>
     <lastmod>2004-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/la-sabiduria-de-los-cocodrilos/</loc>
     <lastmod>2004-10-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/la-carta-esferica/</loc>
     <lastmod>2004-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/el-coste-del-kernel-26/</loc>
     <lastmod>2004-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/la-cancion-desesperada/</loc>
     <lastmod>2004-10-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/adios-superman/</loc>
     <lastmod>2004-10-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/actualizo-mi-geek-code/</loc>
     <lastmod>2004-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/lo-que-el-viento-se-llevo/</loc>
     <lastmod>2004-10-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/cold-mountain/</loc>
     <lastmod>2004-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/10/el-ojo-ardiente/</loc>
     <lastmod>2004-10-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/09/isla-pitcairn/</loc>
     <lastmod>2004-09-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/09/mar-adentro/</loc>
     <lastmod>2004-09-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/09/scotty-tiene-su-estrella/</loc>
     <lastmod>2004-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/08/linux-cumple-13-anos/</loc>
     <lastmod>2004-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/08/la-historia-se-termino/</loc>
     <lastmod>2004-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/08/fahrenheit-911/</loc>
     <lastmod>2004-08-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/08/el-peso-de-la-justicia/</loc>
     <lastmod>2004-08-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/05/apuntes-breves-para-un-fin-de-semana/</loc>
     <lastmod>2004-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/05/reflexiones-acerca-de-las-dos/</loc>
     <lastmod>2004-05-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/04/richard-stallman-en-madrid/</loc>
     <lastmod>2004-04-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2004/03/el-esperado-comentario-de-cats/</loc>
     <lastmod>2004-03-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/about/</loc>
     <lastmod>2003-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/blog/2003/10/arranca-luiyologia/</loc>
     <lastmod>2003-10-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://luiyo.net/404/</loc>
     <lastmod>2003-10-07T00:00:00+00:00</lastmod>
   </url>
-  
 </urlset>
