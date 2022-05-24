@@ -20,7 +20,7 @@
   <link rel="shortcut icon" href="/favicon.ico?v=1">
 
 
-  <meta name="generator" content="Hugo 0.88.1" />
+  <meta name="generator" content="Hugo 0.99.1" />
   
             <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/styles/github.min.css">
           <link rel="stylesheet" href="/css/bundle.min.3b1b5f2e683d24b1ea3b5a08c8254622e40aa935e0ead75ba6d45c0f14c2f965.css" integrity="sha256-OxtfLmg9JLHqO1oIyCVGIuQKqTXg6tdbptRcDxTC&#43;WU="><link rel="stylesheet" href="/css/add-on.css">
@@ -272,18 +272,18 @@
 </ul>
 <p>The <a href="http://jbake.org/docs/">documentation of JBake</a> could be improved, but it&rsquo;s good enough.</p>
 <p>To install JBake, you can execute <a href="http://jbake.org/download.html">the last binary distribution</a> but I recommend that you simply use <a href="http://sdkman.io/"><strong>SDKMAN</strong></a>. If you don&rsquo;t know what SDKMAN is, you are missing something special. After you have SDKMAN installed, enter the following command:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">&gt;&gt; sdk install jbake
-</code></pre></div><p><strong>Thanks Jonathan !!</strong></p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>&gt;&gt; sdk install jbake
+</span></span></code></pre></div><p><strong>Thanks Jonathan !!</strong></p>
 <h2 id="step-2---choose-your-themestyle">Step 2 - Choose your theme/style</h2>
 <p>Some static generators support themes better than others, that&rsquo;s for sure. This was important to me, and I checked that in <em>JBake</em> the code responsible of the presentation is isolated enough from the content, so it&rsquo;s more or less simple to change entirely the theme or style of your site.</p>
 <p>In fact, I didn&rsquo;t start the personalization of my blog from the default theme and style. I cloned the <a href="https://github.com/manikmagar/jbake-future-imperfect-template"><strong>JBake Future Imperfect Template</strong></a> by <a href="https://twitter.com/manikmagar">Manik Magar</a> and for the moment I&rsquo;ve only needed minor touches to make it better suited for me.</p>
 <p>As simple as this:</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">&gt;&gt; mkdir awesome-jbake
-
-&gt;&gt; git clone https://github.com/manikmagar/jbake-future-imperfect-template.git awesome-jbake
-
-&gt;&gt; cd awesome-jbake <span style="color:#f92672">&amp;&amp;</span> ls -ltr
-</code></pre></div><p>Most of the changes were related to custom css styles that I was already using in Blogger, the <em>JBake Future Imperfect Template</em> is fantastic.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-shell" data-lang="shell"><span style="display:flex;"><span>&gt;&gt; mkdir awesome-jbake
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>&gt;&gt; git clone https://github.com/manikmagar/jbake-future-imperfect-template.git awesome-jbake
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>&gt;&gt; cd awesome-jbake <span style="color:#f92672">&amp;&amp;</span> ls -ltr
+</span></span></code></pre></div><p>Most of the changes were related to custom css styles that I was already using in Blogger, the <em>JBake Future Imperfect Template</em> is fantastic.</p>
 <p><strong>Thanks Manik !!</strong></p>
 <h2 id="step-3---migrate-your-content-from-your-old-blogsite-if-needed">Step 3 - Migrate your content from your old blog/site (if needed)</h2>
 <p>You&rsquo;ll only need this if you are migrating something, skip this point if you are creating something from scratch.</p>
@@ -342,7 +342,7 @@
   <div class='post'>
     <div id="disqus_thread"></div>
 <script type="application/javascript">
-    var disqus_config = function () {
+    window.disqus_config = function () {
     
     
     
@@ -461,14 +461,14 @@
   <p class="copyright">
     © 2021 Luiyología
       <br>
-    Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='0.88.1' target='_blank' rel='noopener'>Hugo</a>
+    Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='0.99.1' target='_blank' rel='noopener'>Hugo</a>
   </p>
 </footer>
 <a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
 
       <script src="/js/highlight.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/languages/html.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/languages/css.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/languages/js.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/languages/toml.min.js"></script>
-    <script>hljs.highlightAll();</script><script src="/js/bundle.min.5fadb1d212c845240e433d253c4bfa5886394a8b99e0344e25495d57ebe8f661.js" integrity="sha256-X62x0hLIRSQOQz0lPEv6WIY5SouZ4DROJUldV&#43;vo9mE="></script>
+    <script>hljs.highlightAll();</script><script src="/js/bundle.min.ff902709c0a5095c9c9fb7e958b25390dd531de4593ff85a5d85455b2779c0ad.js" integrity="sha256-/5AnCcClCVycn7fpWLJTkN1THeRZP/haXYVFWyd5wK0="></script>
     <script src="/js/add-on.js"></script>
 <script type="application/javascript">
 var doNotTrack = false;
