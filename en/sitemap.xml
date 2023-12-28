@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://luiyo.net/blog/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/categories/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -18,14 +18,17 @@
                 href="https://luiyo.net/categories/"
                 />
   </url><url>
-    <loc>https://luiyo.net/tags/culture/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/tags/history/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luiyo.net/tags/literature/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/tags/holidays/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luiyo.net/blog/2023/11/japon-paraiso-tradicion-modernidad-frikismo/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -37,17 +40,14 @@
                 href="https://luiyo.net/"
                 />
   </url><url>
-    <loc>https://luiyo.net/blog/2021/03/my-year-2020-in-books/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/tags/personal/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/categories/post/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luiyo.net/tags/review/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/tags/</loc>
-    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -58,6 +58,21 @@
                 hreflang="en"
                 href="https://luiyo.net/tags/"
                 />
+  </url><url>
+    <loc>https://luiyo.net/tags/tourism/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luiyo.net/tags/culture/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luiyo.net/tags/literature/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luiyo.net/blog/2021/03/my-year-2020-in-books/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luiyo.net/tags/review/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/tags/computer-science/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
@@ -75,9 +90,6 @@
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/tags/open-source/</loc>
-    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luiyo.net/tags/personal/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/tags/programming/</loc>
@@ -116,16 +128,7 @@
     <loc>https://luiyo.net/categories/page/</loc>
     <lastmod>2019-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luiyo.net/tags/history/</loc>
-    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luiyo.net/tags/holidays/</loc>
-    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://luiyo.net/blog/2019/09/pekin-guia-breve/</loc>
-    <lastmod>2019-09-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luiyo.net/tags/tourism/</loc>
     <lastmod>2019-09-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/tags/art/</loc>
