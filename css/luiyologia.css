@@ -27,6 +27,11 @@ blockquote.twitter-tweet{
 
 .image {
   margin-bottom: 20px;
+  padding-bottom: 0;
+}
+
+.image img {
+  position: inherit;
 }
 
 .image.central {
@@ -35,19 +40,16 @@ blockquote.twitter-tweet{
 
 .image.central img {
   margin: auto;
-  position: inherit;
 }
 
 .image.lateral {
   max-width:40%;
   margin: 0 1em;
   float:right;
-  padding-bottom: 0;
 }
 
 .image.lateral img {
   margin-bottom: 10px;
-  position: inherit;
 }
 
 .spacious li {
