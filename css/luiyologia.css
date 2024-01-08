@@ -52,6 +52,12 @@ blockquote.twitter-tweet{
   margin-bottom: 10px;
 }
 
+.vertical {
+  text-align: center;
+  max-width: 50%;
+  margin: auto;
+}
+
 .spacious li {
   margin: 0 0 1rem 0;
 }
