@@ -10,6 +10,7 @@ blockquote{
   padding: 5px 0px 0px 80px;
   font-style: italic;
   text-align:justify;
+  min-height: 70px;
 }
 
 blockquote.twitter-tweet{
