@@ -93,7 +93,7 @@ article.post h4 {
   scroll-snap-type: x mandatory;
 }
 
-.slider-container img {
+.slider-container div {
   flex: 0 0 100%;
   width: 100%;
   object-fit: cover;
