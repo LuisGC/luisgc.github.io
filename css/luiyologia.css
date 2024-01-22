@@ -105,10 +105,9 @@ article.post h4 {
 
 .slider-container {
   display: flex;
-  width: 100%;
-/*  height: 100vh;*/
   overflow-x: scroll;
   scroll-snap-type: x mandatory;
+  margin: 0 -1em
 }
 
 .slider-container div {
@@ -116,4 +115,8 @@ article.post h4 {
   width: 100%;
   object-fit: cover;
   scroll-snap-align: center;
+}
+
+.slider-container .image {
+  margin: 0 0 10px 0;
 }
