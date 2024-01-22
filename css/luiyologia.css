@@ -5,16 +5,23 @@
 }
 
 blockquote{
-  background: transparent url(../img/blog/mouth_quote.png) no-repeat left top;
-  margin: 10px 20px 10px 0px;
-  padding: 5px 0px 0px 80px;
+  border-left: none;
+  background: transparent url(../img/blog/pen.png) no-repeat left top;
+  background-size: 64px 64px;
+  margin: 10px 10px;
+  padding: 5px 0px 0px 70px;
   font-style: italic;
   text-align:justify;
-  min-height: 75px;
+  min-height: 70px;
 }
 
 blockquote.twitter-tweet{
-  background: transparent url(../img/blog/tweet-icon.png) no-repeat left top;
+  background: transparent url(../img/blog/logo_twitter.png) no-repeat left top;
+  background-size: 64px 46px;
+}
+
+blockquote.twitter-tweet p{
+  margin: 10px 10px;
 }
 
 .excerpt {
@@ -24,6 +31,17 @@ blockquote.twitter-tweet{
   font-style: italic;
   color: #555555;
   text-align:justify;
+  min-height: 200px;
+}
+
+.recommendation {
+  background: transparent url(../img/blog/up_hand.png) no-repeat left top;
+  background-size: 64px 64px;
+  margin: 10px 10px;
+  padding: 5px 0px 0px 70px;
+  font-style: italic;
+  text-align:justify;
+  min-height: 70px;
 }
 
 .image {
