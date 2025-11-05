@@ -3,10 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://luiyo.net/blog/</loc>
-    <lastmod>2023-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/categories/</loc>
-    <lastmod>2023-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -19,16 +19,16 @@
                 />
   </url><url>
     <loc>https://luiyo.net/tags/history/</loc>
-    <lastmod>2023-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/tags/holidays/</loc>
-    <lastmod>2023-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luiyo.net/blog/2023/10/japon-5-himeji-hiroshima-miyajima/</loc>
-    <lastmod>2023-10-28T00:00:00+00:00</lastmod>
+    <loc>https://luiyo.net/blog/2023/11/japon-6-monte-fuji-yokohama/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/</loc>
-    <lastmod>2023-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -41,13 +41,13 @@
                 />
   </url><url>
     <loc>https://luiyo.net/tags/personal/</loc>
-    <lastmod>2023-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/categories/post/</loc>
-    <lastmod>2023-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/tags/</loc>
-    <lastmod>2023-10-28T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -60,6 +60,9 @@
                 />
   </url><url>
     <loc>https://luiyo.net/tags/tourism/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luiyo.net/blog/2023/10/japon-5-himeji-hiroshima-miyajima/</loc>
     <lastmod>2023-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2023/10/japon-4-osaka-nara/</loc>
