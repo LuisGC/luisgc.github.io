@@ -17,15 +17,6 @@
     </item>
     
     <item>
-      <title>holidays</title>
-      <link>https://luiyo.net/tags/holidays/</link>
-      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/holidays/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>personal</title>
       <link>https://luiyo.net/tags/personal/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
@@ -71,15 +62,6 @@
     </item>
     
     <item>
-      <title>computer-science</title>
-      <link>https://luiyo.net/tags/computer-science/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/computer-science/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>event</title>
       <link>https://luiyo.net/tags/event/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
@@ -89,38 +71,11 @@
     </item>
     
     <item>
-      <title>internet</title>
-      <link>https://luiyo.net/tags/internet/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/internet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>linux</title>
-      <link>https://luiyo.net/tags/linux/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>open-source</title>
       <link>https://luiyo.net/tags/open-source/</link>
       <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/tags/open-source/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>https://luiyo.net/tags/programming/</link>
-      <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/programming/</guid>
       <description></description>
     </item>
     
@@ -139,24 +94,6 @@
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/tags/games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>retrospective</title>
-      <link>https://luiyo.net/tags/retrospective/</link>
-      <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/retrospective/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>art</title>
-      <link>https://luiyo.net/tags/art/</link>
-      <pubDate>Sun, 18 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/art/</guid>
       <description></description>
     </item>
     
@@ -242,15 +179,6 @@
     </item>
     
     <item>
-      <title>health</title>
-      <link>https://luiyo.net/tags/health/</link>
-      <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>news</title>
       <link>https://luiyo.net/tags/news/</link>
       <pubDate>Tue, 10 Dec 2013 00:00:00 +0000</pubDate>
@@ -278,33 +206,6 @@
     </item>
     
     <item>
-      <title>television</title>
-      <link>https://luiyo.net/tags/television/</link>
-      <pubDate>Fri, 26 Apr 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/television/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>magic</title>
-      <link>https://luiyo.net/tags/magic/</link>
-      <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/magic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>podcast</title>
-      <link>https://luiyo.net/tags/podcast/</link>
-      <pubDate>Sun, 20 Jan 2013 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/podcast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>video</title>
       <link>https://luiyo.net/tags/video/</link>
       <pubDate>Thu, 28 Jun 2012 00:00:00 +0000</pubDate>
@@ -323,24 +224,6 @@
     </item>
     
     <item>
-      <title>music</title>
-      <link>https://luiyo.net/tags/music/</link>
-      <pubDate>Mon, 16 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/music/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>comics</title>
-      <link>https://luiyo.net/tags/comics/</link>
-      <pubDate>Thu, 12 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/comics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>cinema</title>
       <link>https://luiyo.net/tags/cinema/</link>
       <pubDate>Mon, 19 Mar 2012 00:00:00 +0000</pubDate>
@@ -350,47 +233,11 @@
     </item>
     
     <item>
-      <title>humour</title>
-      <link>https://luiyo.net/tags/humour/</link>
-      <pubDate>Thu, 09 Feb 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/humour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>maps</title>
-      <link>https://luiyo.net/tags/maps/</link>
-      <pubDate>Tue, 03 Jan 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/maps/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>curious</title>
-      <link>https://luiyo.net/tags/curious/</link>
-      <pubDate>Fri, 11 Nov 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/curious/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>theater</title>
       <link>https://luiyo.net/tags/theater/</link>
       <pubDate>Sat, 14 May 2011 00:00:00 +0000</pubDate>
       
       <guid>https://luiyo.net/tags/theater/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>star-trek</title>
-      <link>https://luiyo.net/tags/star-trek/</link>
-      <pubDate>Mon, 07 Mar 2011 00:00:00 +0000</pubDate>
-      
-      <guid>https://luiyo.net/tags/star-trek/</guid>
       <description></description>
     </item>
     
