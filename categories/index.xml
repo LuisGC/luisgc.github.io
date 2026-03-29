@@ -12,10 +12,10 @@
             <guid>https://luiyo.net/categories/travel/</guid>
             <description></description>
         </item><item>
-            <title>Post</title>
-            <link>https://luiyo.net/categories/post/</link>
+            <title>Random</title>
+            <link>https://luiyo.net/categories/random/</link>
             <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-            <guid>https://luiyo.net/categories/post/</guid>
+            <guid>https://luiyo.net/categories/random/</guid>
             <description></description>
         </item><item>
             <title>Tech</title>
@@ -30,6 +30,12 @@
             <guid>https://luiyo.net/categories/gaming/</guid>
             <description></description>
         </item><item>
+            <title>Post</title>
+            <link>https://luiyo.net/categories/post/</link>
+            <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+            <guid>https://luiyo.net/categories/post/</guid>
+            <description></description>
+        </item><item>
             <title>Page</title>
             <link>https://luiyo.net/categories/page/</link>
             <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
@@ -42,15 +48,9 @@
             <guid>https://luiyo.net/categories/science/</guid>
             <description></description>
         </item><item>
-            <title>Random</title>
-            <link>https://luiyo.net/categories/random/</link>
-            <pubDate>Fri, 26 Apr 2013 00:00:00 +0000</pubDate>
-            <guid>https://luiyo.net/categories/random/</guid>
-            <description></description>
-        </item><item>
             <title>Review</title>
             <link>https://luiyo.net/categories/review/</link>
-            <pubDate>Mon, 25 Oct 2004 00:00:00 +0000</pubDate>
+            <pubDate>Sat, 20 Nov 2010 00:00:00 +0000</pubDate>
             <guid>https://luiyo.net/categories/review/</guid>
             <description></description>
         </item></channel>

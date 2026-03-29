@@ -56,7 +56,7 @@
     <loc>https://luiyo.net/blog/2021/03/my-year-2020-in-books/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luiyo.net/categories/post/</loc>
+    <loc>https://luiyo.net/categories/random/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/tags/review/</loc>
@@ -93,6 +93,9 @@
     <lastmod>2020-02-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2020/01/my-year-2019-in-games/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luiyo.net/categories/post/</loc>
     <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2020/01/my-year-2019-in-books/</loc>
@@ -303,9 +306,6 @@
     <lastmod>2013-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2013/04/escepticos-en-el-pub-madrid-mayo-2013/</loc>
-    <lastmod>2013-04-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luiyo.net/categories/random/</loc>
     <lastmod>2013-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2013/04/respuesta-decepcionante-de-la-defensora/</loc>
@@ -602,6 +602,9 @@
     <loc>https://luiyo.net/blog/2010/11/my-own-kind-of-freedom-de-steven-brust/</loc>
     <lastmod>2010-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://luiyo.net/categories/review/</loc>
+    <lastmod>2010-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://luiyo.net/blog/2010/11/la-ciencia-salvo-mi-alma/</loc>
     <lastmod>2010-11-19T00:00:00+00:00</lastmod>
   </url><url>
@@ -665,9 +668,6 @@
     <loc>https://luiyo.net/blog/2007/02/alatriste/</loc>
     <lastmod>2007-02-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luiyo.net/blog/2006/11/error-con-automata/</loc>
-    <lastmod>2006-11-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://luiyo.net/blog/2006/11/condenados-de-pitcairn-iran-prision/</loc>
     <lastmod>2006-11-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -679,12 +679,6 @@
   </url><url>
     <loc>https://luiyo.net/blog/2006/09/llego-la-fonera/</loc>
     <lastmod>2006-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luiyo.net/blog/2006/09/el-mundo-en-color/</loc>
-    <lastmod>2006-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luiyo.net/blog/2006/06/libros-2006/</loc>
-    <lastmod>2006-06-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2006/05/el-mito-de-superman/</loc>
     <lastmod>2006-05-24T00:00:00+00:00</lastmod>
@@ -703,9 +697,6 @@
   </url><url>
     <loc>https://luiyo.net/blog/2005/10/en-casa-de-nuevo/</loc>
     <lastmod>2005-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luiyo.net/blog/2005/10/aniversario/</loc>
-    <lastmod>2005-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2005/08/veinte-mil-leguas-de-viaje-submarino/</loc>
     <lastmod>2005-08-31T00:00:00+00:00</lastmod>
@@ -744,12 +735,6 @@
     <lastmod>2005-05-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2005/05/la-isla-del-tesoro/</loc>
-    <lastmod>2005-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luiyo.net/blog/2005/05/libros-2005/</loc>
-    <lastmod>2005-05-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luiyo.net/blog/2005/05/sea-code/</loc>
     <lastmod>2005-05-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2005/05/el-astrologo-fingido/</loc>
@@ -864,9 +849,6 @@
     <lastmod>2004-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2004/10/big-fish/</loc>
-    <lastmod>2004-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luiyo.net/categories/review/</loc>
     <lastmod>2004-10-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2004/10/el-mito-de-bourne/</loc>
