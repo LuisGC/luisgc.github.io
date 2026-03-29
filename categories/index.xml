@@ -6,16 +6,52 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://luiyo.net/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Travel</title>
+            <link>https://luiyo.net/categories/travel/</link>
+            <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+            <guid>https://luiyo.net/categories/travel/</guid>
+            <description></description>
+        </item><item>
             <title>Post</title>
             <link>https://luiyo.net/categories/post/</link>
-            <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
+            <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
             <guid>https://luiyo.net/categories/post/</guid>
+            <description></description>
+        </item><item>
+            <title>Tech</title>
+            <link>https://luiyo.net/categories/tech/</link>
+            <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+            <guid>https://luiyo.net/categories/tech/</guid>
+            <description></description>
+        </item><item>
+            <title>Gaming</title>
+            <link>https://luiyo.net/categories/gaming/</link>
+            <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
+            <guid>https://luiyo.net/categories/gaming/</guid>
             <description></description>
         </item><item>
             <title>Page</title>
             <link>https://luiyo.net/categories/page/</link>
             <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
             <guid>https://luiyo.net/categories/page/</guid>
+            <description></description>
+        </item><item>
+            <title>Science</title>
+            <link>https://luiyo.net/categories/science/</link>
+            <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
+            <guid>https://luiyo.net/categories/science/</guid>
+            <description></description>
+        </item><item>
+            <title>Random</title>
+            <link>https://luiyo.net/categories/random/</link>
+            <pubDate>Fri, 26 Apr 2013 00:00:00 +0000</pubDate>
+            <guid>https://luiyo.net/categories/random/</guid>
+            <description></description>
+        </item><item>
+            <title>Review</title>
+            <link>https://luiyo.net/categories/review/</link>
+            <pubDate>Sun, 28 Mar 2004 00:00:00 +0000</pubDate>
+            <guid>https://luiyo.net/categories/review/</guid>
             <description></description>
         </item></channel>
 </rss>

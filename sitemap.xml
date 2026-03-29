@@ -20,13 +20,13 @@
     <loc>https://luiyo.net/tags/personal/</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luiyo.net/categories/post/</loc>
-    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://luiyo.net/tags/</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/tags/tourism/</loc>
+    <lastmod>2023-11-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luiyo.net/categories/travel/</loc>
     <lastmod>2023-11-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2023/11/japon-6-monte-fuji-yokohama/</loc>
@@ -56,6 +56,9 @@
     <loc>https://luiyo.net/blog/2021/03/my-year-2020-in-books/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://luiyo.net/categories/post/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://luiyo.net/tags/review/</loc>
     <lastmod>2021-03-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -68,10 +71,16 @@
     <loc>https://luiyo.net/tags/open-source/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://luiyo.net/categories/tech/</loc>
+    <lastmod>2021-02-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://luiyo.net/tags/technology/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/tags/games/</loc>
+    <lastmod>2021-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luiyo.net/categories/gaming/</loc>
     <lastmod>2021-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2021/01/my-year-2020-in-games/</loc>
@@ -168,6 +177,9 @@
     <lastmod>2017-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/tags/outreach/</loc>
+    <lastmod>2017-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luiyo.net/categories/science/</loc>
     <lastmod>2017-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/tags/science/</loc>
@@ -291,6 +303,9 @@
     <lastmod>2013-05-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2013/04/escepticos-en-el-pub-madrid-mayo-2013/</loc>
+    <lastmod>2013-04-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luiyo.net/categories/random/</loc>
     <lastmod>2013-04-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2013/04/respuesta-decepcionante-de-la-defensora/</loc>
@@ -572,7 +587,7 @@
     <loc>https://luiyo.net/blog/2011/01/escepticos-en-el-pub-febrero-2011/</loc>
     <lastmod>2011-01-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luiyo.net/blog/2011/01/me-sumo-la-camapana-1023/</loc>
+    <loc>https://luiyo.net/blog/2011/01/me-sumo-la-campana-1023/</loc>
     <lastmod>2011-01-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2011/01/escepticos-ahora-en-television/</loc>
@@ -812,9 +827,6 @@
     <loc>https://luiyo.net/blog/2004/12/babylon-5-en-la-pantalla-grande/</loc>
     <lastmod>2004-12-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luiyo.net/blog/2004/12/otro-vehiculo-de-mobilidad-personal/</loc>
-    <lastmod>2004-12-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://luiyo.net/blog/2004/12/nuevos-robots-de-toyota/</loc>
     <lastmod>2004-12-03T00:00:00+00:00</lastmod>
   </url><url>
@@ -908,15 +920,6 @@
     <loc>https://luiyo.net/blog/2004/08/linux-cumple-13-anos/</loc>
     <lastmod>2004-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://luiyo.net/blog/2004/08/la-historia-se-termino/</loc>
-    <lastmod>2004-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luiyo.net/blog/2004/08/fahrenheit-911/</loc>
-    <lastmod>2004-08-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://luiyo.net/blog/2004/08/el-peso-de-la-justicia/</loc>
-    <lastmod>2004-08-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://luiyo.net/blog/2004/05/apuntes-breves-para-un-fin-de-semana/</loc>
     <lastmod>2004-05-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -927,6 +930,9 @@
     <lastmod>2004-04-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/blog/2004/03/el-esperado-comentario-de-cats/</loc>
+    <lastmod>2004-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://luiyo.net/categories/review/</loc>
     <lastmod>2004-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://luiyo.net/page/about/</loc>
