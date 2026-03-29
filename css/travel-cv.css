@@ -9,52 +9,53 @@
   }
 }
 
-.content div#travel-cv-map {
+.article-content div#travel-cv-map {
   height: 500px;
   width: 100%;
 }
 
-.content h2 {
+.article-content h3 {
   font: 400 40px/1.5 "Raleway", Helvetica, sans-serif;
   margin: 0.5em 0;
   padding: 0;
+  border-inline-start: none;
 }
 
-.content ul {
+.article-content ul {
   list-style-type: none;
   margin: 0 !important;
   padding: 0;
 }
 
-.content li {
+.article-content li {
   font: 200 20px/1.5 "Raleway", Helvetica, sans-serif;
   border-bottom: 1px solid #ccc;
 }
 
-.content li:last-child {
+.article-content li:last-child {
   border: none;
 }
 
-.content li:hover {
+.article-content li:hover {
   background: #f6f6f6;
 }
 
-.content li span {
+.article-content li span {
   font-style: italic;
   position: absolute;
 }
 
-.content li p {
+.article-content li p {
   padding-left: 90px;
   margin: 0 !important;
 }
 
-.content ul li ul {
+.article-content ul li ul {
   margin: 0 !important;
   padding-left: 90px;
 }
 
-.content ul li ul li {
+.article-content ul li ul li {
   font: 200 15px/1.5 "Raleway", Helvetica, sans-serif;
   padding-left: initial;
 }

@@ -1,269 +1,457 @@
-<!doctype html>
-<html lang="en">
-  <head>
-  <meta charset="utf-8">
-<title>ING Security Summer Camp 2017 - Luiyología</title>
-<meta name="description" content="The Science that studies my interests and concerns">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<meta name="twitter:card" content="summary_large_image">
-
-<meta property="og:site_name" content="Luiyología">
-<meta property="og:title" content="ING Security Summer Camp 2017">
-<meta property="og:description" content="The Science that studies my interests and concerns">
-<meta property="og:type" content="article">
-<meta property="og:url" content="https://luiyo.net/blog/2017/07/ing-security-summer-camp-2017/">
-    <meta property="og:image" content="https://live.staticflickr.com/65535/48610763241_2c5618d6a9_o.png">
-    <meta property="og:image:alt" content="Map status of the ING CTF competition with less than 22h left">
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="Last week I had the huge pleasure to participate in a week-long Security Summer Camp organized by the Information Security department of ING Spain. The agenda was very promising and implied some theory and lots of practice, ending with an Escape the Room game and a 2,5 days long Capture The Flag hacking competition. Several speakers from the Infosec Squad prepared talks and workshops about different topics, focusing on Ethical Hacking, secure development, server hardening or OSINT.\n">
+<title>ING Security Summer Camp 2017</title>
 
 
-  <link rel="shortcut icon" href="/favicon.ico?v=1">
+<link rel="canonical" href="https://luiyo.net/blog/2017/07/ing-security-summer-camp-2017/">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
 
 
-  <meta name="generator" content="Hugo 0.99.1" />
-  
-            <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/styles/github.min.css">
-          <link rel="stylesheet" href="/css/bundle.min.3b1b5f2e683d24b1ea3b5a08c8254622e40aa935e0ead75ba6d45c0f14c2f965.css" integrity="sha256-OxtfLmg9JLHqO1oIyCVGIuQKqTXg6tdbptRcDxTC&#43;WU="><link rel="stylesheet" href="/css/add-on.css">
-        <link rel="stylesheet" href="/css/luiyologia.css">
-</head>
+<link rel="stylesheet" href="/scss/style.min.ea2100d3cbdfa819f7137d1b01bad196a48840bab4b664ff5c2e90db8a539c72.css"><meta property='og:title' content="ING Security Summer Camp 2017">
+<meta property='og:description' content="Last week I had the huge pleasure to participate in a week-long Security Summer Camp organized by the Information Security department of ING Spain. The agenda was very promising and implied some theory and lots of practice, ending with an Escape the Room game and a 2,5 days long Capture The Flag hacking competition. Several speakers from the Infosec Squad prepared talks and workshops about different topics, focusing on Ethical Hacking, secure development, server hardening or OSINT.\n">
+<meta property='og:url' content='https://luiyo.net/blog/2017/07/ing-security-summer-camp-2017/'>
+<meta property='og:site_name' content='Luiyología'>
+<meta property='og:type' content='article'><meta property='article:section' content='Blog' /><meta property='article:tag' content='personal' /><meta property='article:tag' content='technology' /><meta property='article:tag' content='culture' /><meta property='article:published_time' content='2017-07-26T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2017-07-26T00:00:00&#43;00:00'/><meta property='og:image' content='https://luiyo.net/' />
+<meta name="twitter:title" content="ING Security Summer Camp 2017">
+<meta name="twitter:description" content="Last week I had the huge pleasure to participate in a week-long Security Summer Camp organized by the Information Security department of ING Spain. The agenda was very promising and implied some theory and lots of practice, ending with an Escape the Room game and a 2,5 days long Capture The Flag hacking competition. Several speakers from the Infosec Squad prepared talks and workshops about different topics, focusing on Ethical Hacking, secure development, server hardening or OSINT.\n"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://luiyo.net/' />
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
 
-  <body>
-    
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
 
-<header id="site-header">
-  <nav id="site-nav">
-    <h1 class="nav-title">
-      <a href="/" class="nav">
-        
-          Blog
-        
-      </a>
-    </h1>
-    <menu id="site-nav-menu" class="flyout-menu menu">
-      
-        
-          
-          <a href="/" class="nav link"><i class='fa fa-home'></i> Home</a>
-        
-      
-        
-          
-          <a href="/about/" class="nav link"><i class='far fa-id-card'></i> About</a>
-        
-      
-        
-          
-          <a href="/blog/" class="nav link"><i class='far fa-newspaper'></i> Blog</a>
-        
-      
-        
-          
-          <a href="/tags/" class="nav link"><i class='fas fa-tags'></i> Tags</a>
-        
-      
-        
-          
-          <a href="/travel-cv/" class="nav link"><i class='fas fa-globe-europe'></i> Travel CV</a>
-        
-      
-        
-          
-          <a href="/talks/" class="nav link"><i class='fas fa-microphone'></i> Talks</a>
-        
-      
-        
-          
-          <a href="/feed.xml" class="nav link"><i class='fas fa-rss'></i> RSS</a>
-        
-      
-      <a href="#share-menu" class="nav link share-toggle"><i class="fas fa-share-alt">&nbsp;</i>Share</a>
-      <a href="#search-input" class="nav link search-toggle"><i class="fas fa-search">&nbsp;</i>Search</a>
-    </menu>
-    <a href="#search-input" class="nav search-toggle"><i class="fas fa-search fa-2x">&nbsp;</i></a>
-    <a href="#share-menu" class="nav share-toggle"><i class="fas fa-share-alt fa-2x">&nbsp;</i></a>
-    
-    <a href="#site-nav" class="nav nav-toggle"><i class="fas fa-bars fa-2x"></i></a>
-  </nav>
-  <menu id="search" class="menu"><input id="search-input" class="search-input menu"></input><div id="search-results" class="search-results menu"></div></menu>
-  
-  
-    <menu id="share-menu" class="flyout-menu menu">
-      <h1>Share Post</h1>
-      
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
 
+    <header>
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">Luiyología</a></h1>
+            <h2 class="site-description">The Science that studies my interests and concerns</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='mailto:luiyologia@gmail.com'
+                        target="_blank"
+                        title="email"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-mail"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 7a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-10" /><path d="M3 7l9 6l9 -6" /></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://github.com/luisgc'
+                        target="_blank"
+                        title="Github"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
 
 
 
-  
-    <a href="//www.reddit.com/submit?url=https%3a%2f%2fluiyo.net%2fblog%2f2017%2f07%2fing-security-summer-camp-2017%2f&amp;title=ING%20Security%20Summer%20Camp%202017" target="_blank" rel="noopener" class="nav share-btn reddit">
-          <p>Reddit</p>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://www.linkedin.com/in/luisgc'
+                        target="_blank"
+                        title="LinkedIn"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-brand-linkedin"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 11v5" /><path d="M8 8v.01" /><path d="M12 16v-5" /><path d="M16 16v-3a2 2 0 1 0 -4 0" /><path d="M3 7a4 4 0 0 1 4 -4h10a4 4 0 0 1 4 4v10a4 4 0 0 1 -4 4h-10a4 4 0 0 1 -4 -4l0 -10" /></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://slideshare.com/LuisGarcaCastro'
+                        target="_blank"
+                        title="SlideShare"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-presentation-analytics"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 12v-4" /><path d="M15 12v-2" /><path d="M12 12v-1" /><path d="M3 4h18" /><path d="M4 4v10a2 2 0 0 0 2 2h12a2 2 0 0 0 2 -2v-10" /><path d="M12 16v4" /><path d="M9 20h6" /></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://youtube.com/@LuisGC_'
+                        target="_blank"
+                        title="YouTube"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-brand-youtube"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M2 8a4 4 0 0 1 4 -4h12a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-12a4 4 0 0 1 -4 -4v-8" /><path d="M10 9l5 3l-5 3l0 -6" /></svg>
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/page/about/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About the author</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/travel-cv/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-world"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 12a9 9 0 1 0 18 0a9 9 0 0 0 -18 0" /><path d="M3.6 9h16.8" /><path d="M3.6 15h16.8" /><path d="M11.5 3a17 17 0 0 0 0 18" /><path d="M12.5 3a17 17 0 0 1 0 18" /></svg>
+                
+                <span>My Curriculum Vitae as a traveler</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/talks/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-speakerphone"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M18 8a3 3 0 0 1 0 6" /><path d="M10 8v11a1 1 0 0 1 -1 1h-1a1 1 0 0 1 -1 -1v-5" /><path d="M12 8l4.524 -3.77a.9 .9 0 0 1 1.476 .692v12.156a.9 .9 0 0 1 -1.476 .692l-4.524 -3.77h-8a1 1 0 0 1 -1 -1v-4a1 1 0 0 1 1 -1h8" /></svg>
+                
+                <span>Main public talks</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/page/search/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/tags/' >
+                
+                <span>Tags</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/feed.xml' >
+                
+                <span>RSS</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>Dark Mode</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav class="toc-nav" id="TableOfContents">
+                
+  <ul>
+    <li><a href="#sleeping-with-the-enemy-ethical-hacking-workshop">Sleeping with the Enemy: Ethical Hacking workshop</a></li>
+    <li><a href="#server-hardening">Server hardening</a></li>
+    <li><a href="#secure-development">Secure development</a></li>
+    <li><a href="#osint-dont-be-part-of-it">OSINT, don&rsquo;t be part of it</a></li>
+  </ul>
+
+            </nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+    <div class="article-image">
+        <a href="/blog/2017/07/ing-security-summer-camp-2017/">
+            <img alt="Featured image of post ING Security Summer Camp 2017" height="925" loading="lazy" sizes="(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px" src="/48610763241_2c5618d6a9_o_13958587864089417589.png" srcset="/48610763241_2c5618d6a9_o_13958587864089417589_hu_876eedc3a9bad979.png 800w, /48610763241_2c5618d6a9_o_13958587864089417589_hu_a090fcd4d9c9cf45.png 1600w, /48610763241_2c5618d6a9_o_13958587864089417589.png 1920w" width="1920">
         </a>
-  
-
-  
-        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fluiyo.net%2fblog%2f2017%2f07%2fing-security-summer-camp-2017%2f&amp;title=ING%20Security%20Summer%20Camp%202017" target="_blank" rel="noopener" class="nav share-btn linkedin">
-            <p>LinkedIn</p>
-          </a>
-  
-
-  
-        <a href="mailto:?subject=Check%20out%20this%20post%20by LuisGC&amp;body=https%3a%2f%2fluiyo.net%2fblog%2f2017%2f07%2fing-security-summer-camp-2017%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
-          <p>Email</p>
-        </a>
-  
-
-
-    </menu>
-  
-</header>
-
-    <div id="wrapper">
-      <section id="site-intro" >
-  <a href="/"><img src="/img/main/Luiyologia-twitterlogo.png" width="300" alt="Luiyología" /></a>
-  <header>
+    </div>
     
-  </header>
-  <main>
-    <p>The Science that studies my interests and concerns</p>
-  </main>
-  
-    <footer>
-      <ul class="socnet-icons">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            
+            
+            
+            <a href="/categories/post/" style="background-color: hsl(327, 60%, 84%); color: hsl(327, 60%, 15%);">
+                Post
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/blog/2017/07/ing-security-summer-camp-2017/">ING Security Summer Camp 2017</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    
+    
+    
+    <footer class="article-meta">
+        
+            <div class="inline-meta">
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                    <time class="article-time--published" datetime='2017-07-26T00:00:00Z'>Wednesday, July 26, 2017</time>
+                
+
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                    <time class="article-time--reading">
+                        6 minutes read
+                    </time>
+                
+            </div>
         
 
-        <li><a href="//github.com/luisgc" target="_blank" rel="noopener" title="GitHub" class="fab fa-github"></a></li>
+        
 
-
-
-
-
-
-<li><a href="//flickr.com/photos/luiyo" target="_blank" rel="noopener" title="Flickr" class="fab fa-flickr"></a></li>
-
-
-
-
-<li><a href="//www.linkedin.com/in/luisgc" target="_blank" rel="noopener" title="LinkedIn" class="fab fa-linkedin"></a></li>
-
-
-
-<li><a href="//slideshare.com/LuisGarcaCastro" target="_blank" rel="noopener" title="SlideShare" class="fab fa-slideshare"></a></li>
-
-<li><a href="//reddit.com/user/Luiyo" target="_blank" rel="noopener" title="Reddit" class="fab fa-reddit"></a></li>
-
-<li><a href="//youtube.com/@LuisGC_" target="_blank" rel="noopener" title="YouTube" class="fab fa-youtube"></a></li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li><a href="mailto:luiyologia@gmail.com" target="_blank" title="Email" class="far fa-envelope"></a></li>
-
-      </ul>
+        
     </footer>
-  
-</section>
+    
+</div>
 
-      <main id="site-main">
-        
-  <article>
-    <div class="post">
-      <header>
-  <div class="title">
-    
-      <h2><a href="/blog/2017/07/ing-security-summer-camp-2017/">ING Security Summer Camp 2017</a></h2>
-    
-    
-  </div>
-  <div class="meta">
-    <time datetime="2017-07-26 00:00:00 &#43;0000 UTC">July 26, 2017</time>
-    <p>LuisGC</p>
-    <p>6-Minute Read</p>
-  </div>
 </header>
 
-      <div id="socnet-share">
-        
+    
+    <aside class="article-toc">
+        <details>
+            <summary>
+                <div class="article-toc-title">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon icon-tabler icons-tabler-outline icon-tabler-chevron-right"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M9 6l6 6l-6 6" /></svg>
+                    <span>Table of contents</span>
+                </div>
+            </summary>
+            <nav class="toc-nav">
+                
+  <ul>
+    <li><a href="#sleeping-with-the-enemy-ethical-hacking-workshop">Sleeping with the Enemy: Ethical Hacking workshop</a></li>
+    <li><a href="#server-hardening">Server hardening</a></li>
+    <li><a href="#secure-development">Secure development</a></li>
+    <li><a href="#osint-dont-be-part-of-it">OSINT, don&rsquo;t be part of it</a></li>
+  </ul>
 
+            </nav>
+        </details>
+    </aside>
+    
 
-
-
-  
-    <a href="//www.reddit.com/submit?url=https%3a%2f%2fluiyo.net%2fblog%2f2017%2f07%2fing-security-summer-camp-2017%2f&amp;title=ING%20Security%20Summer%20Camp%202017" target="_blank" rel="noopener" class="nav share-btn reddit">
-          <p>Reddit</p>
-        </a>
-  
-
-  
-        <a href="//www.linkedin.com/shareArticle?url=https%3a%2f%2fluiyo.net%2fblog%2f2017%2f07%2fing-security-summer-camp-2017%2f&amp;title=ING%20Security%20Summer%20Camp%202017" target="_blank" rel="noopener" class="nav share-btn linkedin">
-            <p>LinkedIn</p>
-          </a>
-  
-
-  
-        <a href="mailto:?subject=Check%20out%20this%20post%20by LuisGC&amp;body=https%3a%2f%2fluiyo.net%2fblog%2f2017%2f07%2fing-security-summer-camp-2017%2f" target="_blank" class="nav share-btn email" data-proofer-ignore>
-          <p>Email</p>
-        </a>
-  
-
-
-      </div>
-      <div class="content">
-        <a href="/blog/2017/07/ing-security-summer-camp-2017/" class="image">
-    <img src="https://live.staticflickr.com/65535/48610763241_2c5618d6a9_o.png" alt="Map status of the ING CTF competition with less than 22h left">
-  </a>
-        
-        <p>Last week I had the huge pleasure to participate in a week-long <strong>Security Summer Camp</strong> organized by the Information Security department of <a href="https://www.ing.es/"><strong>ING Spain</strong></a>. The agenda was very promising and implied some theory and lots of practice, ending with an <strong>Escape the Room</strong> game and a 2,5 days long <strong>Capture The Flag</strong> hacking competition. Several speakers from the Infosec Squad prepared talks and workshops about different topics, focusing on <a href="https://en.wikipedia.org/wiki/Hacker_ethic">Ethical Hacking</a>, secure development, <a href="http://www.linuxjournal.com/content/server-hardening">server hardening</a> or <a href="https://en.wikipedia.org/wiki/Open-source_intelligence">OSINT</a>.</p>
-<p>Everything was perfectly prepared and organized. I&rsquo;ll remark (as her colleagues also did) the invaluable effort of <strong>Martina Matarí</strong> (<a href="https://twitter.com/da3n3rys">@da3n3rys</a>) coordinating everything. She also prepared a talk, the Escape the Room and the CTF competition by herself. Thanks Martina and company, it was impressive!!</p>
+    <section class="article-content">
+    
+    
+    <p>Last week I had the huge pleasure to participate in a week-long <strong>Security Summer Camp</strong> organized by the Information Security department of <a class="link" href="https://www.ing.es/"  target="_blank" rel="noopener"
+    ><strong>ING Spain</strong></a>. The agenda was very promising and implied some theory and lots of practice, ending with an <strong>Escape the Room</strong> game and a 2,5 days long <strong>Capture The Flag</strong> hacking competition. Several speakers from the Infosec Squad prepared talks and workshops about different topics, focusing on <a class="link" href="https://en.wikipedia.org/wiki/Hacker_ethic"  target="_blank" rel="noopener"
+    >Ethical Hacking</a>, secure development, <a class="link" href="http://www.linuxjournal.com/content/server-hardening"  target="_blank" rel="noopener"
+    >server hardening</a> or <a class="link" href="https://en.wikipedia.org/wiki/Open-source_intelligence"  target="_blank" rel="noopener"
+    >OSINT</a>.</p>
+<p>Everything was perfectly prepared and organized. I&rsquo;ll remark (as her colleagues also did) the invaluable effort of <strong>Martina Matarí</strong> (<a class="link" href="https://twitter.com/da3n3rys"  target="_blank" rel="noopener"
+    >@da3n3rys</a>) coordinating everything. She also prepared a talk, the Escape the Room and the CTF competition by herself. Thanks Martina and company, it was impressive!!</p>
 <p>Let me also say that it&rsquo;s worthy of praise for a company like ING to allow and promote this kind of events, held mostly in working hours for more than 70-80 participants.</p>
-<h1 id="talks-and-workshops">Talks and Workshops</h1>
-<h3 id="sleeping-with-the-enemy-ethical-hacking-workshop">Sleeping with the Enemy: Ethical Hacking workshop</h3>
-<p><strong>Beatriz Portela</strong> (<a href="https://twitter.com/usr0000">@usr0000</a>) gave a series of workshops focusing on the most common and basic vectors of attack, learning what a vulnerability is and how to take advantage of it.</p>
-<h3 id="server-hardening">Server hardening</h3>
-<p><strong>Sergi Llorente</strong> explained how to protect a server from malicious attackers: <a href="https://en.wikipedia.org/wiki/Denial-of-service_attack">DDoS</a> prevention, firewall policies, optimal configurations, password and banning policies and even physical attacks prevention policies. Very complete, and ended with a contest asking all the audience to infiltrate a prepared virtual machine with a weak spot, retrieving the admin password and getting access to a console with admin rights on it.</p>
-<h3 id="secure-development">Secure development</h3>
-<p><strong>Daniel Medianero</strong> (<a href="https://twitter.com/dmedianero">@dmedianero</a>) prepared a good combination of theory and practice regarding bad smells and vulnerabilities in code, both in backend and frontend. He even prepared an online survey for the audience to vote if a given code snippet presented a vulnerability and of what kind. It was very educational and entertaining.</p>
-<p><strong>Vicente Carreras</strong> (<a href="https://twitter.com/vicentecarreras">@vicentecarreras</a>) checked if the attendees listened carefuly enough in Daniel&rsquo;s talks with a contest by teams.</p>
-<h3 id="osint-dont-be-part-of-it">OSINT, don&rsquo;t be part of it</h3>
-<p><strong>Martina Matarí</strong> (<a href="https://twitter.com/da3n3rys">@da3n3rys</a>) talked about <a href="https://en.wikipedia.org/wiki/Open-source_intelligence">Open Source Intelligence (OSINT)</a>, the danger it entails and what proactive methods exist to monitor it and specially to stop being a part of it.</p>
-<h1 id="escape-the-room">Escape the Room</h1>
-<p>Sadly I couldn&rsquo;t participate, but everyone said it was awesome. I&rsquo;ll just leave you with a glimpse:</p>
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Con esto, un bot de <a href="https://twitter.com/telegram?ref_src=twsrc%5Etfw">@telegram</a> y mucho ingenio se ha currado <a href="https://twitter.com/Da3n3rys?ref_src=twsrc%5Etfw">@da3n3rys</a> un pedazo de <a href="https://twitter.com/hashtag/ScapeRoom?src=hash&amp;ref_src=twsrc%5Etfw">#ScapeRoom</a> 🔦🔒🔑 <a href="https://t.co/HrM1ydDAmt">pic.twitter.com/HrM1ydDAmt</a></p>&mdash; 𝑩𝒆𝒂𝒕𝒓𝒊𝒛 🏴‍☠️ (@usr0000) <a href="https://twitter.com/usr0000/status/888418392318898176?ref_src=twsrc%5Etfw">July 21, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<h1 id="capture-the-flag">Capture The Flag</h1>
-<p>I was enrolled in the CTF since I signed up for the Summer Camp, but after a hard week with a lot of issues (work related and not) I wasn&rsquo;t sure if I was going to contribute properly to my team. All it took was for Martina to subtly insist and I forgot about the weariness and recovered my eagerness to participate. Anyway, I had plans to stay at home during the weekend.</p>
-<p>For those who don&rsquo;t know what a <a href="https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security">Capture The Flag</a> is (in this context), I&rsquo;ll copy the description from the <a href="https://ctftime.org/ctf-wtf/">cfttime.org</a> site:</p>
+<h1 id="talks-and-workshops">Talks and Workshops
+</h1><h2 id="sleeping-with-the-enemy-ethical-hacking-workshop">Sleeping with the Enemy: Ethical Hacking workshop
+</h2><p><strong>Beatriz Portela</strong> (<a class="link" href="https://twitter.com/usr0000"  target="_blank" rel="noopener"
+    >@usr0000</a>) gave a series of workshops focusing on the most common and basic vectors of attack, learning what a vulnerability is and how to take advantage of it.</p>
+<h2 id="server-hardening">Server hardening
+</h2><p><strong>Sergi Llorente</strong> explained how to protect a server from malicious attackers: <a class="link" href="https://en.wikipedia.org/wiki/Denial-of-service_attack"  target="_blank" rel="noopener"
+    >DDoS</a> prevention, firewall policies, optimal configurations, password and banning policies and even physical attacks prevention policies. Very complete, and ended with a contest asking all the audience to infiltrate a prepared virtual machine with a weak spot, retrieving the admin password and getting access to a console with admin rights on it.</p>
+<h2 id="secure-development">Secure development
+</h2><p><strong>Daniel Medianero</strong> (<a class="link" href="https://twitter.com/dmedianero"  target="_blank" rel="noopener"
+    >@dmedianero</a>) prepared a good combination of theory and practice regarding bad smells and vulnerabilities in code, both in backend and frontend. He even prepared an online survey for the audience to vote if a given code snippet presented a vulnerability and of what kind. It was very educational and entertaining.</p>
+<p><strong>Vicente Carreras</strong> (<a class="link" href="https://twitter.com/vicentecarreras"  target="_blank" rel="noopener"
+    >@vicentecarreras</a>) checked if the attendees listened carefuly enough in Daniel&rsquo;s talks with a contest by teams.</p>
+<h2 id="osint-dont-be-part-of-it">OSINT, don&rsquo;t be part of it
+</h2><p><strong>Martina Matarí</strong> (<a class="link" href="https://twitter.com/da3n3rys"  target="_blank" rel="noopener"
+    >@da3n3rys</a>) talked about <a class="link" href="https://en.wikipedia.org/wiki/Open-source_intelligence"  target="_blank" rel="noopener"
+    >Open Source Intelligence (OSINT)</a>, the danger it entails and what proactive methods exist to monitor it and specially to stop being a part of it.</p>
+<h1 id="escape-the-room">Escape the Room
+</h1><p>Sadly I couldn&rsquo;t participate, but everyone said it was awesome.</p>
+<h1 id="capture-the-flag">Capture The Flag
+</h1><p>I was enrolled in the CTF since I signed up for the Summer Camp, but after a hard week with a lot of issues (work related and not) I wasn&rsquo;t sure if I was going to contribute properly to my team. All it took was for Martina to subtly insist and I forgot about the weariness and recovered my eagerness to participate. Anyway, I had plans to stay at home during the weekend.</p>
+<p>For those who don&rsquo;t know what a <a class="link" href="https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security"  target="_blank" rel="noopener"
+    >Capture The Flag</a> is (in this context), I&rsquo;ll copy the description from the <a class="link" href="https://ctftime.org/ctf-wtf/"  target="_blank" rel="noopener"
+    >cfttime.org</a> site:</p>
 <blockquote>Capture the Flag (CTF) is a special kind of information security competitions. There are three common types of CTFs: Jeopardy, Attack-Defence and mixed.
 <p><strong>Jeopardy-style CTFs</strong> has a couple of questions (tasks) in range of categories. For example, Web, Forensic, Crypto, Binary or something else. Team can gain some points for every solved task. More points for more complicated tasks usually. The next task in chain can be opened only after some team solve previous task. Then the game time is over sum of points shows you a CTF winer. Famous example of such CTF is <a href="http://ctftime.org/ctf/1/">DEF CON CTF quals</a>.</p>
 <p>Well, <strong>attack-defence</strong> is another interesting kind of competitions. Here every team has own network (or only one host) with vulnarable services. Your team has time for patching your services and developing exploits usually. So, then organizers connects participants of competition and the wargame starts! You should protect own services for defence points and hack opponents for attack points. Historically this is a first type of CTFs, everybody knows about <a href="http://ctftime.org/ctf/2/">DEF CON CTF</a> - something like a World Cup of all other competitions.</p>
 <p>Mixed competitions may vary possible formats. It may be something like wargame with special time for task-based elements (like <a href="http://ctftime.org/ctf/5/">UCSB iCTF</a>).</p>
 <p>CTF games often touch on many other aspects of information security: <strong>cryptography</strong>, <strong>stego</strong>, <strong>binary analysis</strong>, <strong>reverse engeneering</strong>, <strong>mobile security</strong> and others. Good teams generally have strong skills and experience in all these issues.</p>
 </blockquote>
-<p>The participation on this competition was lower than for the rest of the Summer Camp, as expected taking place in the weekend. From my team (randomly selected from all participants) we were only two of us left. I didn&rsquo;t know my partner, but that didn&rsquo;t stop us from organizing ourselves quickly to start solving problems from the same Friday evening. From the beginning I discovered that my partner was a bright and hard working guy, and soon we understood each other very well (<a href="https://twitter.com/Jaume_Salas"><em><strong>Jaume</strong></em></a> <em>eres un crack</em>).</p>
+<p>The participation on this competition was lower than for the rest of the Summer Camp, as expected taking place in the weekend. From my team (randomly selected from all participants) we were only two of us left. I didn&rsquo;t know my partner, but that didn&rsquo;t stop us from organizing ourselves quickly to start solving problems from the same Friday evening. From the beginning I discovered that my partner was a bright and hard working guy, and soon we understood each other very well (<a class="link" href="https://twitter.com/Jaume_Salas"  target="_blank" rel="noopener"
+    ><em><strong>Jaume</strong></em></a> <em>eres un crack</em>).</p>
 <p>The challenge was a Jeopardy-style CTF and consisted on solving tasks with difficulties from 1 to 5 distributed in several categories. Each solved task represented a <em>conquered</em> country (as you can see in the map). Optionally, the first team to conquer a country gets more points than the rest. The categories where:</p>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Cryptography"><strong>Criptography</strong></a> - cryptography tests, from basic to advanced ones</li>
+<li><a class="link" href="https://en.wikipedia.org/wiki/Cryptography"  target="_blank" rel="noopener"
+    ><strong>Criptography</strong></a> - cryptography tests, from basic to advanced ones</li>
 <li><strong>Forensics</strong> - Forensic analysis from network logs, mobile images and other operating systems</li>
 <li><strong>Quiz</strong> - Questions about hacker culture</li>
 <li><strong>Reconnaissance</strong> - Searching for people, machines, websites or data starting only with small hints</li>
-<li><a href="https://en.wikipedia.org/wiki/Reverse_engineering"><strong>Reverse engineering</strong></a> - Cracking several kinds of files</li>
-<li><a href="https://en.wikipedia.org/wiki/Steganalysis"><strong>Steganography</strong></a> - Finding hidden messages in known file formats</li>
+<li><a class="link" href="https://en.wikipedia.org/wiki/Reverse_engineering"  target="_blank" rel="noopener"
+    ><strong>Reverse engineering</strong></a> - Cracking several kinds of files</li>
+<li><a class="link" href="https://en.wikipedia.org/wiki/Steganalysis"  target="_blank" rel="noopener"
+    ><strong>Steganography</strong></a> - Finding hidden messages in known file formats</li>
 <li><strong>Web Hacking</strong> - Putting into practice what was learned during the ethical hacking talks</li>
 </ul>
 <p>I won&rsquo;t spoil here any of the tasks, I&rsquo;ll only say that for a level 2 cryptography task I spent around 3-4 hours on Sunday. It took me several steps with different types of encryption (which you had to guess) to get the final result (with great relief and joy). There are a lot of examples in the Internet and for some of them you can even find the solution published by a participant.</p>
@@ -271,7 +459,25 @@
 <p>Here you have the Final Scoreboard. It can be observed that there was scoring activity during almost all the weekend, nights included. <strong>Kudos</strong> for all the participants :-)</p>
 <div class="image central">
   
-    <img src="https://live.staticflickr.com/65535/48610914222_10123e4556_o.jpg" alt="ING CTF 2017 - Final Scoreboard">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+      <img src="https://live.staticflickr.com/65535/48610914222_10123e4556_o.jpg" alt="ING CTF 2017 - Final Scoreboard">
+    
   
   <figcaption>
     ING CTF 2017 - Final Scoreboard
@@ -284,42 +490,105 @@
   </figcaption>
 </div>
 
-<p>The prize for the winners (I discovered it on Monday, I did not care during the contest) was a fabulous <a href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/"><strong>Raspberry Pi 3 Model B</strong></a> Pack. Now I have three different Raspi devices so <strong>I need ideas</strong>, I&rsquo;m taking advantage of one of them only :-)</p>
+<p>The prize for the winners (I discovered it on Monday, I did not care during the contest) was a fabulous <a class="link" href="https://www.raspberrypi.org/products/raspberry-pi-3-model-b/"  target="_blank" rel="noopener"
+    ><strong>Raspberry Pi 3 Model B</strong></a> Pack. Now I have three different Raspi devices so <strong>I need ideas</strong>, I&rsquo;m taking advantage of one of them only :-)</p>
 
-      </div>
-      <footer>
-        <div class="stats">
-  
-    <ul class="categories">
-      
-        
-          <li><a class="article-terms-link" href="/categories/post/">post</a></li>
-        
-      
-    </ul>
-  
-  
-    <ul class="tags">
-      
-        
-          <li><a class="article-terms-link" href="/tags/personal/">personal</a></li>
-        
-          <li><a class="article-terms-link" href="/tags/technology/">technology</a></li>
-        
-          <li><a class="article-terms-link" href="/tags/culture/">culture</a></li>
-        
-      
-    </ul>
-  
-</div>
+</section>
 
-      </footer>
-    </div>
+
+    <footer class="article-meta article-footer">
     
-      
-  <div class='post'>
+    <section class="article-tags">
+        
+            <a href="/tags/personal/">Personal</a>
+        
+            <a href="/tags/technology/">Technology</a>
+        
+            <a href="/tags/culture/">Culture</a>
+        
+    </section>
+
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside>
+    <h2 class="section-title">Related content</h2>
+    <div class="subsection-list">
+        <div class="article-list--tile">
+            
+                
+<article class="">
+    <a href="/blog/2016/03/fosdem-2016-sunday/">
+        
+
+        <div class="article-details">
+            <h2 class="article-title">FOSDEM 2016: Sunday</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="">
+    <a href="/blog/2016/03/fosdem-2016-saturday/">
+        
+
+        <div class="article-details">
+            <h2 class="article-title">FOSDEM 2016: Saturday</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="">
+    <a href="/blog/2016/03/fosdem-2016-friday/">
+        
+
+        <div class="article-details">
+            <h2 class="article-title">FOSDEM 2016: Friday</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="">
+    <a href="/blog/2013/01/guia-para-visitar-el-cern/">
+        
+
+        <div class="article-details">
+            <h2 class="article-title">Guía para visitar el CERN</h2>
+        </div>
+    </a>
+</article>
+            
+                
+<article class="">
+    <a href="/blog/2012/04/necss-2012-northeast-conference-on/">
+        
+
+        <div class="article-details">
+            <h2 class="article-title">NECSS 2012 - Northeast Conference on Science and Skepticism</h2>
+        </div>
+    </a>
+</article>
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+        <div class="disqus-container">
     <div id="disqus_thread"></div>
-<script type="application/javascript">
+<script>
     window.disqus_config = function () {
     
     
@@ -338,127 +607,80 @@
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-  </div>
+</div>
 
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
 
-
-    
-  </article>
-  <div class="pagination">
-    
-      <a href="/blog/2017/07/romantikstrasse-the-romantic-road_5/" class="button left"><span>Romantikstraße, the Romantic Road (5 of 5)</span></a>
-    
-    
-      <a href="/blog/2017/07/romantikstrasse-the-romantic-road_4/" class="button right"><span>Romantikstraße, the Romantic Road (4 of 5)</span></a>
-    
-  </div>
-
-      </main>
-      <section id="site-sidebar">
-  
-    <section id="recent-posts">
-      <header>
-        <h1>Recent Posts</h1>
-      </header>
-      
-      <article class="mini-post">
-          <a href="/blog/2023/10/japon-4-osaka-nara/" class="image">
-    <img src="https://i.imgur.com/B2Upcqp.jpeg" alt="Super Nintendo World">
-  </a>
-        <header>
-          <h2><a href="/blog/2023/10/japon-4-osaka-nara/">Japón (IV): Osaka, Universal Studios y Nara</a></h2>
-          <time class="published" datetime="2023-10-24 00:00:00 &#43;0000 UTC">October 24, 2023</time>
-        </header>
-      </article>
-      
-      <article class="mini-post">
-          <a href="/blog/2023/10/japon-3-kyoto/" class="image">
-    <img src="https://i.imgur.com/DGEfd31.jpg" alt="2023-10-19 Pabellón Dorado en Kinkaky-ji, Kyoto">
-  </a>
-        <header>
-          <h2><a href="/blog/2023/10/japon-3-kyoto/">Japón (III): Kyoto</a></h2>
-          <time class="published" datetime="2023-10-22 00:00:00 &#43;0000 UTC">October 22, 2023</time>
-        </header>
-      </article>
-      
-      <article class="mini-post">
-          <a href="/blog/2023/10/japon-2-nagoya-takayama/" class="image">
-    <img src="https://i.imgur.com/Z8CIvCf.jpg" alt="Palacio de Honmaru en el Castillo de Nagoya">
-  </a>
-        <header>
-          <h2><a href="/blog/2023/10/japon-2-nagoya-takayama/">Japón (II): Nagoya y Takayama</a></h2>
-          <time class="published" datetime="2023-10-16 00:00:00 &#43;0000 UTC">October 16, 2023</time>
-        </header>
-      </article>
-      
-      <article class="mini-post">
-          <a href="/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/" class="image">
-    <img src="https://i.imgur.com/NIVvatY.jpg" alt="Chema y Luiyo en Miyajima">
-  </a>
-        <header>
-          <h2><a href="/blog/2023/10/japon-1-paraiso-tradicion-modernidad-frikismo/">Japón (I): paraíso de la tradición, la modernidad y el frikismo</a></h2>
-          <time class="published" datetime="2023-10-11 00:00:00 &#43;0000 UTC">October 11, 2023</time>
-        </header>
-      </article>
-      
-      <article class="mini-post">
-          <a href="/blog/2021/03/my-year-2020-in-books/" class="image">
-    <img src="https://i.imgur.com/87EVYPL.jpg" alt="the cover of Instrumental, by James Rhodes">
-  </a>
-        <header>
-          <h2><a href="/blog/2021/03/my-year-2020-in-books/">My Year 2020 in Books</a></h2>
-          <time class="published" datetime="2021-03-01 00:00:00 &#43;0000 UTC">March 1, 2021</time>
-        </header>
-      </article>
-      
-      
-        <footer>
-          <a href="/blog/" class="button">See More</a>
-        </footer>
-      
-    </section>
-  
-
-  
-
-  
-    <section id="mini-bio">
-      <header>
-        <h1>About</h1>
-      </header>
-      <p>Ludopath, technopath, cinephile, skeptic and, by every definition, early adopter</p>
-      <footer>
-        <a href="/about" class="button">Learn More</a>
-      </footer>
-    </section>
-  
-</section>
-
-      <footer id="site-footer">
-  
-  <p class="copyright">
-    © 2023 Luiyología
-      <br>
-    Theme: <a href='https://github.com/pacollins/hugo-future-imperfect-slim' target='_blank' rel='noopener'>Hugo Future Imperfect Slim</a><br>A <a href='https://html5up.net/future-imperfect' target='_blank' rel='noopener'>HTML5 UP port</a> | Powered by <a href='https://gohugo.io/' title='0.99.1' target='_blank' rel='noopener'>Hugo</a>
-  </p>
-</footer>
-<a id="back-to-top" href="#" class="fas fa-arrow-up fa-2x"></a>
-
-      <script src="/js/highlight.js"></script>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/languages/html.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/languages/css.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/languages/js.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.6.0/languages/toml.min.js"></script>
-    <script>hljs.highlightAll();</script><script src="/js/bundle.min.ff902709c0a5095c9c9fb7e958b25390dd531de4593ff85a5d85455b2779c0ad.js" integrity="sha256-/5AnCcClCVycn7fpWLJTkN1THeRZP/haXYVFWyd5wK0="></script>
-    <script src="/js/add-on.js"></script>
-<script type="application/javascript">
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-	ga('create', 'UA-555064-1', 'auto');
-	
-	ga('send', 'pageview');
-}
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
 </script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
+    
 
-    </div>
-  </body>
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2003 - 
+        
+        2026 Luiyología
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="4.0.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+
+
+
+<script type="module">
+    import gallery from '\/ts\/gallery.js';
+
+    const articleContent = document.querySelector('.article-content');
+    const shouldLoad = articleContent && (articleContent.querySelectorAll('figure').length > 0 || articleContent.querySelectorAll('img.gallery-image').length > 0);
+    
+    if (shouldLoad) {
+        gallery(articleContent);
+
+        const PhotoSwipeLightbox = (await import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe-lightbox.esm.min.js")).default;
+        const styleHref = "https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.css";
+
+        const styleTag = document.createElement('link');
+        styleTag.rel = 'stylesheet';
+        styleTag.href = styleHref;
+        document.head.appendChild(styleTag);
+
+        const lightbox = new PhotoSwipeLightbox({
+            gallerySelector: '.article-content',
+            childSelector: 'figure a.image-link',
+            pswpModule: () => import("https:\/\/cdn.jsdelivr.net\/npm\/photoswipe@5.4.4\/dist\/photoswipe.esm.min.js")
+        });
+        lightbox.init();
+    }
+</script>
+    
+
+            </main>
+        </div>
+        
+<script type="text/javascript" src="/ts/main.acaf849f2b273f6a8368a58b001f336738d0c948d92e79b116467d0c7515f932.js" defer></script>
+
+
+    </body>
 </html>
