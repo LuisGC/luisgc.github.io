@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Luiyología</title>
-        <link>https://luiyo.net/blog/categories/</link>
+        <link>https://luiyo.net/categories/</link>
         <description>Recent content in Categories on Luiyología</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://luiyo.net/blog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://luiyo.net/categories/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Travel</title>
-            <link>https://luiyo.net/blog/categories/travel/</link>
+            <link>https://luiyo.net/categories/travel/</link>
             <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-            <guid>https://luiyo.net/blog/categories/travel/</guid>
+            <guid>https://luiyo.net/categories/travel/</guid>
             <description></description>
         </item><item>
             <title>Random</title>
-            <link>https://luiyo.net/blog/categories/random/</link>
+            <link>https://luiyo.net/categories/random/</link>
             <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-            <guid>https://luiyo.net/blog/categories/random/</guid>
+            <guid>https://luiyo.net/categories/random/</guid>
             <description></description>
         </item><item>
             <title>Tech</title>
-            <link>https://luiyo.net/blog/categories/tech/</link>
+            <link>https://luiyo.net/categories/tech/</link>
             <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-            <guid>https://luiyo.net/blog/categories/tech/</guid>
+            <guid>https://luiyo.net/categories/tech/</guid>
             <description></description>
         </item><item>
             <title>Games</title>
-            <link>https://luiyo.net/blog/categories/games/</link>
+            <link>https://luiyo.net/categories/games/</link>
             <pubDate>Sun, 10 Jan 2021 00:00:00 +0000</pubDate>
-            <guid>https://luiyo.net/blog/categories/games/</guid>
+            <guid>https://luiyo.net/categories/games/</guid>
             <description></description>
         </item><item>
             <title>Review</title>
-            <link>https://luiyo.net/blog/categories/review/</link>
+            <link>https://luiyo.net/categories/review/</link>
             <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-            <guid>https://luiyo.net/blog/categories/review/</guid>
+            <guid>https://luiyo.net/categories/review/</guid>
             <description></description>
         </item><item>
             <title>Page</title>
-            <link>https://luiyo.net/blog/categories/page/</link>
+            <link>https://luiyo.net/categories/page/</link>
             <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
-            <guid>https://luiyo.net/blog/categories/page/</guid>
+            <guid>https://luiyo.net/categories/page/</guid>
             <description></description>
         </item><item>
             <title>Science</title>
-            <link>https://luiyo.net/blog/categories/science/</link>
+            <link>https://luiyo.net/categories/science/</link>
             <pubDate>Sun, 24 Sep 2017 00:00:00 +0000</pubDate>
-            <guid>https://luiyo.net/blog/categories/science/</guid>
+            <guid>https://luiyo.net/categories/science/</guid>
             <description></description>
         </item></channel>
 </rss>
